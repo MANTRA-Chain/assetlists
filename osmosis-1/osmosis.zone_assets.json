@@ -289,7 +289,8 @@
       "categories": [
         "nft_protocol"
       ],
-      "_comment": "Stargaze $STARS"
+      "_comment": "Stargaze (Stargaze) $STARS.stars",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "chihuahua",
@@ -403,7 +404,8 @@
       "categories": [
         "social"
       ],
-      "_comment": "LikeCoin $LIKE"
+      "_comment": "LikeCoin $LIKE",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "impacthub",
@@ -452,7 +454,8 @@
       "categories": [
         "ai"
       ],
-      "_comment": "bostrom $BOOT"
+      "_comment": "bostrom $BOOT",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "comdex",
@@ -462,7 +465,8 @@
       "categories": [
         "rwa"
       ],
-      "_comment": "Comdex $CMDX"
+      "_comment": "Comdex $CMDX",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "cheqd",
@@ -545,7 +549,8 @@
       "categories": [
         "defi"
       ],
-      "_comment": "UX Chain $UMEE"
+      "_comment": "UX Chain $UMEE",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "gravitybridge",
@@ -619,7 +624,6 @@
       "base_denom": "umntl",
       "path": "transfer/channel-232/umntl",
       "osmosis_verified": true,
-      "osmosis_unstable": true,
       "osmosis_disabled": true,
       "tooltip_message": "IBC clients have expired. Transfers will be stuck in a pending state indefinitely until resolved by AssetMantle",
       "categories": [
@@ -1066,7 +1070,8 @@
       "categories": [
         "defi"
       ],
-      "_comment": "Kujira $KUJI"
+      "_comment": "Kujira $KUJI",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "tgrade",
@@ -1177,7 +1182,8 @@
       "categories": [
         "defi"
       ],
-      "_comment": "Crescent $CRE"
+      "_comment": "Crescent $CRE",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "lumenx",
@@ -1317,7 +1323,8 @@
       "base_denom": "utori",
       "path": "transfer/channel-362/utori",
       "osmosis_verified": true,
-      "_comment": "Teritori $TORI"
+      "_comment": "Teritori $TORI",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "stride",
@@ -1370,7 +1377,8 @@
         "stablecoin",
         "defi"
       ],
-      "_comment": "USK $USK"
+      "_comment": "USK $USK",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "unification",
@@ -1498,7 +1506,8 @@
         "stablecoin",
         "defi"
       ],
-      "_comment": "CMST $CMST"
+      "_comment": "CMST $CMST",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "imversed",
@@ -1513,14 +1522,15 @@
       "base_denom": "umedas",
       "path": "transfer/channel-87042/umedas",
       "osmosis_verified": true,
-      "_comment": "Medas Digital Network $MEDAS"
+      "_comment": "Medas Digital Network $MEDAS",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "juno",
       "base_denom": "cw20:juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l",
       "path": "transfer/channel-169/cw20:juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l",
       "osmosis_verified": true,
-      "_comment": "POSTHUMAN $PHMN"
+      "_comment": "POSTHUMAN (Juno) $PHMN.juno"
     },
     {
       "chain_name": "secretnetwork",
@@ -1628,7 +1638,8 @@
       "base_denom": "acanto",
       "path": "transfer/channel-550/acanto",
       "osmosis_verified": true,
-      "_comment": "Canto $CANTO"
+      "_comment": "Canto $CANTO",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "quicksilver",
@@ -1768,7 +1779,8 @@
       "categories": [
         "defi"
       ],
-      "_comment": "Harbor $HARBOR"
+      "_comment": "Harbor $HARBOR",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "quicksilver",
@@ -1834,7 +1846,8 @@
         "defi",
         "sail_initiative"
       ],
-      "_comment": "Migaloo $WHALE"
+      "_comment": "Migaloo $WHALE",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "juno",
@@ -2029,7 +2042,8 @@
       "base_denom": "ubnt",
       "path": "transfer/channel-763/ubnt",
       "osmosis_verified": true,
-      "_comment": "Bluzelle $BLZ"
+      "_comment": "Bluzelle $BLZ",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "axelar",
@@ -2559,7 +2573,8 @@
       "categories": [
         "defi"
       ],
-      "_comment": "MantaDAO $MNTA"
+      "_comment": "MantaDAO $MNTA",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "juno",
@@ -2753,7 +2768,8 @@
       "categories": [
         "rwa"
       ],
-      "_comment": "Realio Network $RIO"
+      "_comment": "Realio Network $RIO",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "osmosis",
@@ -2814,7 +2830,8 @@
       "base_denom": "factory/stars16da2uus9zrsy83h23ur42v3lglg5rmyrpqnju4/dust",
       "path": "transfer/channel-75/factory/stars16da2uus9zrsy83h23ur42v3lglg5rmyrpqnju4/dust",
       "osmosis_verified": true,
-      "_comment": "Stardust STRDST $STRDST"
+      "_comment": "Stardust STRDST $STRDST",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "doravota",
@@ -2831,7 +2848,7 @@
       "categories": [
         "bridges"
       ],
-      "_comment": "Coreum $COREUM"
+      "_comment": "TX $TX"
     },
     {
       "chain_name": "celestia",
@@ -2902,14 +2919,16 @@
       "base_denom": "factory/kujira1aaudpfr9y23lt9d45hrmskphpdfaq9ajxd3ukh/unstk",
       "path": "transfer/channel-259/factory:kujira1aaudpfr9y23lt9d45hrmskphpdfaq9ajxd3ukh:unstk",
       "osmosis_verified": false,
-      "_comment": "Unstake Fi $NSTK"
+      "_comment": "Unstake Fi $NSTK",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "stargaze",
       "base_denom": "factory/stars16da2uus9zrsy83h23ur42v3lglg5rmyrpqnju4/uBRNCH",
       "path": "transfer/channel-75/factory/stars16da2uus9zrsy83h23ur42v3lglg5rmyrpqnju4/uBRNCH",
       "osmosis_verified": false,
-      "_comment": "Branch $BRNCH"
+      "_comment": "Branch $BRNCH",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "neutron",
@@ -2955,28 +2974,32 @@
       "base_denom": "hydrogen",
       "path": "transfer/channel-95/hydrogen",
       "osmosis_verified": true,
-      "_comment": "Bostrom Hydrogen $HYDROGEN"
+      "_comment": "Bostrom Hydrogen $HYDROGEN",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "bostrom",
       "base_denom": "tocyb",
       "path": "transfer/channel-95/tocyb",
       "osmosis_verified": false,
-      "_comment": "Bostrom Tocyb $TOCYB"
+      "_comment": "Bostrom Tocyb $TOCYB",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "bostrom",
       "base_denom": "millivolt",
       "path": "transfer/channel-95/millivolt",
       "osmosis_verified": false,
-      "_comment": "Bostrom Volt $V"
+      "_comment": "Bostrom Volt $V",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "bostrom",
       "base_denom": "milliampere",
       "path": "transfer/channel-95/milliampere",
       "osmosis_verified": false,
-      "_comment": "Bostrom Ampere $A"
+      "_comment": "Bostrom Ampere $A",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "source",
@@ -3068,7 +3091,8 @@
       "categories": [
         "meme"
       ],
-      "_comment": "ASH $ASH"
+      "_comment": "ASH $ASH",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "migaloo",
@@ -3079,7 +3103,8 @@
         "gaming",
         "sail_initiative"
       ],
-      "_comment": "Racoon $RAC"
+      "_comment": "Racoon $RAC",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "migaloo",
@@ -3089,7 +3114,8 @@
       "categories": [
         "meme"
       ],
-      "_comment": "GUPPY $GUPPY"
+      "_comment": "GUPPY $GUPPY",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "haqq",
@@ -3230,7 +3256,8 @@
       "base_denom": "factory/stars1xx5976njvxpl9n4v8huvff6cudhx7yuu8e7rt4/usneaky",
       "path": "transfer/channel-75/factory/stars1xx5976njvxpl9n4v8huvff6cudhx7yuu8e7rt4/usneaky",
       "osmosis_verified": false,
-      "_comment": "Sneaky Productions $SNEAKY"
+      "_comment": "Sneaky Productions $SNEAKY",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "osmosis",
@@ -3579,7 +3606,8 @@
       "categories": [
         "sail_initiative"
       ],
-      "_comment": "SHARK $SHARK"
+      "_comment": "SHARK $SHARK",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "coreum",
@@ -3805,7 +3833,8 @@
       "base_denom": "shido",
       "path": "transfer/channel-73755/shido",
       "osmosis_verified": false,
-      "_comment": "Shido $SHIDO"
+      "_comment": "Shido $SHIDO",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "cifer",
@@ -3903,7 +3932,8 @@
       "base_denom": "factory/migaloo1d0uma9qzcts4fzt7ml39xp44aut5k6qyjfzz4asalnecppppr3rsl52vvv/rstk",
       "path": "transfer/channel-642/factory/migaloo1d0uma9qzcts4fzt7ml39xp44aut5k6qyjfzz4asalnecppppr3rsl52vvv/rstk",
       "osmosis_verified": false,
-      "_comment": "RESTAKE $RSTK"
+      "_comment": "RESTAKE $RSTK",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "osmosis",
@@ -5708,7 +5738,7 @@
       "base_denom": "uxion",
       "path": "transfer/channel-89321/uxion",
       "osmosis_verified": true,
-      "_comment": "Xion $XION"
+      "_comment": "Verona $VERONA"
     },
     {
       "chain_name": "osmosis",
@@ -5777,7 +5807,8 @@
       "base_denom": "uelys",
       "path": "transfer/channel-91017/uelys",
       "osmosis_verified": true,
-      "_comment": "Elys Network $ELYS"
+      "_comment": "Elys Network $ELYS",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "aaronetwork",
@@ -6078,7 +6109,8 @@
       "base_denom": "factory/stars1rru5m2wh3fylpheqh8h5g968jwhe7rctkfm7u0gwk7ka4vx3q5tqukjl4z/hood",
       "path": "transfer/channel-75/factory/stars1rru5m2wh3fylpheqh8h5g968jwhe7rctkfm7u0gwk7ka4vx3q5tqukjl4z/hood",
       "osmosis_verified": false,
-      "_comment": "HOOD $HOOD"
+      "_comment": "HOOD $HOOD",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "osmosis",
@@ -6121,7 +6153,8 @@
       "_comment": "Nillion $NIL",
       "categories": [
         "privacy"
-      ]
+      ],
+      "osmosis_unstable": true
     },
     {
       "chain_name": "osmosis",
@@ -6258,7 +6291,8 @@
       "categories": [
         "liquid_staking"
       ],
-      "_comment": "MilkyWay $MILK"
+      "_comment": "MilkyWay $MILK",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "planq",
@@ -6353,7 +6387,8 @@
       "categories": [
         "liquid_staking"
       ],
-      "_comment": "milkBABY $milkBABY"
+      "_comment": "milkBABY $milkBABY",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "osmosis",
@@ -6373,7 +6408,8 @@
       "categories": [
         "defi"
       ],
-      "_comment": "Arkeo $ARKEO"
+      "_comment": "Arkeo $ARKEO",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "int3face",
@@ -6418,7 +6454,8 @@
       "path": "transfer/channel-642/factory/migaloo1t862qdu9mj5hr3j727247acypym3ej47axu22rrapm4tqlcpuseqltxwq5/ophir",
       "osmosis_verified": false,
       "osmosis_unlisted": true,
-      "_comment": "OPHIR $OPHIR"
+      "_comment": "OPHIR $OPHIR",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "cosmoshub",
@@ -6874,7 +6911,8 @@
       "base_denom": "uDRC",
       "path": "transfer/channel-109096/uDRC",
       "osmosis_verified": true,
-      "_comment": "Divine $DRC"
+      "_comment": "Divine $DRC",
+      "osmosis_unstable": true
     },
     {
       "chain_name": "initia",
@@ -8485,6 +8523,720 @@
       "path": "transfer/channel-647/nshr",
       "osmosis_unstable": true,
       "_comment": "Shareledger $SHR"
+    },
+    {
+      "chain_name": "stargaze",
+      "base_denom": "factory/stars16da2uus9zrsy83h23ur42v3lglg5rmyrpqnju4/mGAZE",
+      "path": "transfer/channel-75/factory/stars16da2uus9zrsy83h23ur42v3lglg5rmyrpqnju4/mGAZE",
+      "osmosis_unstable": true,
+      "_comment": "Gaze GAZE $GAZE"
+    },
+    {
+      "chain_name": "stargaze",
+      "base_denom": "factory/stars16da2uus9zrsy83h23ur42v3lglg5rmyrpqnju4/uOHH",
+      "path": "transfer/channel-75/factory/stars16da2uus9zrsy83h23ur42v3lglg5rmyrpqnju4/uOHH",
+      "osmosis_unstable": true,
+      "_comment": "ohhVAULT ohh $OHH"
+    },
+    {
+      "chain_name": "stargaze",
+      "base_denom": "factory/stars1k7qsxdxh8calmt4txk75e6hdntefslegwddqnlwjjqgjkmcfqy0qa97sn8/pleb",
+      "path": "transfer/channel-75/factory/stars1k7qsxdxh8calmt4txk75e6hdntefslegwddqnlwjjqgjkmcfqy0qa97sn8/pleb",
+      "osmosis_unstable": true,
+      "_comment": "PLEB $PLEB"
+    },
+    {
+      "chain_name": "stargaze",
+      "base_denom": "factory/stars133a6mnkp9d3pkt48y699hy0tvq5xngpz7cwak0qr4suq0cj9zpfslvt0em/kingshit",
+      "path": "transfer/channel-75/factory/stars133a6mnkp9d3pkt48y699hy0tvq5xngpz7cwak0qr4suq0cj9zpfslvt0em/kingshit",
+      "osmosis_unstable": true,
+      "_comment": "KINGSHIT $KINGSHIT"
+    },
+    {
+      "chain_name": "stargaze",
+      "base_denom": "factory/stars132jrwxjps93usq3ejy7cq6qqc7j3gtx3mu8jhaj5nnk3p0ste2ssqsndvj/botz",
+      "path": "transfer/channel-75/factory/stars132jrwxjps93usq3ejy7cq6qqc7j3gtx3mu8jhaj5nnk3p0ste2ssqsndvj/botz",
+      "osmosis_unstable": true,
+      "_comment": "BOTZ $BOTZ"
+    },
+    {
+      "chain_name": "stargaze",
+      "base_denom": "factory/stars14mfk0sd6rlajkvgpgrvfk9lfhjwmkrzvednekvcn32jzy3drjy5sfem9p7/cocks",
+      "path": "transfer/channel-75/factory/stars14mfk0sd6rlajkvgpgrvfk9lfhjwmkrzvednekvcn32jzy3drjy5sfem9p7/cocks",
+      "osmosis_unstable": true,
+      "_comment": "COCKS $COCKS"
+    },
+    {
+      "chain_name": "stargaze",
+      "base_denom": "factory/stars167y92c2fe690l0lrqyk9tahpqvu97au0cmpayh3j9455r2f6f06s78emw4/wolfshit",
+      "path": "transfer/channel-75/factory/stars167y92c2fe690l0lrqyk9tahpqvu97au0cmpayh3j9455r2f6f06s78emw4/wolfshit",
+      "osmosis_unstable": true,
+      "_comment": "WOLFSHIT $WOLFSHIT"
+    },
+    {
+      "chain_name": "stargaze",
+      "base_denom": "factory/stars1t6fyr84hn6lyjdvk3e3c697cptfn5cwat2jxqyzuvuesaypznslshy6x9v/vlt",
+      "path": "transfer/channel-75/factory/stars1t6fyr84hn6lyjdvk3e3c697cptfn5cwat2jxqyzuvuesaypznslshy6x9v/vlt",
+      "osmosis_unstable": true,
+      "_comment": "VLT $VAULT"
+    },
+    {
+      "chain_name": "stargaze",
+      "base_denom": "factory/stars1ur79p98rmpn456esgzjernaxy7v25mlwqsv8uhymzxahfw77427syk2h9j/bglSTARS",
+      "path": "transfer/channel-75/factory/stars1ur79p98rmpn456esgzjernaxy7v25mlwqsv8uhymzxahfw77427syk2h9j/bglSTARS",
+      "osmosis_unstable": true,
+      "_comment": "OLDbglSTARS $OLDbglSTARS"
+    },
+    {
+      "chain_name": "stargaze",
+      "base_denom": "factory/stars1ur79p98rmpn456esgzjernaxy7v25mlwqsv8uhymzxahfw77427syk2h9j/bglUSDC",
+      "path": "transfer/channel-75/factory/stars1ur79p98rmpn456esgzjernaxy7v25mlwqsv8uhymzxahfw77427syk2h9j/bglUSDC",
+      "osmosis_unstable": true,
+      "_comment": "OLDbglUSDC $OLDbglUSDC"
+    },
+    {
+      "chain_name": "stargaze",
+      "base_denom": "factory/stars1khzuhuhv02vaturh9x9lz4jach824x9umcgghl/uCLW",
+      "path": "transfer/channel-75/factory/stars1khzuhuhv02vaturh9x9lz4jach824x9umcgghl/uCLW",
+      "osmosis_unstable": true,
+      "_comment": "Clown Society $CLW"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+      "path": "transfer/channel-259/factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+      "osmosis_unstable": true,
+      "_comment": "USK $USK"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1m96ucsfpt2yy72w09z2rxjdj38y5qd8lqx5jtggnejmdua2ynpnsxyvjex/urcpt",
+      "path": "transfer/channel-259/factory/kujira1m96ucsfpt2yy72w09z2rxjdj38y5qd8lqx5jtggnejmdua2ynpnsxyvjex/urcpt",
+      "osmosis_unstable": true,
+      "_comment": "qcKUJI $qcKUJI"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1n3fr5f56r2ce0s37wdvwrk98yhhq3unnxgcqus8nzsfxvllk0yxquurqty/ampKUJI",
+      "path": "transfer/channel-259/factory/kujira1n3fr5f56r2ce0s37wdvwrk98yhhq3unnxgcqus8nzsfxvllk0yxquurqty/ampKUJI",
+      "osmosis_unstable": true,
+      "_comment": "ampKUJI $ampKUJI"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+      "path": "transfer/channel-259/factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+      "osmosis_unstable": true,
+      "_comment": "MantaDAO $MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1qzu3up50auxhqyzfq56znuj8n38q2ra7daaf9ef7vg8gu66jh4fqd2wd2y/urcpt",
+      "path": "transfer/channel-259/factory/kujira1qzu3up50auxhqyzfq56znuj8n38q2ra7daaf9ef7vg8gu66jh4fqd2wd2y/urcpt",
+      "osmosis_unstable": true,
+      "_comment": "qcMNTA $qcMNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira175yatpvkpgw07w0chhzuks3zrrae9z9g2y6r7u5pzqesyau4x9eqqyv0rr/ampMNTA",
+      "path": "transfer/channel-259/factory/kujira175yatpvkpgw07w0chhzuks3zrrae9z9g2y6r7u5pzqesyau4x9eqqyv0rr/ampMNTA",
+      "osmosis_unstable": true,
+      "_comment": "ERIS Amplified MNTA $ampMNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira12cjjeytrqcj25uv349thltcygnp9k0kukpct0e/uwink",
+      "path": "transfer/channel-259/factory/kujira12cjjeytrqcj25uv349thltcygnp9k0kukpct0e/uwink",
+      "osmosis_unstable": true,
+      "_comment": "WINK $WINK"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1slueerjz7mx9jp45u3y0rjwtvhcf8a68wf2mjt/ublend",
+      "path": "transfer/channel-259/factory/kujira1slueerjz7mx9jp45u3y0rjwtvhcf8a68wf2mjt/ublend",
+      "osmosis_unstable": true,
+      "_comment": "BLEND $BLEND"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1sc6a0347cc5q3k890jj0pf3ylx2s38rh4sza4t/ufuzn",
+      "path": "transfer/channel-259/factory/kujira1sc6a0347cc5q3k890jj0pf3ylx2s38rh4sza4t/ufuzn",
+      "osmosis_unstable": true,
+      "_comment": "Fuzion $FUZN"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1sc6a0347cc5q3k890jj0pf3ylx2s38rh4sza4t/urfuzn",
+      "path": "transfer/channel-259/factory/kujira1sc6a0347cc5q3k890jj0pf3ylx2s38rh4sza4t/urfuzn",
+      "osmosis_unstable": true,
+      "_comment": "Fuzion Receipt $rFUZN"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1sc6a0347cc5q3k890jj0pf3ylx2s38rh4sza4t/uyfuzn",
+      "path": "transfer/channel-259/factory/kujira1sc6a0347cc5q3k890jj0pf3ylx2s38rh4sza4t/uyfuzn",
+      "osmosis_unstable": true,
+      "_comment": "Fuzion Yield $yFUZN"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1l04ged98c7a7s9tllu62ld09ztylwf442qgm4thfgmadrvngeumsz4zrh2/urcpt",
+      "path": "transfer/channel-259/factory/kujira1l04ged98c7a7s9tllu62ld09ztylwf442qgm4thfgmadrvngeumsz4zrh2/urcpt",
+      "osmosis_unstable": true,
+      "_comment": "qcFUZN $qcFUZN"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1d9fmsgvu3yvvppvqech2s3dhrqdm5ukngcf82ghcl70edfpwcrlsu6yr0u/urcpt",
+      "path": "transfer/channel-259/factory/kujira1d9fmsgvu3yvvppvqech2s3dhrqdm5ukngcf82ghcl70edfpwcrlsu6yr0u/urcpt",
+      "osmosis_unstable": true,
+      "_comment": "qcAQLA $qcAQLA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1xe0awk5planmtsmjel5xtx2hzhqdw5p8z66yqd/uaqla",
+      "path": "transfer/channel-259/factory/kujira1xe0awk5planmtsmjel5xtx2hzhqdw5p8z66yqd/uaqla",
+      "osmosis_unstable": true,
+      "_comment": "AQLA $AQLA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1aaudpfr9y23lt9d45hrmskphpdfaq9ajxd3ukh/unstk",
+      "path": "transfer/channel-259/factory/kujira1aaudpfr9y23lt9d45hrmskphpdfaq9ajxd3ukh/unstk",
+      "osmosis_unstable": true,
+      "_comment": "Unstake Fi $NSTK"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
+      "path": "transfer/channel-259/factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
+      "osmosis_unstable": true,
+      "_comment": "LOCAL $LOCAL"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira166ysf07ze5suazfzj0r05tv8amk2yn8zvsfuu7/uplnk",
+      "path": "transfer/channel-259/factory/kujira166ysf07ze5suazfzj0r05tv8amk2yn8zvsfuu7/uplnk",
+      "osmosis_unstable": true,
+      "_comment": "Plankton $PLNK"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira15e8q5wzlk5k38gjxlhse3vu6vqnafysncx2ltexd6y9gx50vuj2qpt7dgv/boneKuji",
+      "path": "transfer/channel-259/factory/kujira15e8q5wzlk5k38gjxlhse3vu6vqnafysncx2ltexd6y9gx50vuj2qpt7dgv/boneKuji",
+      "osmosis_unstable": true,
+      "_comment": "BackBone Labs Liquid Staked KUJI $bKUJI"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt",
+      "path": "transfer/channel-259/factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt",
+      "osmosis_unstable": true,
+      "_comment": "Ghost Vault USK $xUSK"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1ya42knfcsvy6eztegsn3hz7zpjvhzn05ge85xa2dy2zrjeul9hnspp3c06/urcpt",
+      "path": "transfer/channel-259/factory/kujira1ya42knfcsvy6eztegsn3hz7zpjvhzn05ge85xa2dy2zrjeul9hnspp3c06/urcpt",
+      "osmosis_unstable": true,
+      "_comment": "Ghost Vault MNTA $xMNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira10qyzrqaza0f593cmnl4sc3p3nhqqakn9j56d899u723pznxpn8us6cypuw/ulp",
+      "path": "transfer/channel-259/factory/kujira10qyzrqaza0f593cmnl4sc3p3nhqqakn9j56d899u723pznxpn8us6cypuw/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: DOT.axl-MNTA $LP-DOT.axl-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira12tpc335t72qtrjh64ccdydzsr9qtswkqn72cyvfj4d5hmtgynphsv4xjtu/ulp",
+      "path": "transfer/channel-259/factory/kujira12tpc335t72qtrjh64ccdydzsr9qtswkqn72cyvfj4d5hmtgynphsv4xjtu/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: SHD-MNTA $LP-SHD-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira13g2eelkf9q4md4xx52ylqvlgpccn50f2vyu05eazufd2g4jatmhq2425pq/ulp",
+      "path": "transfer/channel-259/factory/kujira13g2eelkf9q4md4xx52ylqvlgpccn50f2vyu05eazufd2g4jatmhq2425pq/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: DYDX-MNTA $LP-DYDX-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira15pk8c09vcsgsdq4xlh2qfqxtu2r8pgdy7nggkqj8p3h2phke80pqwnvtzk/ulp",
+      "path": "transfer/channel-259/factory/kujira15pk8c09vcsgsdq4xlh2qfqxtu2r8pgdy7nggkqj8p3h2phke80pqwnvtzk/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: wAVAX.axl-MNTA $LP-wAVAX.axl-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira15w6jhxsv924mn9cfr0qg9z36hltmw4rzd68x40d9re6hzyhslumqjw9zqd/ulp",
+      "path": "transfer/channel-259/factory/kujira15w6jhxsv924mn9cfr0qg9z36hltmw4rzd68x40d9re6hzyhslumqjw9zqd/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: CHEQ-MNTA $LP-CHEQ-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1622xuv8unv22xzazljvqh8uukcdz3yzmrp6axgerh7vxg4kum5tqcwcqmv/ulp",
+      "path": "transfer/channel-259/factory/kujira1622xuv8unv22xzazljvqh8uukcdz3yzmrp6axgerh7vxg4kum5tqcwcqmv/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: FUZN-MNTA $LP-FUZN-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira17djzq5x5e5zm9q9zlp6dtxdt9p8q2zvj0qtmjs0wrxm5g9e2vf5q9d6y2t/ulp",
+      "path": "transfer/channel-259/factory/kujira17djzq5x5e5zm9q9zlp6dtxdt9p8q2zvj0qtmjs0wrxm5g9e2vf5q9d6y2t/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: SOMM-MNTA $LP-SOMM-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira17x2v39aut0paj5d6wc5jxvqqxrdhy9kvca4y5xn6vsfpsxkgc6gq7n4tg0/ulp",
+      "path": "transfer/channel-259/factory/kujira17x2v39aut0paj5d6wc5jxvqqxrdhy9kvca4y5xn6vsfpsxkgc6gq7n4tg0/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: wETH.axl-MNTA $LP-wETH.axl-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira18lhugzap20ndlqr5j2p86yk4pxpe9jjuac05z0ypxuwn3mm5vjhsjh4etr/ulp",
+      "path": "transfer/channel-259/factory/kujira18lhugzap20ndlqr5j2p86yk4pxpe9jjuac05z0ypxuwn3mm5vjhsjh4etr/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: NTRN-MNTA $LP-NTRN-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira18mveas6xseaqu3fmukwv2ac6mp4hszk08lvyamedytjs0kxm42yqs9v89x/ulp",
+      "path": "transfer/channel-259/factory/kujira18mveas6xseaqu3fmukwv2ac6mp4hszk08lvyamedytjs0kxm42yqs9v89x/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: wFTM.axl-MNTA $LP-wFTM.axl-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1av284rnqh6s0l2lwdqgpgz8wuva3wh9lkmlsupjd9escn5v4fels6kwc7v/ulp",
+      "path": "transfer/channel-259/factory/kujira1av284rnqh6s0l2lwdqgpgz8wuva3wh9lkmlsupjd9escn5v4fels6kwc7v/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: STARS-MNTA $LP-STARS-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1cpdyhrkwdnz38u45el3zq7007at9dm6h05tc36zpxvs6vrdwzrrskt0tgg/ulp",
+      "path": "transfer/channel-259/factory/kujira1cpdyhrkwdnz38u45el3zq7007at9dm6h05tc36zpxvs6vrdwzrrskt0tgg/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: TIA-MNTA $LP-TIA-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1eqd96322ec258w7k9n9cfqkusrlvzwv38jkph3qs720egdv0epmq70j2zl/ulp",
+      "path": "transfer/channel-259/factory/kujira1eqd96322ec258w7k9n9cfqkusrlvzwv38jkph3qs720egdv0epmq70j2zl/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: SOL.wh-MNTA $LP-SOL.wh-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1fg7wmsde7ygw3pm6hqmd29cdvp947anajmunsvk0guvjta3md25qdqk4fw/ulp",
+      "path": "transfer/channel-259/factory/kujira1fg7wmsde7ygw3pm6hqmd29cdvp947anajmunsvk0guvjta3md25qdqk4fw/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: DYM-MNTA $LP-DYM-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1gnftck9586x0nhsqsj99k9zednl6tx4kezu9hpph0u6jtqnafpyqxha3me/ulp",
+      "path": "transfer/channel-259/factory/kujira1gnftck9586x0nhsqsj99k9zednl6tx4kezu9hpph0u6jtqnafpyqxha3me/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: AKT-MNTA $LP-AKT-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1gnvja05kkmpeh9dnxl0c2p4sde7fpsy2r44njzyqgpsf72nqs78q3gzpzc/ulp",
+      "path": "transfer/channel-259/factory/kujira1gnvja05kkmpeh9dnxl0c2p4sde7fpsy2r44njzyqgpsf72nqs78q3gzpzc/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: LINK.axl-MNTA $LP-LINK.axl-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1gz2kvfw7hpds9fvygwkj64znl3a9pw697g77cspcq5y4vj3ru45s7qc0rd/ulp",
+      "path": "transfer/channel-259/factory/kujira1gz2kvfw7hpds9fvygwkj64znl3a9pw697g77cspcq5y4vj3ru45s7qc0rd/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: wTAO.grv-MNTA $LP-wTAO.grv-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1h75predtjdm2e7u8cuvqs3usc6xs2mxlkcr20zsshvw3qap25frsr4z949/ulp",
+      "path": "transfer/channel-259/factory/kujira1h75predtjdm2e7u8cuvqs3usc6xs2mxlkcr20zsshvw3qap25frsr4z949/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: MNTA-KUJI $LP-MNTA-KUJI"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1h929g9e9vxhc5y8v7uexdrncacxdatjupr67velewafwepfyfaaq6s7l3v/ulp",
+      "path": "transfer/channel-259/factory/kujira1h929g9e9vxhc5y8v7uexdrncacxdatjupr67velewafwepfyfaaq6s7l3v/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: AXL-MNTA $LP-AXL-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1h9f3k54j060pzlnea8ep8qfymsmwl5yhwc5hqept5p2esqzve7tq2ghnm4/ulp",
+      "path": "transfer/channel-259/factory/kujira1h9f3k54j060pzlnea8ep8qfymsmwl5yhwc5hqept5p2esqzve7tq2ghnm4/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: ATOM-MNTA $LP-ATOM-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1kc90tgn4ucvdv4c9xycktanwz2lna0nfel6244ylqjvhaetfntusnmyu3d/ulp",
+      "path": "transfer/channel-259/factory/kujira1kc90tgn4ucvdv4c9xycktanwz2lna0nfel6244ylqjvhaetfntusnmyu3d/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: ARB-MNTA $LP-ARB-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1jsjygyj8hwa4f0p9wwgct4yzmzzexe5x5u6l40l7ty2qzwwwsemqavhk3x/ulp",
+      "path": "transfer/channel-259/factory/kujira1jsjygyj8hwa4f0p9wwgct4yzmzzexe5x5u6l40l7ty2qzwwwsemqavhk3x/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: WHALE-MNTA $LP-WHALE-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1p7w9ncnnme9yzzhrvzv0hnsa5u5ga06v0ckt7lq9yfap04hc5k9sn2vf6w/ulp",
+      "path": "transfer/channel-259/factory/kujira1p7w9ncnnme9yzzhrvzv0hnsa5u5ga06v0ckt7lq9yfap04hc5k9sn2vf6w/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: SCRT-MNTA $LP-SCRT-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1qx3hcr297qmgjt5f6u9peldf4phxqufvmew8d3eey3ns29e8qp3snj6jfu/ulp",
+      "path": "transfer/channel-259/factory/kujira1qx3hcr297qmgjt5f6u9peldf4phxqufvmew8d3eey3ns29e8qp3snj6jfu/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: wstETH.axl-MNTA $LP-wstETH.axl-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1smfdnww47xav4nn849xphku3gk3xp7a24fk533dce8masnsz4v8quklajx/ulp",
+      "path": "transfer/channel-259/factory/kujira1smfdnww47xav4nn849xphku3gk3xp7a24fk533dce8masnsz4v8quklajx/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: wMATIC.axl-MNTA $LP-wMATIC.axl-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1t4mr2xt4ky4mfwcy752chzlquam3hzs44mt8vwyec8mvypmzxu5s90vamt/ulp",
+      "path": "transfer/channel-259/factory/kujira1t4mr2xt4ky4mfwcy752chzlquam3hzs44mt8vwyec8mvypmzxu5s90vamt/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: UNI.axl-MNTA $LP-UNI.axl-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1u8dluwa4a83q7anz0cgpmma605r07a06f0789ajcl8l0xjrplqss005cgn/ulp",
+      "path": "transfer/channel-259/factory/kujira1u8dluwa4a83q7anz0cgpmma605r07a06f0789ajcl8l0xjrplqss005cgn/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: yieldETH.axl-MNTA $LP-yieldETH.axl-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1vj39mdwekxznxxa97fv5gt957cghfdqhwju8fdv5ysu0x6vsyhps4zmqjl/ulp",
+      "path": "transfer/channel-259/factory/kujira1vj39mdwekxznxxa97fv5gt957cghfdqhwju8fdv5ysu0x6vsyhps4zmqjl/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: wBTC.axl-MNTA $LP-wBTC.axl-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1vqdyup9zxxl9gqy5hwh593vvuc84lstldj7qzt7fylf3q3e3uemqlwpg9y/ulp",
+      "path": "transfer/channel-259/factory/kujira1vqdyup9zxxl9gqy5hwh593vvuc84lstldj7qzt7fylf3q3e3uemqlwpg9y/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: PAXG.grv-MNTA $LP-PAXG.grv-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1y24jwsv84lnuv5j78qeqz5ujjpd058qsft7wfc0nk9jvycugm32sqnq53d/ulp",
+      "path": "transfer/channel-259/factory/kujira1y24jwsv84lnuv5j78qeqz5ujjpd058qsft7wfc0nk9jvycugm32sqnq53d/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: wBNB.axl-MNTA $LP-wBNB.axl-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1ygperwf0dc9ng2jffj0pwnnray3rscn9el6d78qjtt25qwgqukqszmdwtv/ulp",
+      "path": "transfer/channel-259/factory/kujira1ygperwf0dc9ng2jffj0pwnnray3rscn9el6d78qjtt25qwgqukqszmdwtv/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: OSMO-MNTA $LP-OSMO-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1znx048dcc6arqfw6kpckl0k4ts2h7cdx20nk22wz2cxh5vle3wxqknk238/ulp",
+      "path": "transfer/channel-259/factory/kujira1znx048dcc6arqfw6kpckl0k4ts2h7cdx20nk22wz2cxh5vle3wxqknk238/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: INJ-MNTA $LP-INJ-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira18sek950cg92gd0kvpj67dfg6p7kee6hzw92etcf2jgufr3mttvaslt5sal/ulp",
+      "path": "transfer/channel-259/factory/kujira18sek950cg92gd0kvpj67dfg6p7kee6hzw92etcf2jgufr3mttvaslt5sal/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: stOSMO-OSMO $LP-stOSMO-OSMO"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1lyyeyuw4qgan6nz45thw2m0nmxa457uz7cp9dqw5d9a0h7ccek7qavkm6g/ulp",
+      "path": "transfer/channel-259/factory/kujira1lyyeyuw4qgan6nz45thw2m0nmxa457uz7cp9dqw5d9a0h7ccek7qavkm6g/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: wstETH.axl-wETH.axl $LP-wstETH.axl-wETH.axl"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1ul00h0a2kgcg9x2yfa86wj9qguhyv7jmpjpw6ztt24j9mn9xjw3slawyc8/ulp",
+      "path": "transfer/channel-259/factory/kujira1ul00h0a2kgcg9x2yfa86wj9qguhyv7jmpjpw6ztt24j9mn9xjw3slawyc8/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: qcMNTA-MNTA $LP-qcMNTA-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1vj36ntsqd3msc69lxldcv9dd50jngknmael9e07rz4fpn5kyq0jsglvz2m/ulp",
+      "path": "transfer/channel-259/factory/kujira1vj36ntsqd3msc69lxldcv9dd50jngknmael9e07rz4fpn5kyq0jsglvz2m/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: ampMNTA-MNTA $LP-ampMNTA-MNTA"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1n648rfqqvjxm6c7zgfnfqay85rkapgg0z7da9pnmjazz5m5d7l0qxdtq90/ulp",
+      "path": "transfer/channel-259/factory/kujira1n648rfqqvjxm6c7zgfnfqay85rkapgg0z7da9pnmjazz5m5d7l0qxdtq90/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: wETH.axl-USK $LP-wETH.axl-USK"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira13x2l25mpkhwnwcwdzzd34cr8fyht9jlj7xu9g4uffe36g3fmln8qkvm3qn/unami",
+      "path": "transfer/channel-259/factory/kujira13x2l25mpkhwnwcwdzzd34cr8fyht9jlj7xu9g4uffe36g3fmln8qkvm3qn/unami",
+      "osmosis_unstable": true,
+      "_comment": "NAMI $NAMI"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira18thffdpuz8tm3mwwun4uhks8a2v7ye0jmw3fllqhklma82lqkpms20gh9c/unausd",
+      "path": "transfer/channel-259/factory/kujira18thffdpuz8tm3mwwun4uhks8a2v7ye0jmw3fllqhklma82lqkpms20gh9c/unausd",
+      "osmosis_unstable": true,
+      "_comment": "NAUSD $NAUSD"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1mn2pgkggquqm2m44zqlaq29jxwtad53qkv4xy4/MCTest",
+      "path": "transfer/channel-259/factory/kujira1mn2pgkggquqm2m44zqlaq29jxwtad53qkv4xy4/MCTest",
+      "osmosis_unstable": true,
+      "_comment": "MCTEST $MC01"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira13x2l25mpkhwnwcwdzzd34cr8fyht9jlj7xu9g4uffe36g3fmln8qkvm3qn/uauto",
+      "path": "transfer/channel-259/factory/kujira13x2l25mpkhwnwcwdzzd34cr8fyht9jlj7xu9g4uffe36g3fmln8qkvm3qn/uauto",
+      "osmosis_unstable": true,
+      "_comment": "AUTO $AUTO"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1seqq2ekz47uqayshqkg5wqx5vcyrmtwcl9vscnwy2gjh7mz5aapsdfxsd5/urcpt",
+      "path": "transfer/channel-259/factory/kujira1seqq2ekz47uqayshqkg5wqx5vcyrmtwcl9vscnwy2gjh7mz5aapsdfxsd5/urcpt",
+      "osmosis_unstable": true,
+      "_comment": "qcDYDX $qcDYDX"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq/urkuji",
+      "path": "transfer/channel-259/factory/kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq/urkuji",
+      "osmosis_unstable": true,
+      "_comment": "rKUJI $rKUJI"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1yncutssgh2vj9scaymtteg949hwcft07c6qmgarxnaf04yesq3jsn6g2uv/ulp",
+      "path": "transfer/channel-259/factory/kujira1yncutssgh2vj9scaymtteg949hwcft07c6qmgarxnaf04yesq3jsn6g2uv/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: ATOM-USK $LP-ATOM-USK"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1xwvvjq5w0887v2vz4e83kcu38s0jq8q8lqa3z5hxm295q7y4uejqp24la7/ulp",
+      "path": "transfer/channel-259/factory/kujira1xwvvjq5w0887v2vz4e83kcu38s0jq8q8lqa3z5hxm295q7y4uejqp24la7/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: wETH.axl-USK $LP-wETH.axl-USK.kuji"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1vcmh95lje5dln782pxckma65eujs4sv960w22whgsp7a2ajsc6lsvnlhgd/ulp",
+      "path": "transfer/channel-259/factory/kujira1vcmh95lje5dln782pxckma65eujs4sv960w22whgsp7a2ajsc6lsvnlhgd/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: SOL.wh-USK $LP-SOL.wh-USK"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1n4jfv39hzv2dtshzv6gj4hp8rkdy5rrsr7l84lc3x9cahz4v0umq24q3lu/ulp",
+      "path": "transfer/channel-259/factory/kujira1n4jfv39hzv2dtshzv6gj4hp8rkdy5rrsr7l84lc3x9cahz4v0umq24q3lu/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: wETH.axl-USDC $LP-wETH.axl-USDC"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1lctu7hy65466fxw3tcqf8w45zwrpwgd9chvjqpgyfgcr73k774nsv4ya6t/ulp",
+      "path": "transfer/channel-259/factory/kujira1lctu7hy65466fxw3tcqf8w45zwrpwgd9chvjqpgyfgcr73k774nsv4ya6t/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: DYDX-USK $LP-DYDX-USK"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1g5st8p6qdyf23zzerjcxgpr2r7a9wzdyaymu79ngg6ve3m9v3n4sdetv4e/ulp",
+      "path": "transfer/channel-259/factory/kujira1g5st8p6qdyf23zzerjcxgpr2r7a9wzdyaymu79ngg6ve3m9v3n4sdetv4e/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: AKT-USDC $LP-AKT-USDC"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1d7jt9zwlnpvf7sskfm57c77pm9mtwczqre75t9k80ees0v523kasss9htj/ulp",
+      "path": "transfer/channel-259/factory/kujira1d7jt9zwlnpvf7sskfm57c77pm9mtwczqre75t9k80ees0v523kasss9htj/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: wBTC-USK $LP-wBTC-USK"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1c4e2zk4z0anrufjh64gxtse6e4s5g52fe2ja8ke3r9e0pvpd0z0qws8zsp/ulp",
+      "path": "transfer/channel-259/factory/kujira1c4e2zk4z0anrufjh64gxtse6e4s5g52fe2ja8ke3r9e0pvpd0z0qws8zsp/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: wBTC.axl-wBTC $LP-wBTC.axl-wBTC"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira14jwhlsg3az20f7keav2axxj205fyv5j8mp6rv5svqwwll3ls9slq6zwleg/ulp",
+      "path": "transfer/channel-259/factory/kujira14jwhlsg3az20f7keav2axxj205fyv5j8mp6rv5svqwwll3ls9slq6zwleg/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: INJ-USDC $LP-INJ-USDC"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira13my0qtm2a8jp0wg8uzg49tyn4zcea8scy3dc7ghn8z9eys08yzls49ymdm/ulp",
+      "path": "transfer/channel-259/factory/kujira13my0qtm2a8jp0wg8uzg49tyn4zcea8scy3dc7ghn8z9eys08yzls49ymdm/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: ATOM-USDC $LP-ATOM-USDC"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1742pe93mxm0cwqjxgxh6th9sspdrluqvw9pha9q69eeatue4x5xs0wdq2d/ulp",
+      "path": "transfer/channel-259/factory/kujira1742pe93mxm0cwqjxgxh6th9sspdrluqvw9pha9q69eeatue4x5xs0wdq2d/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: MNTA-USDC $LP-MNTA-USDC"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1xtaadmh06s8u3z5mypp8qayhrnxgga5wr88s7raram4rz8zu37hquf82wk/ulp",
+      "path": "transfer/channel-259/factory/kujira1xtaadmh06s8u3z5mypp8qayhrnxgga5wr88s7raram4rz8zu37hquf82wk/ulp",
+      "osmosis_unstable": true,
+      "_comment": "LP Bow: MNTA-USK $LP-MNTA-USK"
+    },
+    {
+      "chain_name": "kujira",
+      "base_denom": "factory/kujira1gewwffxhaygxe8tacd3z9h4uyvpd2h7v9qtfmaw8jjhwalxxpd7qlqld4m/boon",
+      "path": "transfer/channel-259/factory/kujira1gewwffxhaygxe8tacd3z9h4uyvpd2h7v9qtfmaw8jjhwalxxpd7qlqld4m/boon",
+      "osmosis_unstable": true,
+      "_comment": "Boon $BOON"
+    },
+    {
+      "chain_name": "crescent",
+      "base_denom": "ubcre",
+      "path": "transfer/channel-297/ubcre",
+      "osmosis_unstable": true,
+      "_comment": "Bonded Crescent $bCRE"
+    },
+    {
+      "chain_name": "migaloo",
+      "base_denom": "factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE",
+      "path": "transfer/channel-642/factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE",
+      "osmosis_unstable": true,
+      "_comment": "ampWHALE $ampWHALE"
+    },
+    {
+      "chain_name": "migaloo",
+      "base_denom": "factory/migaloo1mf6ptkssddfmxvhdx0ech0k03ktp6kf9yk59renau2gvht3nq2gqdhts4u/boneWhale",
+      "path": "transfer/channel-642/factory/migaloo1mf6ptkssddfmxvhdx0ech0k03ktp6kf9yk59renau2gvht3nq2gqdhts4u/boneWhale",
+      "osmosis_unstable": true,
+      "_comment": "BackBone Labs Liquid Staked WHALE $bWHALE"
+    },
+    {
+      "chain_name": "migaloo",
+      "base_denom": "factory/migaloo18a9m9stu3dyvewwcq9qmp85euxqcvln5mefync/fable",
+      "path": "transfer/channel-642/factory/migaloo18a9m9stu3dyvewwcq9qmp85euxqcvln5mefync/fable",
+      "osmosis_unstable": true,
+      "_comment": "FABLE $FABLE"
+    },
+    {
+      "chain_name": "migaloo",
+      "base_denom": "factory/migaloo1p3aj9f09d7c4jxhgue0hpdpw370j6gzc59nxxx6l8d0gc9f9rfwsdwetus/lsdSHARK",
+      "path": "transfer/channel-642/factory/migaloo1p3aj9f09d7c4jxhgue0hpdpw370j6gzc59nxxx6l8d0gc9f9rfwsdwetus/lsdSHARK",
+      "osmosis_unstable": true,
+      "_comment": "lsdSHARK $lsdSHARK"
+    },
+    {
+      "chain_name": "migaloo",
+      "base_denom": "factory/migaloo1r9x8fz4alekzr78k42rpmr9unpa7egsldpqeynmwl2nfvzexue9sn8l5rg/gash",
+      "path": "transfer/channel-642/factory/migaloo1r9x8fz4alekzr78k42rpmr9unpa7egsldpqeynmwl2nfvzexue9sn8l5rg/gash",
+      "osmosis_unstable": true,
+      "_comment": "GASH $GASH"
+    },
+    {
+      "chain_name": "migaloo",
+      "base_denom": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/ugrac",
+      "path": "transfer/channel-642/factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/ugrac",
+      "osmosis_unstable": true,
+      "_comment": "Gaming RAC Token $GRAC"
+    },
+    {
+      "chain_name": "migaloo",
+      "base_denom": "factory/migaloo1nsskhvvh0msm7d5ke2kfg24a8d4jecsnxd28s27h0uz5kf9ap60shlqmcl/ampGASH",
+      "path": "transfer/channel-642/factory/migaloo1nsskhvvh0msm7d5ke2kfg24a8d4jecsnxd28s27h0uz5kf9ap60shlqmcl/ampGASH",
+      "osmosis_unstable": true,
+      "_comment": "ampGASH $ampGASH"
+    },
+    {
+      "chain_name": "migaloo",
+      "base_denom": "factory/migaloo1axtz4y7jyvdkkrflknv9dcut94xr5k8m6wete4rdrw4fuptk896su44x2z/uLP",
+      "path": "transfer/channel-642/factory/migaloo1axtz4y7jyvdkkrflknv9dcut94xr5k8m6wete4rdrw4fuptk896su44x2z/uLP",
+      "osmosis_unstable": true,
+      "_comment": "WHALE-wBTC WW LP $WHALE-wBTC-WW-LP"
+    },
+    {
+      "chain_name": "migaloo",
+      "base_denom": "factory/migaloo1zsptvkg5aeg4tjksgv7vp4x5s9p5euqrh9jl3sfdv48wtnrhftlszsvmu5/uwhalex",
+      "path": "transfer/channel-642/factory/migaloo1zsptvkg5aeg4tjksgv7vp4x5s9p5euqrh9jl3sfdv48wtnrhftlszsvmu5/uwhalex",
+      "osmosis_unstable": true,
+      "_comment": "WHALEX $WHALEX"
+    },
+    {
+      "chain_name": "bluzelle",
+      "base_denom": "uelt",
+      "path": "transfer/channel-763/uelt",
+      "osmosis_unstable": true,
+      "_comment": "ELT $ELT"
+    },
+    {
+      "chain_name": "bluzelle",
+      "base_denom": "ug4",
+      "path": "transfer/channel-763/ug4",
+      "osmosis_unstable": true,
+      "_comment": "G4 $G4"
+    },
+    {
+      "chain_name": "realio",
+      "base_denom": "arst",
+      "path": "transfer/channel-1424/arst",
+      "osmosis_unstable": true,
+      "_comment": "Realio Security Token $RST"
+    },
+    {
+      "chain_name": "elys",
+      "base_denom": "ueden",
+      "path": "transfer/channel-91017/ueden",
+      "osmosis_unstable": true,
+      "_comment": "Eden $EDEN"
+    },
+    {
+      "chain_name": "elys",
+      "base_denom": "uedenb",
+      "path": "transfer/channel-91017/uedenb",
+      "osmosis_unstable": true,
+      "_comment": "Eden BOOST $EDENBOOST"
     }
   ]
 }

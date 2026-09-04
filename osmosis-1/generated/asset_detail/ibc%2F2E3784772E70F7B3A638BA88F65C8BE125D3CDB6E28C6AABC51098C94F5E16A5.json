@@ -1,7 +1,7 @@
 {
   "localization": "en",
-  "name": "Xion",
-  "symbol": "XION",
+  "name": "Verona",
+  "symbol": "VERONA",
   "description": {
     "en": "XION is the first walletless L1 blockchain purpose built for consumer adoption through chain abstraction.\n\nXION is the first walletless L1 blockchain purpose built for consumer adoption through chain abstraction. Utilizing protocol-level implementations related to abstracted accounts, signatures, fees, interoperability, and more, XION empowers developers to build secure, intuitive, and seamless user experiences.",
     "de": "XION ist die erste walletlose L1-Blockchain, die speziell für die Akzeptanz durch Verbraucher durch Kettenabstraktion entwickelt wurde.<inlang-LineFeed>\nXION ist die erste Wallet-lose L1-Blockchain, die speziell für die Verbraucherakzeptanz durch Kettenabstraktion entwickelt wurde. Durch die Verwendung von Implementierungen auf Protokollebene in Bezug auf abstrahierte Konten, Signaturen, Gebühren, Interoperabilität und mehr ermöglicht XION Entwicklern die Erstellung sicherer, intuitiver und nahtloser Benutzererlebnisse.",
@@ -22,7 +22,7 @@
     "zh-tw": "XION 是第一個無錢包 L1 區塊鏈，旨在透過鏈抽象為消費者採用而建構。<inlang-LineFeed>\nXION 是第一個無錢包 L1 區塊鏈，旨在透過鏈抽象為消費者採用而建構。利用與抽象帳戶、簽名、費用、互通性等相關的協議級實現，XION 使開發人員能夠建立安全、直覺和無縫的使用者體驗。"
   },
   "coingeckoID": "xion-2",
-  "websiteURL": "https://xion.burnt.com",
+  "websiteURL": "https://verona.dev",
   "twitterURL": "https://x.com/burnt_xion",
   "base": "ibc/2E3784772E70F7B3A638BA88F65C8BE125D3CDB6E28C6AABC51098C94F5E16A5",
   "telegramURL": "https://t.me/xion_announcements",

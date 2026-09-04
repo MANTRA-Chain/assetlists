@@ -360,7 +360,7 @@
       "base": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
       "name": "USD Coin",
       "display": "usdc",
-      "symbol": "USDC",
+      "symbol": "USDC.n",
       "traces": [
         {
           "type": "ibc",
@@ -385,8 +385,8 @@
             "chain_name": "nobletestnet",
             "base_denom": "uusdc"
           },
-          "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg",
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.png",
+          "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg",
           "theme": {
             "circle": true
           }
@@ -725,8 +725,7 @@
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/impacthub/images/ixo.png",
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/impacthub/images/ixo.svg"
         }
-      ],
-      "coingecko_id": "ixo"
+      ]
     },
     {
       "denom_units": [
@@ -1413,15 +1412,15 @@
           ]
         },
         {
-          "denom": "testcore",
+          "denom": "testtx",
           "exponent": 6
         }
       ],
       "type_asset": "ics20",
       "base": "ibc/35CA3AB73EF616E989E6DDD91EA33BEBAF77CA710641973028460CCFE69452AB",
-      "name": "Coreum",
-      "display": "testcore",
-      "symbol": "TESTCORE",
+      "name": "TX",
+      "display": "testtx",
+      "symbol": "TESTTX",
       "traces": [
         {
           "type": "ibc",
@@ -1436,7 +1435,7 @@
           }
         }
       ],
-      "coingecko_id": "coreum"
+      "coingecko_id": "tx"
     },
     {
       "denom_units": [
@@ -1549,12 +1548,16 @@
           "aliases": [
             "ahp"
           ]
+        },
+        {
+          "denom": "hp",
+          "exponent": 18
         }
       ],
       "type_asset": "ics20",
       "base": "ibc/B441DBB56D34B14CBD153FD57247A38001968E833523DB408CD57CFCC28A9D53",
       "name": "Hippo Protocol Testnet",
-      "display": "ahp",
+      "display": "hp",
       "symbol": "HP",
       "traces": [
         {
@@ -1569,8 +1572,7 @@
             "path": "transfer/channel-10743/ahp"
           }
         }
-      ],
-      "coingecko_id": "hippo-protocol"
+      ]
     },
     {
       "denom_units": [
@@ -2263,6 +2265,40 @@
     {
       "denom_units": [
         {
+          "denom": "ibc/63FA8DC3426FEDEA61E47FB273E0D68FCC5201B9E3A99EBD42BE120E105583D9",
+          "exponent": 0,
+          "aliases": [
+            "aLIMO"
+          ]
+        },
+        {
+          "denom": "LIMO",
+          "exponent": 18
+        }
+      ],
+      "type_asset": "ics20",
+      "base": "ibc/63FA8DC3426FEDEA61E47FB273E0D68FCC5201B9E3A99EBD42BE120E105583D9",
+      "name": "Limonata Testnet",
+      "display": "LIMO",
+      "symbol": "LIMO",
+      "traces": [
+        {
+          "type": "ibc",
+          "counterparty": {
+            "chain_name": "limonatatestnet",
+            "base_denom": "aLIMO",
+            "channel_id": "channel-0"
+          },
+          "chain": {
+            "channel_id": "channel-11808",
+            "path": "transfer/channel-11808/aLIMO"
+          }
+        }
+      ]
+    },
+    {
+      "denom_units": [
+        {
           "denom": "ibc/5E243314983063B40B8E22C77BC07B91BFC88F5ACD9FA2DC874877158793D0D7",
           "exponent": 0,
           "aliases": [
@@ -2290,6 +2326,40 @@
           "chain": {
             "channel_id": "channel-10183",
             "path": "transfer/channel-10183/upoa"
+          }
+        }
+      ]
+    },
+    {
+      "denom_units": [
+        {
+          "denom": "ibc/319F1EB0531381627E4ED3CC07C05B13F9014286A4573B8D8E07239C0A49E8D2",
+          "exponent": 0,
+          "aliases": [
+            "factory/manifest1afk9zr2hn2jsac63h4hm60vl9z3e5u69gndzf7c99cqge3vzwjzsfmy9qj/upwr"
+          ]
+        },
+        {
+          "denom": "pwr",
+          "exponent": 6
+        }
+      ],
+      "type_asset": "ics20",
+      "base": "ibc/319F1EB0531381627E4ED3CC07C05B13F9014286A4573B8D8E07239C0A49E8D2",
+      "name": "Manifest Power Token",
+      "display": "pwr",
+      "symbol": "PWR",
+      "traces": [
+        {
+          "type": "ibc",
+          "counterparty": {
+            "chain_name": "manifesttestnet",
+            "base_denom": "factory/manifest1afk9zr2hn2jsac63h4hm60vl9z3e5u69gndzf7c99cqge3vzwjzsfmy9qj/upwr",
+            "channel_id": "channel-5"
+          },
+          "chain": {
+            "channel_id": "channel-10183",
+            "path": "transfer/channel-10183/factory/manifest1afk9zr2hn2jsac63h4hm60vl9z3e5u69gndzf7c99cqge3vzwjzsfmy9qj/upwr"
           }
         }
       ]
@@ -4524,8 +4594,7 @@
             "path": "transfer/channel-8734/uom"
           }
         }
-      ],
-      "coingecko_id": "mantra-dao"
+      ]
     },
     {
       "denom_units": [

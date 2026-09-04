@@ -37,8 +37,7 @@
       "base": "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F",
       "name": "Wrapped Bitcoin (Ethereum via Axelar)",
       "symbol": "WBTC.eth.axl",
-      "description": "Wrapped Bitcoin on Axelar",
-      "coingeckoID": "axlwbtc"
+      "description": "Wrapped Bitcoin on Axelar"
     },
     {
       "base": "ibc/8242AD24008032E457D2E12D46588FD39FB54FB29680C6C7663D296B383C37C4",
@@ -70,7 +69,10 @@
       "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.\n\nATOM, the native cryptocurrency of the Cosmos network, is essential for achieving the project's goal of creating an 'Internet of Blockchains.' Launched in 2019, Cosmos aims to solve the scalability, usability, and interoperability issues prevalent in existing blockchain ecosystems. The Cosmos Hub, the central blockchain of the network, uses ATOM for transaction fees, staking, and governance. By staking ATOM, users can earn rewards and participate in governance, influencing decisions on network upgrades and changes.\n\nCosmos leverages the Tendermint consensus algorithm to achieve high transaction throughput and fast finality. Its Inter-Blockchain Communication (IBC) protocol enables seamless data and value transfer between different blockchains, fostering a highly interconnected and collaborative ecosystem. The flexibility and scalability offered by Cosmos have attracted numerous projects, enhancing its utility and adoption. ATOM's role in securing the network and facilitating governance underscores its importance in the broader blockchain landscape.",
       "coingeckoID": "cosmos",
       "websiteURL": "https://cosmos.network",
-      "twitterURL": "https://x.com/cosmoshub"
+      "twitterURL": "https://x.com/cosmoshub",
+      "telegramURL": "https://t.me/CosmosOG",
+      "discordURL": "https://discord.com/invite/interchain",
+      "redditURL": "https://www.reddit.com/r/cosmosnetwork/"
     },
     {
       "base": "ibc/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1",
@@ -159,10 +161,9 @@
     },
     {
       "base": "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4",
-      "name": "Stargaze",
-      "symbol": "STARS",
-      "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.\n\nStargaze is an innovative platform in the Cosmos ecosystem focused on NFTs. It provides a decentralized space where creators can mint, trade, and manage their NFTs with ease. The platform's decentralized nature ensures that creators retain full control over their digital assets, enhancing security and ownership rights. Stargaze's user-friendly interface and robust infrastructure make it an ideal choice for artists and collectors looking to engage with NFTs in a decentralized manner.",
-      "coingeckoID": "stargaze",
+      "name": "Stargaze (Stargaze)",
+      "symbol": "STARS.stars",
+      "description": "(Deprecated) STARS bridged from legacy Stargaze. STARS has migrated to the Cosmos Hub.\n\nStargaze is an innovative platform in the Cosmos ecosystem focused on NFTs. It provides a decentralized space where creators can mint, trade, and manage their NFTs with ease. The platform's decentralized nature ensures that creators retain full control over their digital assets, enhancing security and ownership rights. Stargaze's user-friendly interface and robust infrastructure make it an ideal choice for artists and collectors looking to engage with NFTs in a decentralized manner.",
       "websiteURL": "https://www.stargaze.zone/",
       "twitterURL": "https://x.com/StargazeZone"
     },
@@ -236,8 +237,7 @@
       "base": "ibc/1DC495FCEFDA068A3820F903EDBD78B942FBD204D7E93D3BA2B432E9669D1A59",
       "name": "e-Money",
       "symbol": "NGM",
-      "description": "e-Money NGM staking token. In addition to earning staking rewards the token is bought back and burned based on e-Money stablecoin inflation.",
-      "coingeckoID": "e-money"
+      "description": "e-Money NGM staking token. In addition to earning staking rewards the token is bought back and burned based on e-Money stablecoin inflation."
     },
     {
       "base": "ibc/5973C068568365FFF40DEDCF1A1CB7582B6116B731CD31A12231AE25E20B871F",
@@ -257,7 +257,6 @@
       "name": "Impact Hub",
       "symbol": "IXO",
       "description": "The native token of the Internet of Impacts of inter-connected networks, powered by IXO Protocol blockchains.",
-      "coingeckoID": "ixo",
       "websiteURL": "https://www.ixo.world/"
     },
     {
@@ -304,7 +303,6 @@
       "name": "Comdex",
       "symbol": "CMDX",
       "description": "Native Token of Comdex Protocol",
-      "coingeckoID": "comdex",
       "websiteURL": "https://comdex.one/"
     },
     {
@@ -328,7 +326,6 @@
       "name": "Vidulum (Vidulum)",
       "symbol": "VDL.vdl",
       "description": "The native token of Vidulum",
-      "coingeckoID": "vidulum",
       "websiteURL": "https://vidulum.app/"
     },
     {
@@ -336,7 +333,6 @@
       "name": "Desmos",
       "symbol": "DSM",
       "description": "The native token of Desmos",
-      "coingeckoID": "desmos",
       "websiteURL": "https://desmos.network/"
     },
     {
@@ -376,7 +372,6 @@
       "name": "UX Chain",
       "symbol": "UMEE",
       "description": "The native token of Umee",
-      "coingeckoID": "umee",
       "websiteURL": "https://www.ux.xyz"
     },
     {
@@ -392,8 +387,7 @@
       "base": "ibc/9BCB27203424535B6230D594553F1659C77EC173E36D9CF4759E7186EE747E84",
       "name": "Decentr",
       "symbol": "DEC",
-      "description": "The native token of Decentr",
-      "coingeckoID": "decentr"
+      "description": "The native token of Decentr"
     },
     {
       "base": "ibc/F6B691D5F7126579DDC87357B09D653B47FDCE0A3383FF33C8D8B544FE29A8A6",
@@ -445,7 +439,10 @@
       "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.\n\nInjective Protocol is a cutting-edge decentralized exchange (DEX) platform facilitating fully decentralized trading of derivatives, futures, and spot markets. Built on the Cosmos SDK, Injective leverages layer-2 scaling solutions for high-speed transactions with low fees, ensuring an efficient trading experience. The platform's design eliminates intermediaries, giving users complete control over their assets and trades.\n\nThe Injective ecosystem is powered by its native token, INJ, used for governance, staking, and fee reduction. By staking INJ, users can participate in network governance, influencing key decisions and protocol upgrades. Injective's features include cross-chain trading, allowing seamless asset trading across different blockchains, and a decentralized order book for transparency and security. Injective transforms the DeFi space with a comprehensive, decentralized solution for trading various financial instruments.",
       "coingeckoID": "injective-protocol",
       "websiteURL": "https://injective.com/",
-      "twitterURL": "https://x.com/Injective_"
+      "twitterURL": "https://x.com/Injective",
+      "telegramURL": "https://t.me/joininjective",
+      "discordURL": "https://discord.com/invite/injective",
+      "redditURL": "https://www.reddit.com/r/injective/"
     },
     {
       "base": "ibc/204A582244FC241613DBB50B04D1D454116C58C4AF7866C186AA0D6EEAD42780",
@@ -617,7 +614,10 @@
       "name": "GenesisL1",
       "symbol": "L1",
       "description": "L1 coin is the GenesisL1 blockchain utility, governance and EVM token\n\nGenesisL1 is a public distributed ledger for decentralized scientific data, assets, applications, and protocols, with a focus on bioinformatics, biotechnology, medicine, and machine learning.",
-      "websiteURL": "https://GenesisL1.com"
+      "coingeckoID": "genesisl1",
+      "websiteURL": "https://genesisl1.com",
+      "twitterURL": "https://x.com/genesis_L1",
+      "telegramURL": "https://t.me/Genesis_L1"
     },
     {
       "base": "ibc/384E5DD50BDE042E1AAF51F312B55F08F95BC985C503880189258B4D9374CBBE",
@@ -658,7 +658,6 @@
       "name": "Kujira",
       "symbol": "KUJI",
       "description": "Kujira is a decentralized finance (DeFi) platform offering a suite of tools and services for managing and optimizing digital assets and investments.\n\nKujira provides a comprehensive DeFi platform that includes tools for lending, borrowing, and yield farming, leveraging blockchain technology to offer a transparent, secure, and efficient user experience. The native token, KUJI, is central to the ecosystem, used for transaction fees, staking, and governance. Kujira's user-centric design and innovative features make it a popular choice in the DeFi space, enabling users to maximize their returns and effectively manage their digital assets.",
-      "coingeckoID": "kujira",
       "websiteURL": "https://kujira.network/",
       "twitterURL": "https://x.com/TeamKujira"
     },
@@ -756,8 +755,7 @@
       "base": "ibc/C78F65E1648A3DFE0BAEB6C4CDA69CC2A75437F1793C0E6386DFDA26393790AE",
       "name": "Kava USDX",
       "symbol": "USDX",
-      "description": "The native stablecoin of Kava",
-      "coingeckoID": "usdx"
+      "description": "The native stablecoin of Kava"
     },
     {
       "base": "ibc/2DA9C149E9AD2BD27FEFA635458FB37093C256C1A940392634A16BEA45262604",
@@ -807,8 +805,7 @@
       "base": "ibc/5DD1F95ED336014D00CE2520977EC71566D282F9749170ADC83A392E0EA7426A",
       "name": "Stride Staked STARS",
       "symbol": "stSTARS",
-      "description": "",
-      "coingeckoID": "stride-staked-stars"
+      "description": ""
     },
     {
       "base": "ibc/C3FC4DED273E7D1DD2E7BAA3317EC9A53CD3252B577AA33DC00D9DF2BDF3ED5C",
@@ -882,7 +879,6 @@
       "name": "Unification",
       "symbol": "FUND",
       "description": "Staking and governance coin for the Unification Blockchain\n\nFundamentally, the Unification Blockchain Toolkit comprises two core branches: Blockchain Business products, to welcome traditional enterprises into the Web3 economy; and Permissionless Products, an open-access toolkit to power and enrich Dapps on Ethereum/EVM networks",
-      "coingeckoID": "unification",
       "websiteURL": "https://unification.com",
       "twitterURL": "https://x.com/UnificationUND"
     },
@@ -924,8 +920,7 @@
       "base": "ibc/D0E5BF2940FB58D9B283A339032DE88111407AAD7D94A7F1F3EB78874F8616D4",
       "name": "SCRT Staking Derivatives",
       "symbol": "stkd-SCRT",
-      "description": "The native token cw20 for SCRT Staking Derivatives on Secret Network",
-      "coingeckoID": "stkd-scrt"
+      "description": "The native token cw20 for SCRT Staking Derivatives on Secret Network"
     },
     {
       "base": "ibc/C822645522FC3EECF817609AA38C24B64D04F5C267A23BCCF8F2E3BC5755FA88",
@@ -975,10 +970,9 @@
     },
     {
       "base": "ibc/D3B574938631B0A1BA704879020C696E514CFADAA7643CDE4BD5EB010BDE327B",
-      "name": "POSTHUMAN",
-      "symbol": "PHMN",
-      "description": "The native token cw20 for PHMN on Juno Chain\n\n$PHMN is the governance token of a distributed validator. Similar to PoS chains, each holder possesses voting rights proportionate to the number of locked tokens. PHMN holders can govern the POSTHUMAN validator via DAODAO. For instance, decisions such as diversifying the treasury, updating the validator's commission rate, or exiting the network are determined by the PHMN community.",
-      "coingeckoID": "posthuman",
+      "name": "POSTHUMAN (Juno)",
+      "symbol": "PHMN.juno",
+      "description": "(Deprecated) PHMN bridged from legacy Juno CW20. PHMN has migrated to the Cosmos Hub.\n\n$PHMN is the governance token of a distributed validator. Similar to PoS chains, each holder possesses voting rights proportionate to the number of locked tokens. PHMN holders can govern the POSTHUMAN validator via DAODAO. For instance, decisions such as diversifying the treasury, updating the validator's commission rate, or exiting the network are determined by the PHMN community.",
       "websiteURL": "https://posthuman.digital/",
       "twitterURL": "https://x.com/POSTHUMAN_DVS"
     },
@@ -1001,8 +995,7 @@
       "base": "ibc/CAA179E40F0266B0B29FB5EAA288FB9212E628822265D4141EBD1C47C3CBFCBC",
       "name": "PSTAKE staked ATOM",
       "symbol": "stkATOM",
-      "description": "(Deprecated) PSTAKE Liquid-Staked ATOM",
-      "coingeckoID": "stkatom"
+      "description": "(Deprecated) PSTAKE Liquid-Staked ATOM"
     },
     {
       "base": "ibc/E27CD305D33F150369AB526AEB6646A76EC3FFB1A6CA58A663B5DE657A89D55D",
@@ -1079,7 +1072,6 @@
       "name": "Mars Protocol (Mars Hub)",
       "symbol": "MARS.mars",
       "description": "Mars Protocol token (pre-migration)\n\nLend, borrow and earn with an autonomous credit protocol in the Cosmos universe. Open to all, closed to none.",
-      "coingeckoID": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
       "websiteURL": "https://www.marsprotocol.io/",
       "twitterURL": "https://x.com/mars_protocol"
     },
@@ -1203,8 +1195,7 @@
       "base": "ibc/A76EB6ECF4E3E2D4A23C526FD1B48FDD42F171B206C9D2758EF778A7826ADD68",
       "name": "Nature Carbon Ton",
       "symbol": "NCT",
-      "description": "Nature Carbon Ton (NCT) is a carbon token standard backed 1:1 by carbon credits issued by Verra, a global leader in the voluntary carbon market. NCT credits on Regen Network have been tokenized by Toucan.earth.",
-      "coingeckoID": "toucan-protocol-nature-carbon-tonne"
+      "description": "Nature Carbon Ton (NCT) is a carbon token standard backed 1:1 by carbon credits issued by Verra, a global leader in the voluntary carbon market. NCT credits on Regen Network have been tokenized by Toucan.earth."
     },
     {
       "base": "ibc/0E4FA664327BD40B32803EE84A77F145834C0281B7F82B65521333B3669FA0BA",
@@ -1272,8 +1263,7 @@
       "base": "ibc/8A025A1E70101E39DE0C0F153E582A30806D3DA16795F6D868A3AA247D2DEDF7",
       "name": "Silk",
       "symbol": "SILK",
-      "description": "The native token cw20 for Silk on Secret Network",
-      "coingeckoID": "silk-bcec1136-561c-4706-a42c-8b67d0d7f7d2"
+      "description": "The native token cw20 for Silk on Secret Network"
     },
     {
       "base": "ibc/912275A63A565BFD80734AEDFFB540132C51E446EAC41483B26EDE8A557C71CF",
@@ -1647,15 +1637,13 @@
       "base": "factory/osmo1s794h9rxggytja3a4pmwul53u98k06zy2qtrdvjnfuxruh7s8yjs6cyxgd/ucdt",
       "name": "CDT Stablecoin",
       "symbol": "CDT",
-      "description": "Membrane's CDP-style stablecoin called CDT",
-      "coingeckoID": "collateralized-debt-token"
+      "description": "Membrane's CDP-style stablecoin called CDT"
     },
     {
       "base": "factory/osmo1s794h9rxggytja3a4pmwul53u98k06zy2qtrdvjnfuxruh7s8yjs6cyxgd/umbrn",
       "name": "Membrane",
       "symbol": "MBRN",
-      "description": "Membrane's protocol token",
-      "coingeckoID": "membrane"
+      "description": "Membrane's protocol token"
     },
     {
       "base": "ibc/A1830DECC0B742F0B2044FF74BE727B5CF92C9A28A9235C3BACE4D24A23504FA",
@@ -1693,12 +1681,12 @@
     },
     {
       "base": "ibc/F3166F4D31D6BA1EC6C9F5536F5DDDD4CC93DBA430F7419E7CDC41C497944A65",
-      "name": "Coreum",
-      "symbol": "COREUM",
-      "description": "The native token of Coreum",
-      "coingeckoID": "coreum",
-      "websiteURL": "https://www.coreum.com/",
-      "twitterURL": "https://x.com/CoreumOfficial"
+      "name": "TX",
+      "symbol": "TX",
+      "description": "The native token of TX",
+      "coingeckoID": "tx",
+      "websiteURL": "https://tx.org/",
+      "twitterURL": "https://x.com/txEcosystem"
     },
     {
       "base": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877",
@@ -1892,8 +1880,7 @@
       "base": "ibc/23A62409E4AD8133116C249B1FA38EED30E500A115D7B153109462CD82C1CD99",
       "name": "Page",
       "symbol": "PAGE",
-      "description": "The PAGE token is used for actions in the PageDAO NFT literary ecosystem and for DAO governance.",
-      "coingeckoID": "page"
+      "description": "The PAGE token is used for actions in the PageDAO NFT literary ecosystem and for DAO governance."
     },
     {
       "base": "ibc/6FD2938076A4C1BB3A324A676E76B0150A4443DAE0E002FB62AC0E6B604B1519",
@@ -2153,7 +2140,6 @@
       "name": "DOKI",
       "symbol": "DOKI",
       "description": "DOKI the last Dragon",
-      "coingeckoID": "doki",
       "websiteURL": "https://dokicoin.io/",
       "twitterURL": "https://x.com/doki_coin"
     },
@@ -2226,8 +2212,7 @@
       "base": "factory/osmo17fel472lgzs87ekt9dvk0zqyh5gl80sqp4sk4n/LAB",
       "name": "LAB",
       "symbol": "LAB",
-      "description": "LAB - Everything is an Experiment\n\nLAB - Everything is an Experiment\n\nUse 10 $LAB tokens to mint 1 Mad Scientist NFT on Backbone Labs Osmosis Launchpad. You will then be able to trade your NFTs on the marketplace. You can also choose to hold onto your $LAB tokens as unrevealed NFTs and trade it.\n\n Fair Launch: The event was marked by the absence of whitelists (WLs), no bots and no lock, ensuring an equitable opportunity for all interested parties.\n\nPreparation for the Launch: Participants were given a 52.91-hour window to deposit $OSMO into a pool on Streamswap.\n\nThe Swap Process: After the initial deposit period, $OSMO was converted into $LAB tokens over an additional hour, allowing for a smooth transition and fair distribution.",
-      "coingeckoID": "mad-scientists"
+      "description": "LAB - Everything is an Experiment\n\nLAB - Everything is an Experiment\n\nUse 10 $LAB tokens to mint 1 Mad Scientist NFT on Backbone Labs Osmosis Launchpad. You will then be able to trade your NFTs on the marketplace. You can also choose to hold onto your $LAB tokens as unrevealed NFTs and trade it.\n\n Fair Launch: The event was marked by the absence of whitelists (WLs), no bots and no lock, ensuring an equitable opportunity for all interested parties.\n\nPreparation for the Launch: Participants were given a 52.91-hour window to deposit $OSMO into a pool on Streamswap.\n\nThe Swap Process: After the initial deposit period, $OSMO was converted into $LAB tokens over an additional hour, allowing for a smooth transition and fair distribution."
     },
     {
       "base": "factory/osmo1s3l0lcqc7tu0vpj6wdjz9wqpxv8nk6eraevje4fuwkyjnwuy82qsx3lduv/boneOsmo",
@@ -2967,7 +2952,6 @@
       "name": "Mars Protocol",
       "symbol": "MARS",
       "description": "Mars Protocol is a cross-collateralized Money Market Protocol on Neutron and Osmosis.\n\nLend, borrow and earn with an autonomous credit protocol in the Cosmos universe. Open to all, closed to none.",
-      "coingeckoID": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
       "websiteURL": "https://marsprotocol.io/",
       "twitterURL": "https://x.com/mars_protocol"
     },
@@ -3262,7 +3246,6 @@
       "name": "MANTRA (MANTRA)",
       "symbol": "MANTRA.mantra",
       "description": "The deprecated native token of MANTRA before $OM to $MANTRA Redenomination\n\nThe first RWA Layer 1 Blockchain, capable of adherence and enforcement of real world regulatory requirements.",
-      "coingeckoID": "mantra-dao",
       "websiteURL": "https://www.mantrachain.io/",
       "twitterURL": "https://x.com/MANTRA_Chain"
     },
@@ -3312,9 +3295,9 @@
       "base": "ibc/CD6412358F33B372A355CF22786D8C19477C15092B56BD56188679EED8556964",
       "name": "Dragon Coin",
       "symbol": "DGN",
-      "description": "Dragon Token is the native staking and governance token of Dungeon Chain, serving as the backbone of the ecosystem. Its primary roles include staking, where users stake Dragon Tokens to secure the network, enhance its functionality, and earn rewards in return; governance, granting token holders voting rights to influence key decisions such as game onboarding, protocol updates, and community-driven initiatives; and ecosystem growth, facilitating transactions, incentivizing developers, and promoting the creation of new interchain games. Dragon Token ensures a decentralized, fair, and community-driven ecosystem, fostering the evolution of blockchain-based gaming. It plays a crucial role in driving the growth of Dungeon Chain by empowering both developers and players to participate actively in the ecosystem's governance and success.\n\nDungeon Chain is a groundbreaking, permissioned blockchain designed specifically for interchain gaming. Launched as the first permissionless ICS (Interchain Security) chain, Dungeon Chain empowers developers and players to participate in a seamless gaming ecosystem that bridges multiple blockchains. By leveraging ICS technology, it ensures robust security, scalability, and interoperability across gaming projects. Dungeon Chain features an interchain gaming platform that allows games to interact across multiple blockchains, enabling shared assets, gameplay mechanics, and player data. It is permissioned yet inclusive, offering a streamlined, transparent process for developers to onboard games while maintaining quality and security. With high transaction throughput and low latency, it provides scalability for gamers, ensuring a smooth experience even during peak usage. Additionally, its developer-friendly ecosystem includes tools, SDKs, and documentation to facilitate the creation and integration of games into the platform. Dungeon Chain's vision is to redefine how games interact with blockchain technology by creating a secure, scalable, and specialized environment for interchain games, unlocking new possibilities for player ownership, collaboration, and innovation in gaming.",
+      "description": "Dragon Token is the native staking and governance token of Dungeon Chain, serving as the backbone of the ecosystem. Its primary roles include staking, where users stake Dragon Tokens to secure the network, enhance its functionality, and earn rewards in return; governance, granting token holders voting rights to influence key decisions such as game onboarding, protocol updates, and community-driven initiatives; and ecosystem growth, facilitating transactions, incentivizing developers, and promoting the creation of new interchain games. Dragon Token ensures a decentralized, fair, and community-driven ecosystem, fostering the evolution of blockchain-based gaming. It plays a crucial role in driving the growth of Dungeon Chain by empowering both developers and players to participate actively in the ecosystem's governance and success.\n\nDungeon Chain is a sovereign Cosmos SDK blockchain designed specifically for interchain gaming. Built with native IBC interoperability and CosmWasm support, Dungeon Chain empowers developers and players to participate in a seamless gaming ecosystem that bridges multiple blockchains. It ensures robust security, scalability, and interoperability across gaming projects. Dungeon Chain features an interchain gaming platform that allows games to interact across multiple blockchains, enabling shared assets, gameplay mechanics, and player data. With high transaction throughput and low latency, it provides scalability for gamers, ensuring a smooth experience even during peak usage. Additionally, its developer-friendly ecosystem includes tools, SDKs, and documentation to facilitate the creation and integration of games into the platform. Dungeon Chain's vision is to redefine how games interact with blockchain technology by creating a secure, scalable, and specialized environment for interchain games, unlocking new possibilities for player ownership, collaboration, and innovation in gaming.",
       "coingeckoID": "dragon-coin-2",
-      "websiteURL": "https://www.cryptodungeon.org",
+      "websiteURL": "https://dungeongames.io",
       "twitterURL": "https://x.com/cryptodungeonma"
     },
     {
@@ -3352,7 +3335,10 @@
       "symbol": "amATOM",
       "description": "The advance token for ATOM denominated vaults on Amulet Protocol",
       "websiteURL": "https://cosmos.network",
-      "twitterURL": "https://x.com/cosmoshub"
+      "twitterURL": "https://x.com/cosmoshub",
+      "telegramURL": "https://t.me/CosmosOG",
+      "discordURL": "https://discord.com/invite/interchain",
+      "redditURL": "https://www.reddit.com/r/cosmosnetwork/"
     },
     {
       "base": "factory/osmo1qnglc04tmhg32uc4kxlxh55a5cmhj88cpa3rmtly484xqu82t79sfv94w0/alloyed/allXRP",
@@ -3365,11 +3351,11 @@
     },
     {
       "base": "ibc/2E3784772E70F7B3A638BA88F65C8BE125D3CDB6E28C6AABC51098C94F5E16A5",
-      "name": "Xion",
-      "symbol": "XION",
-      "description": "XION is the first walletless L1 blockchain purpose built for consumer adoption through chain abstraction.\n\nXION is the first walletless L1 blockchain purpose built for consumer adoption through chain abstraction. Utilizing protocol-level implementations related to abstracted accounts, signatures, fees, interoperability, and more, XION empowers developers to build secure, intuitive, and seamless user experiences.",
+      "name": "Verona",
+      "symbol": "VERONA",
+      "description": "Verona is the intelligence layer for AI.\n\nVerona is the intelligence layer for AI. It makes user-verified data portable, private, and programmable, so agents can transact on information the user actually owns.",
       "coingeckoID": "xion-2",
-      "websiteURL": "https://xion.burnt.com",
+      "websiteURL": "https://verona.dev",
       "twitterURL": "https://x.com/burnt_xion",
       "telegramURL": "https://t.me/xion_announcements",
       "discordURL": "https://discord.com/invite/burnt",
@@ -3715,7 +3701,6 @@
       "name": "dNTRN",
       "symbol": "dNTRN",
       "description": "Drop staked NTRN\n\nDrop protocol token for the interchain liquidity",
-      "coingeckoID": "drop-staked-ntrn",
       "websiteURL": "https://www.drop.money/",
       "twitterURL": "https://x.com/Dropdotmoney"
     },
@@ -3824,7 +3809,6 @@
       "name": "Vidulum",
       "symbol": "VDL",
       "description": "Vidulum App Token\n\nVidulum App is your one stop, multi-currency crypto web wallet. Hold, earn, and own your crypto assets in non-custodial fashion from any device, anytime.",
-      "coingeckoID": "vidulum",
       "websiteURL": "https://vidulum.app/",
       "twitterURL": "https://x.com/VidulumApp"
     },
@@ -3949,7 +3933,6 @@
       "name": "Namada",
       "symbol": "NAM",
       "description": "The native token of Namada.\n\nNamada is the Composable Privacy Layer of the Multichain. It is a proof-of-stake layer-1 blockchain that protects users’ personal data by providing a shielded asset hub and enabling shielded cross-chain transactions. Namada is capable of supporting any asset and can be used to retrofit data protection to existing chains, dapps, tokens, and NFTs.\nPrimarily built in Rust, Namada uses CometBFT consensus and the IBC (Inter-Blockchain Communication) protocol for multichain interoperability, but can be upgraded to support additional ecosystems beyond IBC. By leveraging advanced cryptographic standards like zk-SNARKs and its potential for interoperability, Namada positions itself as a useful cryptographic primitive for users to protect their on-chain data while interoperating with a wide variety of other blockchains and protocols.",
-      "coingeckoID": "namada",
       "websiteURL": "https://namada.net/",
       "twitterURL": "https://x.com/namada"
     },
@@ -3987,8 +3970,7 @@
       "base": "ibc/0C39BD03B5C57A1753A9B73164705871A9B549F1A5226CFD7E39BE7BF73CF8CF",
       "name": "Noble Dollar",
       "symbol": "USDN",
-      "description": "USDN token\n\nUSDN is a yielding stablecoin collateral-backed by short-duration U.S. Treasury Bills.",
-      "coingeckoID": "noble-dollar-usdn"
+      "description": "USDN token\n\nUSDN is a yielding stablecoin collateral-backed by short-duration U.S. Treasury Bills."
     },
     {
       "base": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/fost",
@@ -4065,7 +4047,6 @@
       "name": "Manifest Token",
       "symbol": "MFX",
       "description": "Manifest native token\n\nMFX is the foundational utility token powering the Manifest Network ecosystem - a decentralized platform bridging Web2 reliability with Web3 freedom. As the primary medium of exchange, MFX facilitates transactions across Manifest's privacy-first AI infrastructure, providing access to decentralized compute resources, industry-leading GPUs, blockchain-secured storage, and comprehensive deployment tools.  MFX represents more than just currency; it embodies Manifest's mission to democratize access to sovereign technologies and ethical AI applications, empowering developers to build scalable solutions that prioritize individual autonomy and data privacy without sacrificing performance or reliability. By holding MFX, users gain privileged access to a global network spanning multiple continents, designed for visionaries building the next generation of self-sovereign, ethical technology.",
-      "coingeckoID": "manifest-2",
       "websiteURL": "https://manifestai.org/",
       "twitterURL": "https://x.com/ManifestAIs/"
     },
@@ -4210,7 +4191,7 @@
       "base": "ibc/9005151AB92A888293B05E8D0C679032F86639EC2251430565FA38CF3BB6226B",
       "name": "Gnodi",
       "symbol": "GNOD",
-      "description": "The native token of gnodi\n\nThe Gnodi Blockchain is a community-governed, decentralized infrastructure that empowers individuals to own their digital identity and data. Guided by principles of autonomy, transparency, and equity, it bridges today’s internet with a fair, participatory digital future.",
+      "description": "The native token of gnodi\n\nThe Gnodi Blockchain is a community-governed, decentralized infrastructure that empowers individuals to own their digital identity and data. Guided by principles of autonomy, transparency, and equity, it bridges today's internet with a fair, participatory digital future.",
       "websiteURL": "https://gnodiblockchain.org/"
     },
     {
@@ -4218,7 +4199,6 @@
       "name": "maxBTC",
       "symbol": "maxBTC",
       "description": "",
-      "coingeckoID": "maxbtc",
       "websiteURL": "https://www.structured.money/",
       "twitterURL": "https://x.com/StructuredFi",
       "telegramURL": "https://t.me/StructuredFi"
@@ -5584,532 +5564,72 @@
       "websiteURL": "https://www.sharering.network/"
     },
     {
-      "base": "ibc/6C0CB8653012DC2BC1820FD0B6B3AFF8A07D18630BDAEE066FEFB2D92F477C24",
-      "name": "Axie Infinity Shard",
-      "symbol": "AXS",
-      "description": "Axie Infinity Shard on Axelar"
+      "base": "ibc/53B651EDCF2C113AAE9E4CFDA6C440D6A97C6CCDB9C0AC22C52DCDC88B4984FD",
+      "name": "Gaze GAZE",
+      "symbol": "GAZE",
+      "description": "The native meme token of stargaze."
     },
     {
-      "base": "ibc/129F401C84FCD5B0183472ED83745193B0B3A69855635A56B9056EEF8D3C241C",
-      "name": "Lido Staked Ether",
-      "symbol": "stETH",
-      "description": "Lido Staked Ether on Axelar"
+      "base": "ibc/890DEC838146A50D89B98787483E6417118AF1F86E04CF36030DCB478EBBB16D",
+      "name": "ohhVAULT ohh",
+      "symbol": "OHH",
+      "description": "Social token for the ohhVAULT."
     },
     {
-      "base": "ibc/B901BEC1B71D0573E6EE874FEC39E2DF4C2BDB1DB74CB3DA0A9CACC4A435B0EC",
-      "name": "Chain",
-      "symbol": "XCN",
-      "description": "Chain on Axelar"
+      "base": "ibc/EA0C8F1121425943740B2D1B1DC5BDD717D49A9D5A639DC7074C10E9212CC794",
+      "name": "PLEB",
+      "symbol": "PLEB",
+      "description": "PLEB"
     },
     {
-      "base": "ibc/61DE6748CA641D2422C6D07C53F6C7215EEF7AE8BC61439B83A0DEA061B487E1",
-      "name": "Open Exchange Token",
-      "symbol": "OX",
-      "description": ""
+      "base": "ibc/78E3219692862E88A1B87E90B3C8B4204EA1FE960CC9AF3C2166DBA0017B80CA",
+      "name": "KINGSHIT",
+      "symbol": "KINGSHIT",
+      "description": "KINGSHIT"
     },
     {
-      "base": "ibc/45C99445CBA9FF06ED8B71AB08B05112D9EAF693AA1BCC714240B68D0940CDBF",
-      "name": "ZigCoin",
-      "symbol": "ZigCoin",
-      "description": "ZigCoin from Ethereum via Axelar Bridge"
+      "base": "ibc/A02F0787C8A44FDB50E9913710646776DD1C4AA0763255EBF4628AD9B8CA8B85",
+      "name": "BOTZ",
+      "symbol": "BOTZ",
+      "description": "BOTZ"
     },
     {
-      "base": "ibc/3C6083B60A22901AF765E72B7D032BB97453CD447DB9E19BE97302E62582D2A8",
-      "name": "Crypto2Mars",
-      "symbol": "C2M",
-      "description": "Crypto2Mars Community Token"
+      "base": "ibc/0416C3B0EA171B8090608AFFE5A298F64E2ECBAD22121A9D6F12A9A1B9F1E1B4",
+      "name": "COCKS",
+      "symbol": "COCKS",
+      "description": "COCKS"
     },
     {
-      "base": "ibc/D4977F75C4666D9C5AB1CA2C59933200E9240C9A46C8A64AA02C21585232FC3D",
-      "name": "CryptoTrtl",
-      "symbol": "CTL",
-      "description": "$CryptoTrtl is fun, join us on Telegram.",
-      "twitterURL": "https://x.com/CryproTrtl",
-      "telegramURL": "https://T.me/CryptoTrtlCoin"
+      "base": "ibc/898EC7A8ECE18E3763712584C113A4797055625EADCF33CDB136E16E68387573",
+      "name": "WOLFSHIT",
+      "symbol": "WOLFSHIT",
+      "description": "WOLFSHIT"
     },
     {
-      "base": "ibc/423967B46B1A51D78619085105B04FCFA14F7CBC0BE7539A316B2DCDFC7D8C07",
-      "name": "Nicola Fasano Fantoken",
-      "symbol": "FASANO",
-      "description": "Nicola Fasano a BitSong Music FanToken"
+      "base": "ibc/E283EC26D115548C2664FDADC55E0BBA50CD0C8C3065A95C8FA5DDD70CBF373E",
+      "name": "VLT",
+      "symbol": "VAULT",
+      "description": "Native token of the Underworld."
     },
     {
-      "base": "ibc/1DE9A32D603EE05E9B8619DF24D90FD518C932AE0B5B3209A986B7262DBADE2A",
-      "name": "Delta 9 Fantoken",
-      "symbol": "D9X",
-      "description": "Delta 9 a BitSong Music FanToken"
+      "base": "ibc/108DE2555A0E438D06AD4BBD4E068484FA07DD9349A651DCF3A88A1F9DD2F5F7",
+      "name": "OLDbglSTARS",
+      "symbol": "OLDbglSTARS",
+      "description": "OLD Bonded GopLend STARS\n\nOLD | bglSTARS (Bonded GopLend STARS) is issued in exchange for STARS for the deposit period. These tokens are liquid and generate income in the amount of the set APR on the platform"
     },
     {
-      "base": "ibc/239A507997222805E441956EBE8087D7E2D05D6535C6D4C75EF8DCF83B3DE1A1",
-      "name": "FONTI Fantoken",
-      "symbol": "FONTI",
-      "description": "FONTI a BitSong Music FanToken"
+      "base": "ibc/84D406C9108CFE59DE3E186DE1D00606AC42DA5ACFBFE7DF903AD54CE5F64143",
+      "name": "OLDbglUSDC",
+      "symbol": "OLDbglUSDC",
+      "description": "OLD Bonded GopLend USDC\n\nOLD | bglUSDC (Bonded GopLend USDC) is issued in exchange for USDC for the deposit period. These tokens are liquid and generate income in the amount of the set APR on the platform"
     },
     {
-      "base": "ibc/B3FB7128CE957DE1ADB687A919AA0786C77C62FB1280C07CDD78AEA032D56853",
-      "name": "BlackJack Fantoken",
-      "symbol": "BJKS",
-      "description": "BlackJack a BitSong Music FanToken"
-    },
-    {
-      "base": "ibc/56C276FC136E239449DCE664292DBEEF5795C4EF4B5B35DB98BD1C0948274867",
-      "name": "Rawanne Fantoken",
-      "symbol": "RWNE",
-      "description": "Rawanne a BitSong Music FanToken"
-    },
-    {
-      "base": "ibc/051A38BBEF92B9D8293AFBE1FA293E704359E9CB28297A0FD5DBA3E9CCEE9AB1",
-      "name": "Enmoda Fantoken",
-      "symbol": "ENMODA",
-      "description": "Enmoda a BitSong Music FanToken"
-    },
-    {
-      "base": "ibc/C9864D1B9623F703C75BBF72B7FF8A7317E1535C96538D21467A4311246DC3B5",
-      "name": "Puro Lobo Fantoken",
-      "symbol": "LOBO",
-      "description": "Puro Lobo a BitSong Music FanToken"
-    },
-    {
-      "base": "ibc/8A07D4BD40E0F44ECFDF360F7EA7008B288926FB87C54489FE54DB81A5340E0C",
-      "name": "Vibranium Fantoken",
-      "symbol": "VIBRA",
-      "description": "Vibranium a BitSong Music FanToken"
-    },
-    {
-      "base": "ibc/6A6174468758D207DD2D880363BF699C6568A29E87651337AEDAFD9E69EA7E58",
-      "name": "Karina Fantoken",
-      "symbol": "KARINA",
-      "description": "Karina a BitSong Music FanToken"
-    },
-    {
-      "base": "ibc/022A879A5301CBCACF96216C967805F15C33C615B74DC7236027C1BA1BF664FF",
-      "name": "Luca Testa Fantoken",
-      "symbol": "TESTA",
-      "description": "Luca Testa a BitSong Music FanToken"
-    },
-    {
-      "base": "ibc/C1CEF00F016FE89EA6E5B07DA895AACD91B0AAD69A991033D846B988AD4FB69D",
-      "name": "Carolina Marquez Fantoken",
-      "symbol": "CMQZ",
-      "description": "Carolina Marquez a BitSong Music FanToken"
-    },
-    {
-      "base": "ibc/BE95D1E09F5A44FC5409F4E0F52750DF2A868D865BC91F3C3EE3C83235789D18",
-      "name": "[Redacted] Fantoken (ft3...A00)",
-      "symbol": "LDON",
-      "description": "[Redacted] a BitSong Music FanToken"
-    },
-    {
-      "base": "ibc/FDFCC8A906432FA7EFBA430062DA860883F5DDC77B8D64AFA2EE6CD5DC54B6A2",
-      "name": "ELT",
-      "symbol": "ELT",
-      "description": "The ELT token of Bluzelle's Gamma 4 Gaming Ecosystem"
-    },
-    {
-      "base": "ibc/6A71FD886C62ECADA07ECFD24542C5E87C316A590737F5CE6FC37E3D258CD106",
-      "name": "G4",
-      "symbol": "G4",
-      "description": "The game token of Bluzelle's Gamma 4 Gaming Ecosystem"
-    },
-    {
-      "base": "ibc/F64D67581D50AE3F641A344F31FE7CF9DC5A2C8C8C455A6967E36DEA09D563E6",
-      "name": "Carbon USD Coin",
-      "symbol": "USC",
-      "description": "The native stablecoin of Carbon"
-    },
-    {
-      "base": "ibc/09B40B4315A4A188A84E0C5F2A11013604B3F8D8542970A1F767481B6560E66B",
-      "name": "Binance Coin",
-      "symbol": "BNB.carbon",
-      "description": "BNB token on Carbon"
-    },
-    {
-      "base": "ibc/FB57581C2E698C45AE811B2C31697EB3D3C34CD55F8996DDE1B9447D6E879ACD",
-      "name": "BurgerNEO",
-      "symbol": "bNEO",
-      "description": "bNEO token on Carbon"
-    },
-    {
-      "base": "ibc/6018AD9F3E8AEF59DBD127F9D81C4F2B69CF1DD5680DBD4D72F0FE1F87E7397D",
-      "name": "BUSD (BEP-20)",
-      "symbol": "BUSD.carbon",
-      "description": "BUSD (BEP-20) token on Carbon"
-    },
-    {
-      "base": "ibc/FF1EB215DC22B8D383105710E17DAF0584FEB7C15DDA2FADC7D44F5B77DFFBF4",
-      "name": "Carbon Wrapped GLP",
-      "symbol": "CGLP",
-      "description": "Carbon Wrapped GLP on Carbon"
-    },
-    {
-      "base": "ibc/73C2C269DCA7914B90E227D315C339836FDC6F2D570E5C5438D6C288472A665B",
-      "name": "Carbon Grouped USD",
-      "symbol": "USD",
-      "description": "Grouped USD on Carbon"
-    },
-    {
-      "base": "ibc/0BAB91A2EFF98CFE98803D4777ECAA19801E3F8FF5B2D78278915610BFA4242A",
-      "name": "Ethereum (Arbitrum)",
-      "symbol": "ETH.arb.carbon",
-      "description": "ETH (Arbitrum) token on Carbon"
-    },
-    {
-      "base": "ibc/0824A92510C1CE67BF02944854A5D7C7F392DF111045B4551ADDF7EFFEA05A32",
-      "name": "Ethereum (ERC20)",
-      "symbol": "ETH.eth.carbon",
-      "description": "ETH (ERC20) token on Carbon"
-    },
-    {
-      "base": "ibc/B39116ED5DA87C0DD8E959A9D0DFF5B4E38608669528A20DEFF29D7447B6087B",
-      "name": "Circle USD",
-      "symbol": "USDC.eth.carbon",
-      "description": "USDC (ERC20) token on Carbon"
-    },
-    {
-      "base": "ibc/A14A79305A1168CF7C8071EA40B5BC647E3D3FEBBD427E38F05FE07F0B317E0A",
-      "name": "USD Coin (BEP-20)",
-      "symbol": "USDC.bsc.carbon",
-      "description": "USD Coin (BEP-20) token on Carbon"
-    },
-    {
-      "base": "ibc/3F517AB4EC381A9288A449EC7D99D75B4DEE3DE9560140344893A15A3D630DB7",
-      "name": "Zilliqa",
-      "symbol": "ZIL",
-      "description": "ZIL token on Carbon"
-    },
-    {
-      "base": "ibc/3031C6F8288BF1CBEBEA46284E92E44AA74825E09C120E4D428380532A099370",
-      "name": "BEER",
-      "symbol": "BEER",
-      "description": "BeerDog"
-    },
-    {
-      "base": "ibc/7A70A4681F85E891C9482E33DAA996489E278BB978054DC37245951BA69E5C4D",
-      "name": "TACOS",
-      "symbol": "TACOS",
-      "description": "Tacos"
-    },
-    {
-      "base": "ibc/3A0557388E2F2DB666E5D0C093E0376E154CF08BCB33C8DC5F01D1F9F928FA1B",
-      "name": "WEED",
-      "symbol": "WEED",
-      "description": "Weed"
-    },
-    {
-      "base": "ibc/C14D27EC66201E77505B4B29D0AB50B534BD96AAF82F563B57FE5AE15371257E",
-      "name": "BDOG",
-      "symbol": "BDOG",
-      "description": "Bulldog"
-    },
-    {
-      "base": "ibc/4E24E7E9294AA42CC37555F5582A7511774BB525DB504E8C5F50B84B0D5F1E04",
-      "name": "CORSO",
-      "symbol": "CORSO",
-      "description": "CaneCorso"
-    },
-    {
-      "base": "ibc/B8E9F6D1033BB3FD7E829360FC1179AA9C2DCA5CF92DFFFB3DE0DE536647CBCE",
-      "name": "Burned HUAHUA",
-      "symbol": "ashHUAHUA",
-      "description": "ashHUAHUA - Burned HUAHUA\n\nashHUAHUA - receipt token recieved when burning HUAHUA via ASH DAOs Furnace"
-    },
-    {
-      "base": "ibc/2C3E0E3B798B60F342F07757F2B097F09A1949C0E49EEBD187615BAE890DF14C",
-      "name": "Solo",
-      "symbol": "SOLO",
-      "description": "SOLO bridged from XRPL"
-    },
-    {
-      "base": "ibc/63953643441322D48D942D8990F2A59255C4A9C6F3B8167F5872C88BCD2C9A66",
-      "name": "RLUSD",
-      "symbol": "RLUSD",
-      "description": "RLUSD bridged from XRPL"
-    },
-    {
-      "base": "ibc/70FF2F374019710F752A18821B72689C10A213D44A00E7B3472B21462528E1B7",
-      "name": "Sara",
-      "symbol": "SARA",
-      "description": "SARA is the utility native token of the Pulsara ecosystem. The burn or mint of the $SARA token will be decided by the community through proposals and voting.",
-      "coingeckoID": "pulsara",
-      "websiteURL": "https://www.pulsara.io",
-      "twitterURL": "https://x.com/pulsara_io"
-    },
-    {
-      "base": "ibc/3EDD165DA38E407DBDFC693CB57D3F012EB787FF8902A665D2122CDEE3F505AA",
-      "name": "liCORE",
-      "symbol": "LICORE",
-      "description": "Liquid staking asset for COREUM, by Pulsara",
-      "coingeckoID": "licore",
-      "websiteURL": "https://www.pulsara.io",
-      "twitterURL": "https://x.com/pulsara_io"
-    },
-    {
-      "base": "ibc/61365041DAC5A57B92D60A3EBEB5143E209F86CECDBDD7326A6E7F8351352119",
-      "name": "Bonded Crescent",
-      "symbol": "bCRE",
-      "description": "The bonded token of Crescent"
-    },
-    {
-      "base": "ibc/04DDB3C027A5C06F499684FF02E80744CABC705ECF015460F52AE6E280006180",
-      "name": "Lumen (XLM) pegged token",
-      "symbol": "XLM",
-      "description": "Synthetic XLM pegged 1:1 by Crypto.com",
-      "websiteURL": "https://stellar.org/",
-      "twitterURL": "https://x.com/StellarOrg"
-    },
-    {
-      "base": "ibc/759C2B22DFA2D39A9B30BDC053AB59D2376746828B876FD18887F366D3819B11",
-      "name": "Eden",
-      "symbol": "EDEN",
-      "description": "Eden token definition"
-    },
-    {
-      "base": "ibc/F1CCCA9D4369F4DBAD7456232C1EE7A0D287D1D8AEF02D7290C69B26AF3EE136",
-      "name": "Eden BOOST",
-      "symbol": "EDENBOOST",
-      "description": "Eden BOOST token definition"
-    },
-    {
-      "base": "ibc/19F9C5CE416BAB6DA4D807CBF3C70D8860CEDD93F5FDE57CCD5C3930F4BA7FD2",
-      "name": "Pundi AIFX",
-      "symbol": "PUNDIAI",
-      "description": "PUNDIAI is an ERC-20 utility and governance token of Pundi AI ecosystem, including Pundi AI Data Platform, Pundi AI Marketplace, Pundi AIFX Omni Layer and Pundi MM AI Agent Launcher.\n\nPundiAI is the token rebrand of Function X (FX token) to align with the project's evolving AI and data-driven focus, updating tokenomics to reflect current value, enhancing market perception, improving user adoption, and possibly supporting technical or ecosystem improvements.",
-      "coingeckoID": "pundi-aifx",
-      "websiteURL": "https://fx.pundi.ai",
-      "twitterURL": "https://x.com/PundiAI"
-    },
-    {
-      "base": "ibc/2FE9F7929F8F170BE4BAAB9575913EF5727559C47FFDF925CAE171312A175EF5",
-      "name": "Test",
-      "symbol": "TEST",
-      "description": "The native fee token of Gateway."
-    },
-    {
-      "base": "ibc/48BC9DB84957B3190E6D2172B83E54DA1E16F3276E3BA01E42BFD788889324DC",
-      "name": "Worm",
-      "symbol": "WORM",
-      "description": "the native staking token of Gateway."
-    },
-    {
-      "base": "ibc/BF75AE1500CB7EC458E91A11731F1B6AC1F1FE1FA937A88564955ED6A83CA2FB",
-      "name": "Wrapped liquid staked Ether 2.0 (Wormhole)",
-      "symbol": "wstETH.wh",
-      "description": "Wrapped liquid staked Ether 2.0 (Wormhole), wstETH, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/5TSQTEhJ5Q6r1YqCmCxTRSPiV2pGx5rZUQf6g2XH4e1b"
-    },
-    {
-      "base": "ibc/E4CD61E1FA3EB04EF1BF924D676AB9FD55E84A0DCF4E78C11CCA0E14E5B42672",
-      "name": "Wrapped BTC (Wormhole)",
-      "symbol": "WBTC.wh",
-      "description": "Wrapped BTC (Wormhole), WBTC, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/BGkuAcga2WArUghF8L6kt6uCAhAzrxmn1QcbQqi5r5bd"
-    },
-    {
-      "base": "ibc/6207D35D2C08F2162575C3C4BFD524226E50639121A273045F1B393AF67DCEB3",
-      "name": "tBTC v2 (Wormhole)",
-      "symbol": "tBTC",
-      "description": "tBTC v2 (Wormhole), tBTC, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/BhqTYfQogyt7jX7cx7x8uHEQP1x9fdtdBZtK4Swghgpw"
-    },
-    {
-      "base": "ibc/898ACF6F5DEBF535103BBD52E3E5B70A311AD097B198A152483F69290B4210C0",
-      "name": "Dai Stablecoin (Wormhole)",
-      "symbol": "DAI.wh",
-      "description": "Dai Stablecoin (Wormhole), DAI, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/EKiMEqDnPKokFGcSXDvGMk6Gt1BJ6BC7BDZzTmEpWLH1"
-    },
-    {
-      "base": "ibc/0B3C3D06228578334B66B57FBFBA4033216CEB8119B27ACDEE18D92DA5B28D43",
-      "name": "Avalanche USD Coin (Wormhole)",
-      "symbol": "avalanche.USDC.wh",
-      "description": "Avalanche USD Coin (Wormhole), Avalanche USDC, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/5ZLmAZpcbaP4EGyihSmpfwryzDr84h51tboV392BCjW4"
-    },
-    {
-      "base": "ibc/CBC60FC96BD21708D3B60B2E4AD949E0DA07C67EFE6A8D463298806CD507A9CF",
-      "name": "pSTAKE Finance",
-      "symbol": "PSTAKE.grv",
-      "description": "pSTAKE is a liquid staking protocol unlocking the liquidity of staked assets."
-    },
-    {
-      "base": "ibc/723134C962D78FC0E35610DB6D6A19B5B791D04FE8F4154E4AAB7BDAB28DBB45",
-      "name": "Savings Dai",
-      "symbol": "sDAI",
-      "description": "Gravity Bridge sDAI"
-    },
-    {
-      "base": "ibc/0362302C7F45A97E304A087F05553DCECF0EAED24A17BC3D5B1BCC5E5B787E4C",
-      "name": "OccamFi",
-      "symbol": "OCC",
-      "description": "Gravity Bridge OCC"
-    },
-    {
-      "base": "ibc/2CDA7CA33077911B2BF5E5D3423B6CC76E1093A7F8A6D876943C2AF69CBC9875",
-      "name": "ERIS Amplified INJ",
-      "symbol": "ampINJ",
-      "description": "ERIS liquid staked INJ"
-    },
-    {
-      "base": "ibc/D3106C9AB1815B5115EB5530A61A583C609537261E97CC296DF3499728332914",
-      "name": "BackBone Labs Liquid Staked Injective",
-      "symbol": "bINJ",
-      "description": "BackBone Labs Liquid Staked Injective"
-    },
-    {
-      "base": "ibc/4D94993AE480ED13FB0FF241C83009BA2BA2A6E801B04C002B5860FAACAF072D",
-      "name": "Oyster Cage Initiative",
-      "symbol": "OYCI",
-      "description": "RWA Commercial fishing operation"
-    },
-    {
-      "base": "ibc/1DCC282ACE088614FFE6473309255D2EEFDCE9BE50CA402F8362EC0206296F25",
-      "name": "WGMI",
-      "symbol": "WGMI",
-      "description": "The $WGMI Token - We Gonna Make It. Are you ready?"
-    },
-    {
-      "base": "ibc/7295195818D9208637DE141D3E559E9D6FBBCA5E4009CA42BCC949DF5CC0051E",
-      "name": "Ninpo",
-      "symbol": "NINPO",
-      "description": "The second meme coin on Injective."
-    },
-    {
-      "base": "ibc/69628D9E55DE019D28262C2A5F2229E043FF2D46CCAD1802BBDEEAD338367A4E",
-      "name": "Judo",
-      "symbol": "JUDO",
-      "description": "JUDO is a very futuristic meme token."
-    },
-    {
-      "base": "ibc/79DD486C76A7E3E26209CB43CD7F7D7E63B25B59A76A69F9E44398B8BDBEDA86",
-      "name": "Neptune Receipt INJ",
-      "symbol": "nINJ",
-      "description": "A receipt token for lent INJ issued by the Neptune Protocol."
-    },
-    {
-      "base": "ibc/D794D795D87B7027F5DCD7970385AB764DD3973AAB1D7872A5DA87B4419E8D88",
-      "name": "Neptune Receipt ATOM",
-      "symbol": "nATOM",
-      "description": "A receipt token for lent ATOM issued by the Neptune Protocol."
-    },
-    {
-      "base": "ibc/2682393F9FBCA80BA3BB2E2E20429E2BEF742DD4BE871A70D2CB566B3F39CD33",
-      "name": "Neptune Receipt WETH",
-      "symbol": "nWETH",
-      "description": "A receipt token for lent WETH issued by the Neptune Protocol."
-    },
-    {
-      "base": "ibc/D2F6AD62E486AC49EA6A3D871589051BBF0C7FA690D1122109228B4DB6F8D7C3",
-      "name": "Neptune Receipt TIA",
-      "symbol": "nTIA",
-      "description": "A receipt token for lent TIA issued by the Neptune Protocol."
-    },
-    {
-      "base": "ibc/1F6175290F87534F4F196FA8F82B0123BED1775CB14FA3F1EDEB8984E98C60FC",
-      "name": "Talis Token",
-      "symbol": "TALIS",
-      "description": "Talis governance token",
-      "websiteURL": "https://talis.art/",
-      "twitterURL": "https://x.com/ProtocolTalis"
-    },
-    {
-      "base": "ibc/F7ED35989BD0A90E51600A489FCE11239E8D23D9A40871C0C8B54FA59648A037",
-      "name": "xTalis Token",
-      "symbol": "XTALIS",
-      "description": "Talis revenue sharing token",
-      "websiteURL": "https://talis.art/",
-      "twitterURL": "https://x.com/ProtocolTalis"
-    },
-    {
-      "base": "ibc/48758FA2437CF45A8B9B1913E269BFFA402EE87B5FFE9A2A5607318885824739",
-      "name": "Syndicate",
-      "symbol": "SYN",
-      "description": "The most degenerate NFT on Injective. Gravedigger collection for $bINJ. Giving power back to the community."
-    },
-    {
-      "base": "ibc/E7F6020A50978D9242EECAC6E4219F811000A75FC3DB8EBB8A3DF40E6EDFEA6F",
-      "name": "ASH Syndicate",
-      "symbol": "ashSYN",
-      "description": "SYN burn Derivative; minted when SYN is burned via The Furnace"
-    },
-    {
-      "base": "ibc/1FE58A615503ACFACF98532376F974F9E20226B2A8FA1BBFE79B96F351E7FC13",
-      "name": "DRUGS",
-      "symbol": "DRUGS",
-      "description": "Distributing happiness, is a serious business"
-    },
-    {
-      "base": "ibc/3EAA31A1840677D51A0E73544A34CCFC8451759E438AEF9037BB340586B82ADE",
-      "name": "Neptune Receipt SOL",
-      "symbol": "nSOL",
-      "description": "A receipt token for lent SOL issued by the Neptune Protocol."
-    },
-    {
-      "base": "ibc/3D708CC7C47DA9371B4DBCE744C29DD7C5240AF9DC52C31130CB693888A485CB",
-      "name": "Neptune Finance",
-      "symbol": "NEPT",
-      "description": "The native governance and staking token for the Neptune Finance protocol",
-      "websiteURL": "https://nept.finance/",
-      "twitterURL": "https://x.com/neptune_finance"
-    },
-    {
-      "base": "ibc/648260E4FF8AEDD310F2A72930F25DD7F43DD82F45F66E53B4A70A0C216FA53B",
-      "name": "Cosmos Bitcoin",
-      "symbol": "BITCOIN",
-      "description": "Cosmos Bitcoin",
-      "websiteURL": "https://getbitcoinmeme.com"
-    },
-    {
-      "base": "ibc/1B23B6F7DAC37267F04E82466AB798CC59F941BD4AE5653C497730F174F14849",
-      "name": "Crypto",
-      "symbol": "CRYPTO",
-      "description": "Crypto",
-      "websiteURL": "https://getcryptomeme.com"
-    },
-    {
-      "base": "ibc/54C7B977B96DFC56D877A7F74D22BD26B5E42CA6171F120F5A36AC82BFD4711A",
-      "name": "Bricscoin",
-      "symbol": "BRICS",
-      "description": "Bricscoin",
-      "websiteURL": "https://bricscoin.cash"
-    },
-    {
-      "base": "ibc/A436BC9498153DC580B56BD27043BBFE08A1754696C05FFF00B2A41EC796D180",
-      "name": "Instant Noodles Coin",
-      "symbol": "INC",
-      "description": "Instant Noodles Coin",
-      "websiteURL": "https://instantnoodles.xyz"
-    },
-    {
-      "base": "ibc/B2E560CE482E53CFFAC1F009C8525B3753206638D1AD62B8F71871E447599DC2",
-      "name": "Hydro Wrapped hINJ",
-      "symbol": "hINJ",
-      "description": "Factory Wrapped hINJ - Hydro Staked INJ"
-    },
-    {
-      "base": "ibc/0CAAE33AD6708DE2CFBE368DB16F24E1CB9BB3B91328EC61EEB3D1027AEBCC55",
-      "name": "Agora USD",
-      "symbol": "AUSD",
-      "description": "Agora USD Coin",
-      "websiteURL": "https://agora.finance"
-    },
-    {
-      "base": "ibc/2AE297399A20F5CCC7F943901CB050AE40EC4E8804D73050ADC5BB2B8128DD4C",
-      "name": "NEXX GEN AI",
-      "symbol": "NEXX",
-      "description": ""
-    },
-    {
-      "base": "ibc/43E2B0BB9753B6090023055F150B6EB56DBC8A84338F2560E520D7A18DDBF812",
-      "name": "Wind Token",
-      "symbol": "WIND",
-      "description": ""
-    },
-    {
-      "base": "ibc/37544C63D9B42019F6C8EF2A1702CF780A4C7F8C0D4F5BE8980F475D6E610500",
-      "name": "Arena Token",
-      "symbol": "ARENA",
-      "description": "The token for the Arena DAO"
-    },
-    {
-      "base": "ibc/57BD7DB23E685F6B0BB9013E51CFB627FBFE9347360137159703E963B179E7C7",
-      "name": "ashWIND",
-      "symbol": "ashWIND",
-      "description": "ashWIND"
+      "base": "ibc/CC2CB717F04C8BD028C34CC18AC878E4F6134E3178E38BCE9454468AC0577776",
+      "name": "Clown Society",
+      "symbol": "CLW",
+      "description": "The official token of the Clown Society, originating on Stargaze.",
+      "websiteURL": "https://www.clown-society.com/",
+      "twitterURL": "https://x.com/ClownsocieT"
     },
     {
       "base": "ibc/AADDBDAF45AA220B627662682B48E14F1F830BD46D5A4C4FFEFCCEB9D6050854",
@@ -6193,8 +5713,7 @@
       "base": "ibc/B1F5B3E97E0A21EAEC9E98F19F33965044350B5A21E19DD5FD6B90D715EBB30F",
       "name": "AQLA",
       "symbol": "AQLA",
-      "description": "The Aqualibre project's token",
-      "coingeckoID": "aqualibre"
+      "description": "The Aqualibre project's token"
     },
     {
       "base": "ibc/690EB0A0CA0DA2DC1E9CF62FB23C935AE5C7E9F57919CF89690521D5D70948A7",
@@ -6569,13 +6088,10 @@
       "description": "The token that fuels the Boon app"
     },
     {
-      "base": "ibc/4EDB04DED162ED1D45F86F8C7F92E011E8CF3AE9E5214BD3EA06F9D05B38F18D",
-      "name": "MANTRA",
-      "symbol": "MANTRA",
-      "description": "The native token of MANTRA\n\nThe first RWA Layer 1 Blockchain, capable of adherence and enforcement of real world regulatory requirements.",
-      "coingeckoID": "mantra",
-      "websiteURL": "https://www.mantrachain.io/",
-      "twitterURL": "https://x.com/MANTRA_Chain"
+      "base": "ibc/61365041DAC5A57B92D60A3EBEB5143E209F86CECDBDD7326A6E7F8351352119",
+      "name": "Bonded Crescent",
+      "symbol": "bCRE",
+      "description": "The bonded token of Crescent"
     },
     {
       "base": "ibc/834D0AEF380E2A490E4209DFF2785B8DBB7703118C144AC373699525C65B4223",
@@ -6632,6 +6148,687 @@
       "description": "Liquid Staked WHALE-wBTC Alliance LP",
       "websiteURL": "https://app.migaloo.zone",
       "twitterURL": "https://x.com/Migaloo_Zone"
+    },
+    {
+      "base": "ibc/FDFCC8A906432FA7EFBA430062DA860883F5DDC77B8D64AFA2EE6CD5DC54B6A2",
+      "name": "ELT",
+      "symbol": "ELT",
+      "description": "The ELT token of Bluzelle's Gamma 4 Gaming Ecosystem"
+    },
+    {
+      "base": "ibc/6A71FD886C62ECADA07ECFD24542C5E87C316A590737F5CE6FC37E3D258CD106",
+      "name": "G4",
+      "symbol": "G4",
+      "description": "The game token of Bluzelle's Gamma 4 Gaming Ecosystem"
+    },
+    {
+      "base": "ibc/F82E97B58F45D32AE2199AE8AD9979FFD35CDC823BB3EB34C36349E374A8EFE3",
+      "name": "Realio Security Token",
+      "symbol": "RST",
+      "description": "A hybrid equity token that represent ownership of the Realio Ecosystem and provides utility functions on the Network."
+    },
+    {
+      "base": "ibc/759C2B22DFA2D39A9B30BDC053AB59D2376746828B876FD18887F366D3819B11",
+      "name": "Eden",
+      "symbol": "EDEN",
+      "description": "Eden token definition"
+    },
+    {
+      "base": "ibc/F1CCCA9D4369F4DBAD7456232C1EE7A0D287D1D8AEF02D7290C69B26AF3EE136",
+      "name": "Eden BOOST",
+      "symbol": "EDENBOOST",
+      "description": "Eden BOOST token definition"
+    },
+    {
+      "base": "ibc/76351FA8FA49F3C74694F70B77D8CFC3603088BA01351C7BB32CE8C104547474",
+      "name": "Akash Compute Token",
+      "symbol": "ACT",
+      "description": "Akash Compute Token (ACT) is the native utility token for compute on the Akash Network.",
+      "websiteURL": "https://akash.network/",
+      "twitterURL": "https://x.com/akashnet"
+    },
+    {
+      "base": "ibc/7E577151E593349028AAC4A9FCC33258D70749FDF3CBB48F7744262DD18FC89D",
+      "name": "Amitis Network",
+      "symbol": "AMTS",
+      "description": "The native token of the Amitis Network. AMTS powers the cooperative Layer 1 blockchain that returns 80% of transaction fees to users.\n\nAmitis Network is a cooperative Layer 1 blockchain built on the Cosmos SDK. Our philosophy is friendship through shared prosperity — the network returns 80% of transaction fees directly to users at the protocol level, making it one of the most user-aligned blockchains in the Cosmos ecosystem. Amitis features 21 fixed validator slots, a native DEX, and native liquid staking built directly into the protocol."
+    },
+    {
+      "base": "ibc/6C0CB8653012DC2BC1820FD0B6B3AFF8A07D18630BDAEE066FEFB2D92F477C24",
+      "name": "Axie Infinity Shard",
+      "symbol": "AXS",
+      "description": "Axie Infinity Shard on Axelar"
+    },
+    {
+      "base": "ibc/129F401C84FCD5B0183472ED83745193B0B3A69855635A56B9056EEF8D3C241C",
+      "name": "Lido Staked Ether",
+      "symbol": "stETH",
+      "description": "Lido Staked Ether on Axelar"
+    },
+    {
+      "base": "ibc/B901BEC1B71D0573E6EE874FEC39E2DF4C2BDB1DB74CB3DA0A9CACC4A435B0EC",
+      "name": "Chain",
+      "symbol": "XCN",
+      "description": "Chain on Axelar"
+    },
+    {
+      "base": "ibc/61DE6748CA641D2422C6D07C53F6C7215EEF7AE8BC61439B83A0DEA061B487E1",
+      "name": "Open Exchange Token",
+      "symbol": "OX",
+      "description": ""
+    },
+    {
+      "base": "ibc/45C99445CBA9FF06ED8B71AB08B05112D9EAF693AA1BCC714240B68D0940CDBF",
+      "name": "ZigCoin",
+      "symbol": "ZigCoin",
+      "description": "ZigCoin from Ethereum via Axelar Bridge"
+    },
+    {
+      "base": "ibc/D6ED8CCF01DE2F86D0D8A9605A8535A66C930697E986616227506EBDE8B8AC91",
+      "name": "Coinbase Wrapped DOGE",
+      "symbol": "axl-cbDOGE",
+      "description": "Coinbase Wrapped DOGE on Axelar",
+      "websiteURL": "https://dogecoin.com/",
+      "twitterURL": "https://x.com/dogecoin"
+    },
+    {
+      "base": "ibc/3C6083B60A22901AF765E72B7D032BB97453CD447DB9E19BE97302E62582D2A8",
+      "name": "Crypto2Mars",
+      "symbol": "C2M",
+      "description": "Crypto2Mars Community Token"
+    },
+    {
+      "base": "ibc/D4977F75C4666D9C5AB1CA2C59933200E9240C9A46C8A64AA02C21585232FC3D",
+      "name": "CryptoTrtl",
+      "symbol": "CTL",
+      "description": "$CryptoTrtl is fun, join us on Telegram.",
+      "twitterURL": "https://x.com/CryproTrtl",
+      "telegramURL": "https://T.me/CryptoTrtlCoin"
+    },
+    {
+      "base": "ibc/423967B46B1A51D78619085105B04FCFA14F7CBC0BE7539A316B2DCDFC7D8C07",
+      "name": "Nicola Fasano Fantoken",
+      "symbol": "FASANO",
+      "description": "Nicola Fasano a BitSong Music FanToken"
+    },
+    {
+      "base": "ibc/1DE9A32D603EE05E9B8619DF24D90FD518C932AE0B5B3209A986B7262DBADE2A",
+      "name": "Delta 9 Fantoken",
+      "symbol": "D9X",
+      "description": "Delta 9 a BitSong Music FanToken"
+    },
+    {
+      "base": "ibc/239A507997222805E441956EBE8087D7E2D05D6535C6D4C75EF8DCF83B3DE1A1",
+      "name": "FONTI Fantoken",
+      "symbol": "FONTI",
+      "description": "FONTI a BitSong Music FanToken"
+    },
+    {
+      "base": "ibc/B3FB7128CE957DE1ADB687A919AA0786C77C62FB1280C07CDD78AEA032D56853",
+      "name": "BlackJack Fantoken",
+      "symbol": "BJKS",
+      "description": "BlackJack a BitSong Music FanToken"
+    },
+    {
+      "base": "ibc/56C276FC136E239449DCE664292DBEEF5795C4EF4B5B35DB98BD1C0948274867",
+      "name": "Rawanne Fantoken",
+      "symbol": "RWNE",
+      "description": "Rawanne a BitSong Music FanToken"
+    },
+    {
+      "base": "ibc/051A38BBEF92B9D8293AFBE1FA293E704359E9CB28297A0FD5DBA3E9CCEE9AB1",
+      "name": "Enmoda Fantoken",
+      "symbol": "ENMODA",
+      "description": "Enmoda a BitSong Music FanToken"
+    },
+    {
+      "base": "ibc/C9864D1B9623F703C75BBF72B7FF8A7317E1535C96538D21467A4311246DC3B5",
+      "name": "Puro Lobo Fantoken",
+      "symbol": "LOBO",
+      "description": "Puro Lobo a BitSong Music FanToken"
+    },
+    {
+      "base": "ibc/8A07D4BD40E0F44ECFDF360F7EA7008B288926FB87C54489FE54DB81A5340E0C",
+      "name": "Vibranium Fantoken",
+      "symbol": "VIBRA",
+      "description": "Vibranium a BitSong Music FanToken"
+    },
+    {
+      "base": "ibc/6A6174468758D207DD2D880363BF699C6568A29E87651337AEDAFD9E69EA7E58",
+      "name": "Karina Fantoken",
+      "symbol": "KARINA",
+      "description": "Karina a BitSong Music FanToken"
+    },
+    {
+      "base": "ibc/022A879A5301CBCACF96216C967805F15C33C615B74DC7236027C1BA1BF664FF",
+      "name": "Luca Testa Fantoken",
+      "symbol": "TESTA",
+      "description": "Luca Testa a BitSong Music FanToken"
+    },
+    {
+      "base": "ibc/C1CEF00F016FE89EA6E5B07DA895AACD91B0AAD69A991033D846B988AD4FB69D",
+      "name": "Carolina Marquez Fantoken",
+      "symbol": "CMQZ",
+      "description": "Carolina Marquez a BitSong Music FanToken"
+    },
+    {
+      "base": "ibc/BE95D1E09F5A44FC5409F4E0F52750DF2A868D865BC91F3C3EE3C83235789D18",
+      "name": "[Redacted] Fantoken (ft3...A00)",
+      "symbol": "LDON",
+      "description": "[Redacted] a BitSong Music FanToken"
+    },
+    {
+      "base": "ibc/F64D67581D50AE3F641A344F31FE7CF9DC5A2C8C8C455A6967E36DEA09D563E6",
+      "name": "Carbon USD Coin",
+      "symbol": "USC",
+      "description": "The native stablecoin of Carbon"
+    },
+    {
+      "base": "ibc/09B40B4315A4A188A84E0C5F2A11013604B3F8D8542970A1F767481B6560E66B",
+      "name": "Binance Coin",
+      "symbol": "BNB.carbon",
+      "description": "BNB token on Carbon"
+    },
+    {
+      "base": "ibc/FB57581C2E698C45AE811B2C31697EB3D3C34CD55F8996DDE1B9447D6E879ACD",
+      "name": "BurgerNEO",
+      "symbol": "bNEO",
+      "description": "bNEO token on Carbon"
+    },
+    {
+      "base": "ibc/6018AD9F3E8AEF59DBD127F9D81C4F2B69CF1DD5680DBD4D72F0FE1F87E7397D",
+      "name": "BUSD (BEP-20)",
+      "symbol": "BUSD.carbon",
+      "description": "BUSD (BEP-20) token on Carbon"
+    },
+    {
+      "base": "ibc/FF1EB215DC22B8D383105710E17DAF0584FEB7C15DDA2FADC7D44F5B77DFFBF4",
+      "name": "Carbon Wrapped GLP",
+      "symbol": "CGLP",
+      "description": "Carbon Wrapped GLP on Carbon"
+    },
+    {
+      "base": "ibc/73C2C269DCA7914B90E227D315C339836FDC6F2D570E5C5438D6C288472A665B",
+      "name": "Carbon Grouped USD",
+      "symbol": "USD",
+      "description": "Grouped USD on Carbon"
+    },
+    {
+      "base": "ibc/0BAB91A2EFF98CFE98803D4777ECAA19801E3F8FF5B2D78278915610BFA4242A",
+      "name": "Ethereum (Arbitrum)",
+      "symbol": "ETH.arb.carbon",
+      "description": "ETH (Arbitrum) token on Carbon"
+    },
+    {
+      "base": "ibc/0824A92510C1CE67BF02944854A5D7C7F392DF111045B4551ADDF7EFFEA05A32",
+      "name": "Ethereum (ERC20)",
+      "symbol": "ETH.eth.carbon",
+      "description": "ETH (ERC20) token on Carbon"
+    },
+    {
+      "base": "ibc/B39116ED5DA87C0DD8E959A9D0DFF5B4E38608669528A20DEFF29D7447B6087B",
+      "name": "Circle USD",
+      "symbol": "USDC.eth.carbon",
+      "description": "USDC (ERC20) token on Carbon"
+    },
+    {
+      "base": "ibc/A14A79305A1168CF7C8071EA40B5BC647E3D3FEBBD427E38F05FE07F0B317E0A",
+      "name": "USD Coin (BEP-20)",
+      "symbol": "USDC.bsc.carbon",
+      "description": "USD Coin (BEP-20) token on Carbon"
+    },
+    {
+      "base": "ibc/3F517AB4EC381A9288A449EC7D99D75B4DEE3DE9560140344893A15A3D630DB7",
+      "name": "Zilliqa",
+      "symbol": "ZIL",
+      "description": "ZIL token on Carbon"
+    },
+    {
+      "base": "ibc/3031C6F8288BF1CBEBEA46284E92E44AA74825E09C120E4D428380532A099370",
+      "name": "BEER",
+      "symbol": "BEER",
+      "description": "BeerDog"
+    },
+    {
+      "base": "ibc/7A70A4681F85E891C9482E33DAA996489E278BB978054DC37245951BA69E5C4D",
+      "name": "TACOS",
+      "symbol": "TACOS",
+      "description": "Tacos"
+    },
+    {
+      "base": "ibc/3A0557388E2F2DB666E5D0C093E0376E154CF08BCB33C8DC5F01D1F9F928FA1B",
+      "name": "WEED",
+      "symbol": "WEED",
+      "description": "Weed"
+    },
+    {
+      "base": "ibc/C14D27EC66201E77505B4B29D0AB50B534BD96AAF82F563B57FE5AE15371257E",
+      "name": "BDOG",
+      "symbol": "BDOG",
+      "description": "Bulldog"
+    },
+    {
+      "base": "ibc/4E24E7E9294AA42CC37555F5582A7511774BB525DB504E8C5F50B84B0D5F1E04",
+      "name": "CORSO",
+      "symbol": "CORSO",
+      "description": "CaneCorso"
+    },
+    {
+      "base": "ibc/B8E9F6D1033BB3FD7E829360FC1179AA9C2DCA5CF92DFFFB3DE0DE536647CBCE",
+      "name": "Burned HUAHUA",
+      "symbol": "ashHUAHUA",
+      "description": "ashHUAHUA - Burned HUAHUA\n\nashHUAHUA - receipt token recieved when burning HUAHUA via ASH DAOs Furnace"
+    },
+    {
+      "base": "ibc/2C3E0E3B798B60F342F07757F2B097F09A1949C0E49EEBD187615BAE890DF14C",
+      "name": "Solo",
+      "symbol": "SOLO",
+      "description": "SOLO bridged from XRPL"
+    },
+    {
+      "base": "ibc/63953643441322D48D942D8990F2A59255C4A9C6F3B8167F5872C88BCD2C9A66",
+      "name": "RLUSD",
+      "symbol": "RLUSD",
+      "description": "RLUSD bridged from XRPL"
+    },
+    {
+      "base": "ibc/70FF2F374019710F752A18821B72689C10A213D44A00E7B3472B21462528E1B7",
+      "name": "Sara",
+      "symbol": "SARA",
+      "description": "SARA is the utility native token of the Pulsara ecosystem. The burn or mint of the $SARA token will be decided by the community through proposals and voting.",
+      "websiteURL": "https://www.pulsara.io",
+      "twitterURL": "https://x.com/pulsara_io"
+    },
+    {
+      "base": "ibc/3EDD165DA38E407DBDFC693CB57D3F012EB787FF8902A665D2122CDEE3F505AA",
+      "name": "liCORE",
+      "symbol": "LICORE",
+      "description": "Liquid staking asset for COREUM, by Pulsara",
+      "coingeckoID": "licore",
+      "websiteURL": "https://www.pulsara.io",
+      "twitterURL": "https://x.com/pulsara_io"
+    },
+    {
+      "base": "ibc/B7D7AA538008E2A35328820B7B56F014F1AB38205D51BB13D1F84B11D362B9ED",
+      "name": "COREZ",
+      "symbol": "COREZ",
+      "description": "$COREZ is the chillest coin on Coreum, built for stakers who believe slow and steady wins the race.",
+      "websiteURL": "https://coreezy.xyz",
+      "twitterURL": "https://x.com/CoreezyVibes"
+    },
+    {
+      "base": "ibc/EFAAE3AD05AA79647A1587E363A11B6126CC83C8C0593171BB1892A39EB550DF",
+      "name": "Nether",
+      "symbol": "NTHR",
+      "description": "Nether (NTHR) is the utility token of the Underworld NFT ecosystem, issued via tokenfactory on the Cosmos Hub. NTHR powers the NecroVault, a soft-staking platform where holders of Underworld collections earn rewards while keeping their NFTs in their wallets. Fixed supply: 21,000.\n\nNether is the core utility token of the Underworld ecosystem, built around NFTs, soft staking, rewards, and on-chain interaction inside the NecroVault. Forged on Cosmos and tied directly to the Underworld economy, NTHR connects multiple systems: NFT staking rewards, loot boxes and reward mechanics, vault perks and VIP access, liquidity incentives, and future ecosystem utilities. Holders can stake NTHR inside the NecroVault to unlock deeper rewards, multipliers, and exclusive features tied to the Underworld collections. The ecosystem currently includes multiple NFT collections that generate rewards through the NecroVault soft staking system, where users earn tokens like BANE, RUIN, and NTHR while keeping their NFTs liquid in their wallets. With a limited supply of only 21,000 tokens, NTHR acts as the long-term asset of the Underworld, powering expansions, reward systems, vault mechanics, raffles, and ecosystem distributions.",
+      "websiteURL": "https://www.necrovault.com/",
+      "twitterURL": "https://x.com/Underworld_NFTs"
+    },
+    {
+      "base": "ibc/68BAF19F76BAC04C4CEA06325EF91D43E8637AE43EAC7887CE6211B4B99E1EC0",
+      "name": "Stargaze",
+      "symbol": "STARS",
+      "description": "The native STARS token, migrated from Stargaze to the Cosmos Hub.",
+      "coingeckoID": "stargaze",
+      "websiteURL": "https://www.stargaze.zone/",
+      "twitterURL": "https://x.com/StargazeZone"
+    },
+    {
+      "base": "ibc/243B3934C4462EE254C84AA31AF42E34F1869418194D3E4161E4A659A01AC6E6",
+      "name": "POSTHUMAN",
+      "symbol": "PHMN",
+      "description": "POSTHUMAN (PHMN) is the governance token of the POSTHUMAN DAO, issued on Cosmos Hub through TokenFactory.\n\nPHMN is the governance token of POSTHUMAN DAO. The new PHMN token was created on Cosmos Hub through TokenFactory after the 2026 migration from the legacy Juno CW20 token.",
+      "websiteURL": "https://posthuman.digital/",
+      "twitterURL": "https://x.com/POSTHUMAN_DVS"
+    },
+    {
+      "base": "ibc/A47D0C6BF3033BE5B7611093C6EEDE4E3A83143FEC69B28C907CA43887059EE2",
+      "name": "POSTHUMAN Reputation",
+      "symbol": "RESP",
+      "description": "POSTHUMAN Reputation (RESP) is the reputation token of the POSTHUMAN ecosystem, migrated from the legacy Juno RESP token to Cosmos Hub through TokenFactory.\n\nRESP is the POSTHUMAN reputation token. This Cosmos Hub TokenFactory asset represents the migration of RESP from the legacy Juno token to Cosmos Hub under the new Reputation SubDAO.",
+      "websiteURL": "https://posthuman.digital/",
+      "twitterURL": "https://x.com/POSTHUMAN_DVS"
+    },
+    {
+      "base": "ibc/7D72341AF4AB0B2975BF933A425B81DAC2C940E50E7549207E2B3C6B14A9DAB2",
+      "name": "pARTy",
+      "symbol": "ART",
+      "description": "pARTy (ART) - where art meets party in the interchain. A fair-launched community art token minted natively on Cosmos Hub via tokenfactory.",
+      "websiteURL": "https://pic.zone",
+      "twitterURL": "https://x.com/pARTy_in_Cosmos"
+    },
+    {
+      "base": "ibc/04DDB3C027A5C06F499684FF02E80744CABC705ECF015460F52AE6E280006180",
+      "name": "Lumen (XLM) pegged token",
+      "symbol": "XLM",
+      "description": "Synthetic XLM pegged 1:1 by Crypto.com",
+      "websiteURL": "https://stellar.org/",
+      "twitterURL": "https://x.com/StellarOrg"
+    },
+    {
+      "base": "ibc/19F9C5CE416BAB6DA4D807CBF3C70D8860CEDD93F5FDE57CCD5C3930F4BA7FD2",
+      "name": "Pundi AIFX",
+      "symbol": "PUNDIAI",
+      "description": "PUNDIAI is an ERC-20 utility and governance token of Pundi AI ecosystem, including Pundi AI Data Platform, Pundi AI Marketplace, Pundi AIFX Omni Layer and Pundi MM AI Agent Launcher.\n\nPundiAI is the token rebrand of Function X (FX token) to align with the project's evolving AI and data-driven focus, updating tokenomics to reflect current value, enhancing market perception, improving user adoption, and possibly supporting technical or ecosystem improvements.",
+      "websiteURL": "https://fx.pundi.ai",
+      "twitterURL": "https://x.com/PundiAI"
+    },
+    {
+      "base": "ibc/2FE9F7929F8F170BE4BAAB9575913EF5727559C47FFDF925CAE171312A175EF5",
+      "name": "Test",
+      "symbol": "TEST",
+      "description": "The native fee token of Gateway."
+    },
+    {
+      "base": "ibc/48BC9DB84957B3190E6D2172B83E54DA1E16F3276E3BA01E42BFD788889324DC",
+      "name": "Worm",
+      "symbol": "WORM",
+      "description": "the native staking token of Gateway."
+    },
+    {
+      "base": "ibc/BF75AE1500CB7EC458E91A11731F1B6AC1F1FE1FA937A88564955ED6A83CA2FB",
+      "name": "Wrapped liquid staked Ether 2.0 (Wormhole)",
+      "symbol": "wstETH.wh",
+      "description": "Wrapped liquid staked Ether 2.0 (Wormhole), wstETH, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/5TSQTEhJ5Q6r1YqCmCxTRSPiV2pGx5rZUQf6g2XH4e1b"
+    },
+    {
+      "base": "ibc/E4CD61E1FA3EB04EF1BF924D676AB9FD55E84A0DCF4E78C11CCA0E14E5B42672",
+      "name": "Wrapped BTC (Wormhole)",
+      "symbol": "WBTC.wh",
+      "description": "Wrapped BTC (Wormhole), WBTC, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/BGkuAcga2WArUghF8L6kt6uCAhAzrxmn1QcbQqi5r5bd"
+    },
+    {
+      "base": "ibc/6207D35D2C08F2162575C3C4BFD524226E50639121A273045F1B393AF67DCEB3",
+      "name": "tBTC v2 (Wormhole)",
+      "symbol": "tBTC",
+      "description": "tBTC v2 (Wormhole), tBTC, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/BhqTYfQogyt7jX7cx7x8uHEQP1x9fdtdBZtK4Swghgpw"
+    },
+    {
+      "base": "ibc/898ACF6F5DEBF535103BBD52E3E5B70A311AD097B198A152483F69290B4210C0",
+      "name": "Dai Stablecoin (Wormhole)",
+      "symbol": "DAI.wh",
+      "description": "Dai Stablecoin (Wormhole), DAI, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/EKiMEqDnPKokFGcSXDvGMk6Gt1BJ6BC7BDZzTmEpWLH1"
+    },
+    {
+      "base": "ibc/0B3C3D06228578334B66B57FBFBA4033216CEB8119B27ACDEE18D92DA5B28D43",
+      "name": "Avalanche USD Coin (Wormhole)",
+      "symbol": "avalanche.USDC.wh",
+      "description": "Avalanche USD Coin (Wormhole), Avalanche USDC, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/5ZLmAZpcbaP4EGyihSmpfwryzDr84h51tboV392BCjW4"
+    },
+    {
+      "base": "ibc/C9FADE15CBFACDF6A5B762100EDD999835CDBACD16D4BD2127ACC4EA40D0B276",
+      "name": "Gonka",
+      "symbol": "GNK",
+      "description": "Coins for the Gonka network.\n\nGonka is a decentralized AI infrastructure designed to optimize computational power specifically for AI model training and inference, offering a competitive alternative to traditional centralized cloud providers. Centralized systems are often expensive, monopolistic, and carry risks of censorship, whereas existing decentralized networks frequently waste resources on non-productive tasks, such as network security.\n\nWe introduce an innovative consensus mechanism that ensures nearly 100% of computational resources are used for meaningful AI tasks, maximizing efficiency and minimizing operational costs.",
+      "twitterURL": "https://x.com/gonka_ai",
+      "discordURL": "https://discord.com/invite/RADwCT2U6R"
+    },
+    {
+      "base": "ibc/CBC60FC96BD21708D3B60B2E4AD949E0DA07C67EFE6A8D463298806CD507A9CF",
+      "name": "pSTAKE Finance",
+      "symbol": "PSTAKE.grv",
+      "description": "pSTAKE is a liquid staking protocol unlocking the liquidity of staked assets."
+    },
+    {
+      "base": "ibc/723134C962D78FC0E35610DB6D6A19B5B791D04FE8F4154E4AAB7BDAB28DBB45",
+      "name": "Savings Dai",
+      "symbol": "sDAI",
+      "description": "Gravity Bridge sDAI"
+    },
+    {
+      "base": "ibc/0362302C7F45A97E304A087F05553DCECF0EAED24A17BC3D5B1BCC5E5B787E4C",
+      "name": "OccamFi",
+      "symbol": "OCC",
+      "description": "Gravity Bridge OCC"
+    },
+    {
+      "base": "ibc/FEDB33BCBD8F18D341B4683A6CF5B0BDAB1A6FAE4574C82995DFBB36344D6A45",
+      "name": "HAQQ Token",
+      "symbol": "HAQQ",
+      "description": "HAQQ is the ecosystem token of the Haqq ecosystem\n\nHAQQ is the ecosystem participation token of the Haqq ecosystem, designed to connect product activity, users, and value into a unified economic layer",
+      "websiteURL": "https://ethiq.network",
+      "twitterURL": "https://x.com/The_HaqqNetwork"
+    },
+    {
+      "base": "ibc/34D327C2D4CEECF0F3FCAE68E2DA630C1218D91C365372918A8310BF79491615",
+      "name": "HazinaChain",
+      "symbol": "HZN",
+      "description": "The native staking and governance token of HazinaChain"
+    },
+    {
+      "base": "ibc/24C3429B835A84801EFEFC28C8CBDF787C4067D971CB6E510BB525FA462CCE1C",
+      "name": "Hippo Protocol",
+      "symbol": "HP.hippoprotocol",
+      "description": "The native token of Hippo Protocol.\n\nOne Protocol. Every Patient. Infinite Possibility.",
+      "coingeckoID": "hippo-protocol",
+      "websiteURL": "https://hippoprotocol.ai/",
+      "twitterURL": "https://x.com/Hippo_Protocol"
+    },
+    {
+      "base": "ibc/2CDA7CA33077911B2BF5E5D3423B6CC76E1093A7F8A6D876943C2AF69CBC9875",
+      "name": "ERIS Amplified INJ",
+      "symbol": "ampINJ",
+      "description": "ERIS liquid staked INJ"
+    },
+    {
+      "base": "ibc/D3106C9AB1815B5115EB5530A61A583C609537261E97CC296DF3499728332914",
+      "name": "BackBone Labs Liquid Staked Injective",
+      "symbol": "bINJ",
+      "description": "BackBone Labs Liquid Staked Injective"
+    },
+    {
+      "base": "ibc/4D94993AE480ED13FB0FF241C83009BA2BA2A6E801B04C002B5860FAACAF072D",
+      "name": "Oyster Cage Initiative",
+      "symbol": "OYCI",
+      "description": "RWA Commercial fishing operation"
+    },
+    {
+      "base": "ibc/1DCC282ACE088614FFE6473309255D2EEFDCE9BE50CA402F8362EC0206296F25",
+      "name": "WGMI",
+      "symbol": "WGMI",
+      "description": "The $WGMI Token - We Gonna Make It. Are you ready?"
+    },
+    {
+      "base": "ibc/7295195818D9208637DE141D3E559E9D6FBBCA5E4009CA42BCC949DF5CC0051E",
+      "name": "Ninpo",
+      "symbol": "NINPO",
+      "description": "The second meme coin on Injective."
+    },
+    {
+      "base": "ibc/69628D9E55DE019D28262C2A5F2229E043FF2D46CCAD1802BBDEEAD338367A4E",
+      "name": "Judo",
+      "symbol": "JUDO",
+      "description": "JUDO is a very futuristic meme token."
+    },
+    {
+      "base": "ibc/79DD486C76A7E3E26209CB43CD7F7D7E63B25B59A76A69F9E44398B8BDBEDA86",
+      "name": "Neptune Receipt INJ",
+      "symbol": "nINJ",
+      "description": "A receipt token for lent INJ issued by the Neptune Protocol."
+    },
+    {
+      "base": "ibc/D794D795D87B7027F5DCD7970385AB764DD3973AAB1D7872A5DA87B4419E8D88",
+      "name": "Neptune Receipt ATOM",
+      "symbol": "nATOM",
+      "description": "A receipt token for lent ATOM issued by the Neptune Protocol."
+    },
+    {
+      "base": "ibc/2682393F9FBCA80BA3BB2E2E20429E2BEF742DD4BE871A70D2CB566B3F39CD33",
+      "name": "Neptune Receipt WETH",
+      "symbol": "nWETH",
+      "description": "A receipt token for lent WETH issued by the Neptune Protocol."
+    },
+    {
+      "base": "ibc/D2F6AD62E486AC49EA6A3D871589051BBF0C7FA690D1122109228B4DB6F8D7C3",
+      "name": "Neptune Receipt TIA",
+      "symbol": "nTIA",
+      "description": "A receipt token for lent TIA issued by the Neptune Protocol."
+    },
+    {
+      "base": "ibc/1F6175290F87534F4F196FA8F82B0123BED1775CB14FA3F1EDEB8984E98C60FC",
+      "name": "Talis Token",
+      "symbol": "TALIS",
+      "description": "Talis governance token",
+      "websiteURL": "https://talis.art/",
+      "twitterURL": "https://x.com/ProtocolTalis"
+    },
+    {
+      "base": "ibc/F7ED35989BD0A90E51600A489FCE11239E8D23D9A40871C0C8B54FA59648A037",
+      "name": "xTalis Token",
+      "symbol": "XTALIS",
+      "description": "Talis revenue sharing token",
+      "websiteURL": "https://talis.art/",
+      "twitterURL": "https://x.com/ProtocolTalis"
+    },
+    {
+      "base": "ibc/48758FA2437CF45A8B9B1913E269BFFA402EE87B5FFE9A2A5607318885824739",
+      "name": "Syndicate",
+      "symbol": "SYN",
+      "description": "The most degenerate NFT on Injective. Gravedigger collection for $bINJ. Giving power back to the community."
+    },
+    {
+      "base": "ibc/E7F6020A50978D9242EECAC6E4219F811000A75FC3DB8EBB8A3DF40E6EDFEA6F",
+      "name": "ASH Syndicate",
+      "symbol": "ashSYN",
+      "description": "SYN burn Derivative; minted when SYN is burned via The Furnace"
+    },
+    {
+      "base": "ibc/1FE58A615503ACFACF98532376F974F9E20226B2A8FA1BBFE79B96F351E7FC13",
+      "name": "DRUGS",
+      "symbol": "DRUGS",
+      "description": "Distributing happiness, is a serious business"
+    },
+    {
+      "base": "ibc/3EAA31A1840677D51A0E73544A34CCFC8451759E438AEF9037BB340586B82ADE",
+      "name": "Neptune Receipt SOL",
+      "symbol": "nSOL",
+      "description": "A receipt token for lent SOL issued by the Neptune Protocol."
+    },
+    {
+      "base": "ibc/3D708CC7C47DA9371B4DBCE744C29DD7C5240AF9DC52C31130CB693888A485CB",
+      "name": "Neptune Finance",
+      "symbol": "NEPT",
+      "description": "The native governance and staking token for the Neptune Finance protocol",
+      "coingeckoID": "neptune-2",
+      "websiteURL": "https://nept.finance/",
+      "twitterURL": "https://x.com/neptune_finance"
+    },
+    {
+      "base": "ibc/648260E4FF8AEDD310F2A72930F25DD7F43DD82F45F66E53B4A70A0C216FA53B",
+      "name": "Cosmos Bitcoin",
+      "symbol": "BITCOIN",
+      "description": "Cosmos Bitcoin",
+      "websiteURL": "https://getbitcoinmeme.com"
+    },
+    {
+      "base": "ibc/1B23B6F7DAC37267F04E82466AB798CC59F941BD4AE5653C497730F174F14849",
+      "name": "Crypto",
+      "symbol": "CRYPTO",
+      "description": "Crypto",
+      "websiteURL": "https://getcryptomeme.com"
+    },
+    {
+      "base": "ibc/54C7B977B96DFC56D877A7F74D22BD26B5E42CA6171F120F5A36AC82BFD4711A",
+      "name": "Bricscoin",
+      "symbol": "BRICS",
+      "description": "Bricscoin",
+      "websiteURL": "https://bricscoin.cash"
+    },
+    {
+      "base": "ibc/A436BC9498153DC580B56BD27043BBFE08A1754696C05FFF00B2A41EC796D180",
+      "name": "Instant Noodles Coin",
+      "symbol": "INC",
+      "description": "Instant Noodles Coin",
+      "websiteURL": "https://instantnoodles.xyz"
+    },
+    {
+      "base": "ibc/B2E560CE482E53CFFAC1F009C8525B3753206638D1AD62B8F71871E447599DC2",
+      "name": "Hydro Wrapped hINJ",
+      "symbol": "hINJ",
+      "description": "Factory Wrapped hINJ - Hydro Staked INJ"
+    },
+    {
+      "base": "ibc/0CAAE33AD6708DE2CFBE368DB16F24E1CB9BB3B91328EC61EEB3D1027AEBCC55",
+      "name": "Agora USD",
+      "symbol": "AUSD",
+      "description": "Agora USD Coin",
+      "websiteURL": "https://agora.finance"
+    },
+    {
+      "base": "ibc/2D804D4EB2A53964059510EA1E9BC41871DC0E35E3D93C5C83D90EA8783C3770",
+      "name": "HELIXPOINT",
+      "symbol": "HELIXPOINT",
+      "description": "HELIXPOINT is the points token on Injective, launched on Trippy Pump (SHROOM Pad)",
+      "websiteURL": "https://wenpoints.xyz",
+      "twitterURL": "https://x.com/helixpoints",
+      "telegramURL": "https://t.me/helixpoints"
+    },
+    {
+      "base": "ibc/2FEB645FC9CAA36146C29079A07840B1FDE96468FB62211AD669E767B770F72E",
+      "name": "Motion",
+      "symbol": "MOTION",
+      "description": "MOTION is the token of Motionism on Injective, launched on Trippy Pump (SHROOM Pad). Nothing happens until something moves.",
+      "coingeckoID": "motion-6",
+      "websiteURL": "https://motionism.xyz",
+      "twitterURL": "https://x.com/motionismxyz",
+      "telegramURL": "https://t.me/motionismxyz"
+    },
+    {
+      "base": "ibc/2AE297399A20F5CCC7F943901CB050AE40EC4E8804D73050ADC5BB2B8128DD4C",
+      "name": "NEXX GEN AI",
+      "symbol": "NEXX",
+      "description": ""
+    },
+    {
+      "base": "ibc/43E2B0BB9753B6090023055F150B6EB56DBC8A84338F2560E520D7A18DDBF812",
+      "name": "Wind Token",
+      "symbol": "WIND",
+      "description": ""
+    },
+    {
+      "base": "ibc/37544C63D9B42019F6C8EF2A1702CF780A4C7F8C0D4F5BE8980F475D6E610500",
+      "name": "Arena Token",
+      "symbol": "ARENA",
+      "description": "The token for the Arena DAO"
+    },
+    {
+      "base": "ibc/57BD7DB23E685F6B0BB9013E51CFB627FBFE9347360137159703E963B179E7C7",
+      "name": "ashWIND",
+      "symbol": "ashWIND",
+      "description": "ashWIND"
+    },
+    {
+      "base": "ibc/88DBE57372690630D2DD9779C247479CE124E777C5D695FA90699F3140CEC59F",
+      "name": "Lumen",
+      "symbol": "LMN",
+      "description": "The native staking token of Lumen.\n\nLumen is a Cosmos SDK chain focused on DNS auctions, release distribution, and gateway settlement flows.",
+      "websiteURL": "https://lumen-browser.com/",
+      "twitterURL": "https://x.com/LumenStack",
+      "telegramURL": "https://t.me/+HBWh_cUJCrZiODE0",
+      "discordURL": "https://discord.gg/DwK6V9shKc",
+      "githubURL": "https://github.com/network-lumen/"
+    },
+    {
+      "base": "ibc/78C9FC2412DA11C71FFDDBC3DE03584AF72A50EB5C572EEB31083ACC31AD706A",
+      "name": "Manifest Power Token",
+      "symbol": "PWR",
+      "description": "Manifest Power token"
+    },
+    {
+      "base": "ibc/4EDB04DED162ED1D45F86F8C7F92E011E8CF3AE9E5214BD3EA06F9D05B38F18D",
+      "name": "MANTRA",
+      "symbol": "MANTRA",
+      "description": "The native token of MANTRA\n\nThe first RWA Layer 1 Blockchain, capable of adherence and enforcement of real world regulatory requirements.",
+      "coingeckoID": "mantra",
+      "websiteURL": "https://www.mantrachain.io/",
+      "twitterURL": "https://x.com/MANTRA_Chain"
+    },
+    {
+      "base": "ibc/8B84D6340B0340917D3E2E3A17B4BE962F5593637AD7E42F6AE61D6A00ACE713",
+      "name": "MuCoin",
+      "symbol": "MUC",
+      "description": "MUC is the native staking, governance and transaction fee token of the MuCoin blockchain.\n\nMuCoin is a Cosmos SDK blockchain created for the MuCoin ecosystem and inspired by the world of MU Online.",
+      "websiteURL": "https://mucoin.org"
     },
     {
       "base": "ibc/0FC38457AF15A8BD1962BB97DDF1AB5EF4C74C5BFDAEF00289A9C405CBD609B0",
@@ -6838,10 +7035,11 @@
       "description": "(Deprecated) PSTAKE Liquid-Staked XPRT"
     },
     {
-      "base": "ibc/F82E97B58F45D32AE2199AE8AD9979FFD35CDC823BB3EB34C36349E374A8EFE3",
-      "name": "Realio Security Token",
-      "symbol": "RST",
-      "description": "A hybrid equity token that represent ownership of the Realio Ecosystem and provides utility functions on the Network."
+      "base": "ibc/DBAA4846F611A7603EFCE6F9F46F4F561D48B1F492A576022F000614A17089CE",
+      "name": "Safrochain",
+      "symbol": "SAF",
+      "description": "The native staking, governance, and fee token of Safrochain, a mobile-first mobile-money-powered blockchain connecting mobile wallets to on-chain finance and interoperable digital rails.\n\nSafrochain is building a mobile-first, mobile-money-powered blockchain that connects blockchain infrastructure to mobile money networks—turning mobile wallets into gateways to stablecoins, programmable finance, cross-border settlement, and lower-cost interoperable transfers across operators and borders.",
+      "websiteURL": "https://safrochain.com"
     },
     {
       "base": "ibc/B38908D9639A8DAEB43FF12143D60B1C2C6B109041D5A53790777909D778B1B5",
@@ -6862,72 +7060,12 @@
       "description": "A wise dog and a marshal arts master"
     },
     {
-      "base": "ibc/53B651EDCF2C113AAE9E4CFDA6C440D6A97C6CCDB9C0AC22C52DCDC88B4984FD",
-      "name": "Gaze GAZE",
-      "symbol": "GAZE",
-      "description": "The native meme token of stargaze."
-    },
-    {
-      "base": "ibc/890DEC838146A50D89B98787483E6417118AF1F86E04CF36030DCB478EBBB16D",
-      "name": "ohhVAULT ohh",
-      "symbol": "OHH",
-      "description": "Social token for the ohhVAULT."
-    },
-    {
-      "base": "ibc/EA0C8F1121425943740B2D1B1DC5BDD717D49A9D5A639DC7074C10E9212CC794",
-      "name": "PLEB",
-      "symbol": "PLEB",
-      "description": "PLEB"
-    },
-    {
-      "base": "ibc/78E3219692862E88A1B87E90B3C8B4204EA1FE960CC9AF3C2166DBA0017B80CA",
-      "name": "KINGSHIT",
-      "symbol": "KINGSHIT",
-      "description": "KINGSHIT"
-    },
-    {
-      "base": "ibc/A02F0787C8A44FDB50E9913710646776DD1C4AA0763255EBF4628AD9B8CA8B85",
-      "name": "BOTZ",
-      "symbol": "BOTZ",
-      "description": "BOTZ"
-    },
-    {
-      "base": "ibc/0416C3B0EA171B8090608AFFE5A298F64E2ECBAD22121A9D6F12A9A1B9F1E1B4",
-      "name": "COCKS",
-      "symbol": "COCKS",
-      "description": "COCKS"
-    },
-    {
-      "base": "ibc/898EC7A8ECE18E3763712584C113A4797055625EADCF33CDB136E16E68387573",
-      "name": "WOLFSHIT",
-      "symbol": "WOLFSHIT",
-      "description": "WOLFSHIT"
-    },
-    {
-      "base": "ibc/E283EC26D115548C2664FDADC55E0BBA50CD0C8C3065A95C8FA5DDD70CBF373E",
-      "name": "VLT",
-      "symbol": "VAULT",
-      "description": "Native token of the Underworld."
-    },
-    {
-      "base": "ibc/108DE2555A0E438D06AD4BBD4E068484FA07DD9349A651DCF3A88A1F9DD2F5F7",
-      "name": "OLDbglSTARS",
-      "symbol": "OLDbglSTARS",
-      "description": "OLD Bonded GopLend STARS\n\nOLD | bglSTARS (Bonded GopLend STARS) is issued in exchange for STARS for the deposit period. These tokens are liquid and generate income in the amount of the set APR on the platform"
-    },
-    {
-      "base": "ibc/84D406C9108CFE59DE3E186DE1D00606AC42DA5ACFBFE7DF903AD54CE5F64143",
-      "name": "OLDbglUSDC",
-      "symbol": "OLDbglUSDC",
-      "description": "OLD Bonded GopLend USDC\n\nOLD | bglUSDC (Bonded GopLend USDC) is issued in exchange for USDC for the deposit period. These tokens are liquid and generate income in the amount of the set APR on the platform"
-    },
-    {
-      "base": "ibc/CC2CB717F04C8BD028C34CC18AC878E4F6134E3178E38BCE9454468AC0577776",
-      "name": "Clown Society",
-      "symbol": "CLW",
-      "description": "The official token of the Clown Society, originating on Stargaze.",
-      "websiteURL": "https://www.clown-society.com/",
-      "twitterURL": "https://x.com/ClownsocieT"
+      "base": "ibc/FB26E04E71EACCCCCD6D81F0F7666D5567C3A1686E2AC577FCC03F28F5B5874F",
+      "name": "Sovren",
+      "symbol": "SOVR",
+      "description": "SOVR is the sole unit of account of the Sovren Layer 1: staking, governance, gas, and service payments.\n\nSovren is a Layer 1 blockchain built with the Cosmos SDK and CometBFT consensus that settles payment for infrastructure work. Licensed node operators supply storage, bandwidth, content delivery, compute and vector search. That capacity is offered as conventional cloud services through Triton Cloud and is also consumed by Sovren Technologies' own applications, including Parler, Play, Pay and Shop. Every processed request produces a signed cryptographic receipt, and operator weight derives from verified delivery. SOVR pays transaction fees, is staked to secure the chain under proof-of-stake consensus, carries governance rights over protocol parameters and upgrades, and settles payment to node operators for services delivered. Holders can also use SOVR to pay for Triton Cloud services. The sovr-1 mainnet produced its genesis block on 6 May 2026. Maximum supply is fixed at 1,000,000,000 SOVR.",
+      "websiteURL": "https://sovrentech.io",
+      "twitterURL": "https://x.com/sovrentech"
     },
     {
       "base": "ibc/CB10783FD6E5CB6155E6CA0B1558061874EEE85291DD4306D1C0B2724E361EC5",
@@ -6960,6 +7098,13 @@
       "name": "Harmony VND",
       "symbol": "HVND",
       "description": "Harmonized VND"
+    },
+    {
+      "base": "ibc/6CF86ACC0BC170B45A41FFAA138B062CFA454D919490B79CCAA8491B3B4B420D",
+      "name": "TAIL Network",
+      "symbol": "TAIL",
+      "description": "The native token of TAIL Network",
+      "websiteURL": "https://trusttails.io"
     },
     {
       "base": "ibc/AF5CF6B225B1C03E7F9C2A1AE80CB3BED4E2E7D7F79D5B85679EC2E6925C7289",
@@ -7146,6 +7291,26 @@
       "name": "Eris Protocol LUNA/ampLUNA ampLP",
       "symbol": "LUNA-ampLUNA-ampLP",
       "description": "Eris Protocol LUNA/ampLUNA ampLP"
+    },
+    {
+      "base": "ibc/897E03F5F866333ED0CD1F732E6A7E86D9B79D59970BC2F8BC4A77A47737F16C",
+      "name": "Turkchain",
+      "symbol": "TURK",
+      "description": "Native token of Turkchain\n\nTurkchain is a Cosmos SDK and EVM compatible blockchain focused on interoperability, DeFi and Web3 infrastructure.",
+      "websiteURL": "https://turkscan.com"
+    },
+    {
+      "base": "ibc/D09120C7085DFA412DF77608DAD3A4797F5F097A038DA0C2E1D1426FC9CD836D",
+      "name": "WoloChain",
+      "symbol": "WOLO",
+      "description": "WOLO is the fixed-supply native token of WoloChain.\n\nWOLO powers AoE2WAR betting, staking, rewards, and settlement for Age of Empires II matches.",
+      "websiteURL": "https://aoe2war.com"
+    },
+    {
+      "base": "factory/osmo147h5x9pcj7lm0cttlaefx6sqq5vdfnmwfcqxkmjd7exqm9gc7grqhr75m0/alloyed/allUSDC",
+      "name": "USD Coin",
+      "symbol": "USDC.osmosis",
+      "description": "An alloy of USDC asset variants on Osmosis.\n\nMultiple USD Coin variants on Osmosis comprise the liquidity backing of a tokenized transmuter pool to create an alloy of USDC."
     },
     {
       "base": "factory/osmo1vdvnznwg597qngrq9mnfcfk0am9jdc9y446jewhcqdreqz4r75xq5j5zvy/ymos",

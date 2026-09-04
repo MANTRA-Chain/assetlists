@@ -2,20 +2,166 @@ Checking IBC client status for 166 unique channels (940 IBC assets in frontend).
 
 Checking counterparty client status for 3 channel(s)...
 
-No changes needed.
+✓ Updated ../../../osmosis-1/osmosis.zone_assets.json
 
 ======================================================================
   IBC CLIENT HEALTH SUMMARY
 ======================================================================
   Channels checked      : 166
-  Active assets         : 609
-  Already flagged       : 295
-  Newly flagged         : 0
-  Flag cleared          : 0
+  Active assets         : 469
+  Already flagged       : 321
+  Newly flagged         : 141
+  Flag cleared          : 1
   Entry removed         : 0
-  Counterparty skipped  : 36
+  Counterparty skipped  : 9
   Errors                : 0
 ======================================================================
+
+🔴 NEWLY FLAGGED unstable (expired/frozen client):
+  STARS                transfer/channel-75/ustars                    status=Expired  client=07-tendermint-1562
+  STRDST               transfer/channel-75/factory/stars16da2uus9zrsy83h23ur42v3lglg5rmyrpqnju4/dust status=Expired  client=07-tendermint-1562
+  BRNCH                transfer/channel-75/factory/stars16da2uus9zrsy83h23ur42v3lglg5rmyrpqnju4/uBRNCH status=Expired  client=07-tendermint-1562
+  SNEAKY               transfer/channel-75/factory/stars1xx5976njvxpl9n4v8huvff6cudhx7yuu8e7rt4/usneaky status=Expired  client=07-tendermint-1562
+  HOOD                 transfer/channel-75/factory/stars1rru5m2wh3fylpheqh8h5g968jwhe7rctkfm7u0gwk7ka4vx3q5tqukjl4z/hood status=Expired  client=07-tendermint-1562
+  GAZE                 transfer/channel-75/factory/stars16da2uus9zrsy83h23ur42v3lglg5rmyrpqnju4/mGAZE status=Expired  client=07-tendermint-1562 [new entry]
+  OHH                  transfer/channel-75/factory/stars16da2uus9zrsy83h23ur42v3lglg5rmyrpqnju4/uOHH status=Expired  client=07-tendermint-1562 [new entry]
+  PLEB                 transfer/channel-75/factory/stars1k7qsxdxh8calmt4txk75e6hdntefslegwddqnlwjjqgjkmcfqy0qa97sn8/pleb status=Expired  client=07-tendermint-1562 [new entry]
+  KINGSHIT             transfer/channel-75/factory/stars133a6mnkp9d3pkt48y699hy0tvq5xngpz7cwak0qr4suq0cj9zpfslvt0em/kingshit status=Expired  client=07-tendermint-1562 [new entry]
+  BOTZ                 transfer/channel-75/factory/stars132jrwxjps93usq3ejy7cq6qqc7j3gtx3mu8jhaj5nnk3p0ste2ssqsndvj/botz status=Expired  client=07-tendermint-1562 [new entry]
+  COCKS                transfer/channel-75/factory/stars14mfk0sd6rlajkvgpgrvfk9lfhjwmkrzvednekvcn32jzy3drjy5sfem9p7/cocks status=Expired  client=07-tendermint-1562 [new entry]
+  WOLFSHIT             transfer/channel-75/factory/stars167y92c2fe690l0lrqyk9tahpqvu97au0cmpayh3j9455r2f6f06s78emw4/wolfshit status=Expired  client=07-tendermint-1562 [new entry]
+  VAULT                transfer/channel-75/factory/stars1t6fyr84hn6lyjdvk3e3c697cptfn5cwat2jxqyzuvuesaypznslshy6x9v/vlt status=Expired  client=07-tendermint-1562 [new entry]
+  OLDbglSTARS          transfer/channel-75/factory/stars1ur79p98rmpn456esgzjernaxy7v25mlwqsv8uhymzxahfw77427syk2h9j/bglSTARS status=Expired  client=07-tendermint-1562 [new entry]
+  OLDbglUSDC           transfer/channel-75/factory/stars1ur79p98rmpn456esgzjernaxy7v25mlwqsv8uhymzxahfw77427syk2h9j/bglUSDC status=Expired  client=07-tendermint-1562 [new entry]
+  CLW                  transfer/channel-75/factory/stars1khzuhuhv02vaturh9x9lz4jach824x9umcgghl/uCLW status=Expired  client=07-tendermint-1562 [new entry]
+  LIKE                 transfer/channel-53/nanolike                  status=Expired  client=07-tendermint-1507
+  BOOT                 transfer/channel-95/boot                      status=Expired  client=07-tendermint-1597
+  HYDROGEN             transfer/channel-95/hydrogen                  status=Expired  client=07-tendermint-1597
+  TOCYB                transfer/channel-95/tocyb                     status=Expired  client=07-tendermint-1597
+  V                    transfer/channel-95/millivolt                 status=Expired  client=07-tendermint-1597
+  A                    transfer/channel-95/milliampere               status=Expired  client=07-tendermint-1597
+  CMDX                 transfer/channel-87/ucmdx                     status=Expired  client=07-tendermint-1587
+  CMST                 transfer/channel-87/ucmst                     status=Expired  client=07-tendermint-1587
+  HARBOR               transfer/channel-87/uharbor                   status=Expired  client=07-tendermint-1587
+  UMEE                 transfer/channel-184/uumee                    status=Expired  client=07-tendermint-1805
+  KUJI                 transfer/channel-259/ukuji                    status=Expired  client=07-tendermint-2017
+  USK                  transfer/channel-259/factory:kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7:uusk status=Expired  client=07-tendermint-2017
+  MNTA                 transfer/channel-259/factory:kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7:umnta status=Expired  client=07-tendermint-2017
+  NSTK                 transfer/channel-259/factory:kujira1aaudpfr9y23lt9d45hrmskphpdfaq9ajxd3ukh:unstk status=Expired  client=07-tendermint-2017
+  USK.kuji             transfer/channel-259/factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk status=Expired  client=07-tendermint-2017 [new entry]
+  qcKUJI               transfer/channel-259/factory/kujira1m96ucsfpt2yy72w09z2rxjdj38y5qd8lqx5jtggnejmdua2ynpnsxyvjex/urcpt status=Expired  client=07-tendermint-2017 [new entry]
+  ampKUJI              transfer/channel-259/factory/kujira1n3fr5f56r2ce0s37wdvwrk98yhhq3unnxgcqus8nzsfxvllk0yxquurqty/ampKUJI status=Expired  client=07-tendermint-2017 [new entry]
+  MNTA.kuji            transfer/channel-259/factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta status=Expired  client=07-tendermint-2017 [new entry]
+  qcMNTA               transfer/channel-259/factory/kujira1qzu3up50auxhqyzfq56znuj8n38q2ra7daaf9ef7vg8gu66jh4fqd2wd2y/urcpt status=Expired  client=07-tendermint-2017 [new entry]
+  ampMNTA              transfer/channel-259/factory/kujira175yatpvkpgw07w0chhzuks3zrrae9z9g2y6r7u5pzqesyau4x9eqqyv0rr/ampMNTA status=Expired  client=07-tendermint-2017 [new entry]
+  WINK                 transfer/channel-259/factory/kujira12cjjeytrqcj25uv349thltcygnp9k0kukpct0e/uwink status=Expired  client=07-tendermint-2017 [new entry]
+  BLEND                transfer/channel-259/factory/kujira1slueerjz7mx9jp45u3y0rjwtvhcf8a68wf2mjt/ublend status=Expired  client=07-tendermint-2017 [new entry]
+  FUZN                 transfer/channel-259/factory/kujira1sc6a0347cc5q3k890jj0pf3ylx2s38rh4sza4t/ufuzn status=Expired  client=07-tendermint-2017 [new entry]
+  rFUZN                transfer/channel-259/factory/kujira1sc6a0347cc5q3k890jj0pf3ylx2s38rh4sza4t/urfuzn status=Expired  client=07-tendermint-2017 [new entry]
+  yFUZN                transfer/channel-259/factory/kujira1sc6a0347cc5q3k890jj0pf3ylx2s38rh4sza4t/uyfuzn status=Expired  client=07-tendermint-2017 [new entry]
+  qcFUZN               transfer/channel-259/factory/kujira1l04ged98c7a7s9tllu62ld09ztylwf442qgm4thfgmadrvngeumsz4zrh2/urcpt status=Expired  client=07-tendermint-2017 [new entry]
+  qcAQLA               transfer/channel-259/factory/kujira1d9fmsgvu3yvvppvqech2s3dhrqdm5ukngcf82ghcl70edfpwcrlsu6yr0u/urcpt status=Expired  client=07-tendermint-2017 [new entry]
+  AQLA                 transfer/channel-259/factory/kujira1xe0awk5planmtsmjel5xtx2hzhqdw5p8z66yqd/uaqla status=Expired  client=07-tendermint-2017 [new entry]
+  NSTK.kuji            transfer/channel-259/factory/kujira1aaudpfr9y23lt9d45hrmskphpdfaq9ajxd3ukh/unstk status=Expired  client=07-tendermint-2017 [new entry]
+  LOCAL                transfer/channel-259/factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local status=Expired  client=07-tendermint-2017 [new entry]
+  PLNK                 transfer/channel-259/factory/kujira166ysf07ze5suazfzj0r05tv8amk2yn8zvsfuu7/uplnk status=Expired  client=07-tendermint-2017 [new entry]
+  bKUJI                transfer/channel-259/factory/kujira15e8q5wzlk5k38gjxlhse3vu6vqnafysncx2ltexd6y9gx50vuj2qpt7dgv/boneKuji status=Expired  client=07-tendermint-2017 [new entry]
+  xUSK                 transfer/channel-259/factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt status=Expired  client=07-tendermint-2017 [new entry]
+  xMNTA                transfer/channel-259/factory/kujira1ya42knfcsvy6eztegsn3hz7zpjvhzn05ge85xa2dy2zrjeul9hnspp3c06/urcpt status=Expired  client=07-tendermint-2017 [new entry]
+  LP-DOT.axl-MNTA      transfer/channel-259/factory/kujira10qyzrqaza0f593cmnl4sc3p3nhqqakn9j56d899u723pznxpn8us6cypuw/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-SHD-MNTA          transfer/channel-259/factory/kujira12tpc335t72qtrjh64ccdydzsr9qtswkqn72cyvfj4d5hmtgynphsv4xjtu/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-DYDX-MNTA         transfer/channel-259/factory/kujira13g2eelkf9q4md4xx52ylqvlgpccn50f2vyu05eazufd2g4jatmhq2425pq/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-wAVAX.axl-MNTA    transfer/channel-259/factory/kujira15pk8c09vcsgsdq4xlh2qfqxtu2r8pgdy7nggkqj8p3h2phke80pqwnvtzk/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-CHEQ-MNTA         transfer/channel-259/factory/kujira15w6jhxsv924mn9cfr0qg9z36hltmw4rzd68x40d9re6hzyhslumqjw9zqd/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-FUZN-MNTA         transfer/channel-259/factory/kujira1622xuv8unv22xzazljvqh8uukcdz3yzmrp6axgerh7vxg4kum5tqcwcqmv/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-SOMM-MNTA         transfer/channel-259/factory/kujira17djzq5x5e5zm9q9zlp6dtxdt9p8q2zvj0qtmjs0wrxm5g9e2vf5q9d6y2t/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-wETH.axl-MNTA     transfer/channel-259/factory/kujira17x2v39aut0paj5d6wc5jxvqqxrdhy9kvca4y5xn6vsfpsxkgc6gq7n4tg0/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-NTRN-MNTA         transfer/channel-259/factory/kujira18lhugzap20ndlqr5j2p86yk4pxpe9jjuac05z0ypxuwn3mm5vjhsjh4etr/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-wFTM.axl-MNTA     transfer/channel-259/factory/kujira18mveas6xseaqu3fmukwv2ac6mp4hszk08lvyamedytjs0kxm42yqs9v89x/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-STARS-MNTA        transfer/channel-259/factory/kujira1av284rnqh6s0l2lwdqgpgz8wuva3wh9lkmlsupjd9escn5v4fels6kwc7v/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-TIA-MNTA          transfer/channel-259/factory/kujira1cpdyhrkwdnz38u45el3zq7007at9dm6h05tc36zpxvs6vrdwzrrskt0tgg/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-SOL.wh-MNTA       transfer/channel-259/factory/kujira1eqd96322ec258w7k9n9cfqkusrlvzwv38jkph3qs720egdv0epmq70j2zl/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-DYM-MNTA          transfer/channel-259/factory/kujira1fg7wmsde7ygw3pm6hqmd29cdvp947anajmunsvk0guvjta3md25qdqk4fw/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-AKT-MNTA          transfer/channel-259/factory/kujira1gnftck9586x0nhsqsj99k9zednl6tx4kezu9hpph0u6jtqnafpyqxha3me/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-LINK.axl-MNTA     transfer/channel-259/factory/kujira1gnvja05kkmpeh9dnxl0c2p4sde7fpsy2r44njzyqgpsf72nqs78q3gzpzc/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-wTAO.grv-MNTA     transfer/channel-259/factory/kujira1gz2kvfw7hpds9fvygwkj64znl3a9pw697g77cspcq5y4vj3ru45s7qc0rd/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-MNTA-KUJI         transfer/channel-259/factory/kujira1h75predtjdm2e7u8cuvqs3usc6xs2mxlkcr20zsshvw3qap25frsr4z949/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-AXL-MNTA          transfer/channel-259/factory/kujira1h929g9e9vxhc5y8v7uexdrncacxdatjupr67velewafwepfyfaaq6s7l3v/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-ATOM-MNTA         transfer/channel-259/factory/kujira1h9f3k54j060pzlnea8ep8qfymsmwl5yhwc5hqept5p2esqzve7tq2ghnm4/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-ARB-MNTA          transfer/channel-259/factory/kujira1kc90tgn4ucvdv4c9xycktanwz2lna0nfel6244ylqjvhaetfntusnmyu3d/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-WHALE-MNTA        transfer/channel-259/factory/kujira1jsjygyj8hwa4f0p9wwgct4yzmzzexe5x5u6l40l7ty2qzwwwsemqavhk3x/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-SCRT-MNTA         transfer/channel-259/factory/kujira1p7w9ncnnme9yzzhrvzv0hnsa5u5ga06v0ckt7lq9yfap04hc5k9sn2vf6w/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-wstETH.axl-MNTA   transfer/channel-259/factory/kujira1qx3hcr297qmgjt5f6u9peldf4phxqufvmew8d3eey3ns29e8qp3snj6jfu/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-wMATIC.axl-MNTA   transfer/channel-259/factory/kujira1smfdnww47xav4nn849xphku3gk3xp7a24fk533dce8masnsz4v8quklajx/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-UNI.axl-MNTA      transfer/channel-259/factory/kujira1t4mr2xt4ky4mfwcy752chzlquam3hzs44mt8vwyec8mvypmzxu5s90vamt/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-yieldETH.axl-MNTA transfer/channel-259/factory/kujira1u8dluwa4a83q7anz0cgpmma605r07a06f0789ajcl8l0xjrplqss005cgn/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-wBTC.axl-MNTA     transfer/channel-259/factory/kujira1vj39mdwekxznxxa97fv5gt957cghfdqhwju8fdv5ysu0x6vsyhps4zmqjl/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-PAXG.grv-MNTA     transfer/channel-259/factory/kujira1vqdyup9zxxl9gqy5hwh593vvuc84lstldj7qzt7fylf3q3e3uemqlwpg9y/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-wBNB.axl-MNTA     transfer/channel-259/factory/kujira1y24jwsv84lnuv5j78qeqz5ujjpd058qsft7wfc0nk9jvycugm32sqnq53d/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-OSMO-MNTA         transfer/channel-259/factory/kujira1ygperwf0dc9ng2jffj0pwnnray3rscn9el6d78qjtt25qwgqukqszmdwtv/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-INJ-MNTA          transfer/channel-259/factory/kujira1znx048dcc6arqfw6kpckl0k4ts2h7cdx20nk22wz2cxh5vle3wxqknk238/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-stOSMO-OSMO       transfer/channel-259/factory/kujira18sek950cg92gd0kvpj67dfg6p7kee6hzw92etcf2jgufr3mttvaslt5sal/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-wstETH.axl-wETH.axl transfer/channel-259/factory/kujira1lyyeyuw4qgan6nz45thw2m0nmxa457uz7cp9dqw5d9a0h7ccek7qavkm6g/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-qcMNTA-MNTA       transfer/channel-259/factory/kujira1ul00h0a2kgcg9x2yfa86wj9qguhyv7jmpjpw6ztt24j9mn9xjw3slawyc8/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-ampMNTA-MNTA      transfer/channel-259/factory/kujira1vj36ntsqd3msc69lxldcv9dd50jngknmael9e07rz4fpn5kyq0jsglvz2m/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-wETH.axl-USK      transfer/channel-259/factory/kujira1n648rfqqvjxm6c7zgfnfqay85rkapgg0z7da9pnmjazz5m5d7l0qxdtq90/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  NAMI                 transfer/channel-259/factory/kujira13x2l25mpkhwnwcwdzzd34cr8fyht9jlj7xu9g4uffe36g3fmln8qkvm3qn/unami status=Expired  client=07-tendermint-2017 [new entry]
+  NAUSD                transfer/channel-259/factory/kujira18thffdpuz8tm3mwwun4uhks8a2v7ye0jmw3fllqhklma82lqkpms20gh9c/unausd status=Expired  client=07-tendermint-2017 [new entry]
+  MC01                 transfer/channel-259/factory/kujira1mn2pgkggquqm2m44zqlaq29jxwtad53qkv4xy4/MCTest status=Expired  client=07-tendermint-2017 [new entry]
+  AUTO                 transfer/channel-259/factory/kujira13x2l25mpkhwnwcwdzzd34cr8fyht9jlj7xu9g4uffe36g3fmln8qkvm3qn/uauto status=Expired  client=07-tendermint-2017 [new entry]
+  qcDYDX               transfer/channel-259/factory/kujira1seqq2ekz47uqayshqkg5wqx5vcyrmtwcl9vscnwy2gjh7mz5aapsdfxsd5/urcpt status=Expired  client=07-tendermint-2017 [new entry]
+  rKUJI                transfer/channel-259/factory/kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq/urkuji status=Expired  client=07-tendermint-2017 [new entry]
+  LP-ATOM-USK          transfer/channel-259/factory/kujira1yncutssgh2vj9scaymtteg949hwcft07c6qmgarxnaf04yesq3jsn6g2uv/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-wETH.axl-USK.kuji transfer/channel-259/factory/kujira1xwvvjq5w0887v2vz4e83kcu38s0jq8q8lqa3z5hxm295q7y4uejqp24la7/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-SOL.wh-USK        transfer/channel-259/factory/kujira1vcmh95lje5dln782pxckma65eujs4sv960w22whgsp7a2ajsc6lsvnlhgd/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-wETH.axl-USDC     transfer/channel-259/factory/kujira1n4jfv39hzv2dtshzv6gj4hp8rkdy5rrsr7l84lc3x9cahz4v0umq24q3lu/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-DYDX-USK          transfer/channel-259/factory/kujira1lctu7hy65466fxw3tcqf8w45zwrpwgd9chvjqpgyfgcr73k774nsv4ya6t/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-AKT-USDC          transfer/channel-259/factory/kujira1g5st8p6qdyf23zzerjcxgpr2r7a9wzdyaymu79ngg6ve3m9v3n4sdetv4e/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-wBTC-USK          transfer/channel-259/factory/kujira1d7jt9zwlnpvf7sskfm57c77pm9mtwczqre75t9k80ees0v523kasss9htj/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-wBTC.axl-wBTC     transfer/channel-259/factory/kujira1c4e2zk4z0anrufjh64gxtse6e4s5g52fe2ja8ke3r9e0pvpd0z0qws8zsp/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-INJ-USDC          transfer/channel-259/factory/kujira14jwhlsg3az20f7keav2axxj205fyv5j8mp6rv5svqwwll3ls9slq6zwleg/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-ATOM-USDC         transfer/channel-259/factory/kujira13my0qtm2a8jp0wg8uzg49tyn4zcea8scy3dc7ghn8z9eys08yzls49ymdm/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-MNTA-USDC         transfer/channel-259/factory/kujira1742pe93mxm0cwqjxgxh6th9sspdrluqvw9pha9q69eeatue4x5xs0wdq2d/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  LP-MNTA-USK          transfer/channel-259/factory/kujira1xtaadmh06s8u3z5mypp8qayhrnxgga5wr88s7raram4rz8zu37hquf82wk/ulp status=Expired  client=07-tendermint-2017 [new entry]
+  BOON                 transfer/channel-259/factory/kujira1gewwffxhaygxe8tacd3z9h4uyvpd2h7v9qtfmaw8jjhwalxxpd7qlqld4m/boon status=Expired  client=07-tendermint-2017 [new entry]
+  CRE                  transfer/channel-297/ucre                     status=Expired  client=07-tendermint-2083
+  bCRE                 transfer/channel-297/ubcre                    status=Expired  client=07-tendermint-2083 [new entry]
+  TORI                 transfer/channel-362/utori                    status=Expired  client=07-tendermint-2192
+  MEDAS                transfer/channel-87042/umedas                 status=Expired  client=07-tendermint-3353
+  CANTO                transfer/channel-550/acanto                   status=Expired  client=07-tendermint-2481
+  WHALE                transfer/channel-642/uwhale                   status=Expired  client=07-tendermint-2669
+  ASH                  transfer/channel-642/factory/migaloo1erul6xyq0gk6ws98ncj7lnq9l4jn4gnnu9we73gdz78yyl2lr7qqrvcgup/ash status=Expired  client=07-tendermint-2669
+  RAC                  transfer/channel-642/factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/urac status=Expired  client=07-tendermint-2669
+  GUPPY                transfer/channel-642/factory/migaloo1etlu2h30tjvv8rfa4fwdc43c92f6ul5w9acxzk/uguppy status=Expired  client=07-tendermint-2669
+  SHARK                transfer/channel-642/factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/shark status=Expired  client=07-tendermint-2669
+  RSTK                 transfer/channel-642/factory/migaloo1d0uma9qzcts4fzt7ml39xp44aut5k6qyjfzz4asalnecppppr3rsl52vvv/rstk status=Expired  client=07-tendermint-2669
+  OPHIR                transfer/channel-642/factory/migaloo1t862qdu9mj5hr3j727247acypym3ej47axu22rrapm4tqlcpuseqltxwq5/ophir status=Expired  client=07-tendermint-2669
+  ampWHALE             transfer/channel-642/factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE status=Expired  client=07-tendermint-2669 [new entry]
+  bWHALE               transfer/channel-642/factory/migaloo1mf6ptkssddfmxvhdx0ech0k03ktp6kf9yk59renau2gvht3nq2gqdhts4u/boneWhale status=Expired  client=07-tendermint-2669 [new entry]
+  FABLE                transfer/channel-642/factory/migaloo18a9m9stu3dyvewwcq9qmp85euxqcvln5mefync/fable status=Expired  client=07-tendermint-2669 [new entry]
+  lsdSHARK             transfer/channel-642/factory/migaloo1p3aj9f09d7c4jxhgue0hpdpw370j6gzc59nxxx6l8d0gc9f9rfwsdwetus/lsdSHARK status=Expired  client=07-tendermint-2669 [new entry]
+  GASH                 transfer/channel-642/factory/migaloo1r9x8fz4alekzr78k42rpmr9unpa7egsldpqeynmwl2nfvzexue9sn8l5rg/gash status=Expired  client=07-tendermint-2669 [new entry]
+  GRAC                 transfer/channel-642/factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/ugrac status=Expired  client=07-tendermint-2669 [new entry]
+  ampGASH              transfer/channel-642/factory/migaloo1nsskhvvh0msm7d5ke2kfg24a8d4jecsnxd28s27h0uz5kf9ap60shlqmcl/ampGASH status=Expired  client=07-tendermint-2669 [new entry]
+  WHALE-wBTC-WW-LP     transfer/channel-642/factory/migaloo1axtz4y7jyvdkkrflknv9dcut94xr5k8m6wete4rdrw4fuptk896su44x2z/uLP status=Expired  client=07-tendermint-2669 [new entry]
+  WHALEX               transfer/channel-642/factory/migaloo1zsptvkg5aeg4tjksgv7vp4x5s9p5euqrh9jl3sfdv48wtnrhftlszsvmu5/uwhalex status=Expired  client=07-tendermint-2669 [new entry]
+  BLZ                  transfer/channel-763/ubnt                     status=Expired  client=07-tendermint-2754
+  ELT                  transfer/channel-763/uelt                     status=Expired  client=07-tendermint-2754 [new entry]
+  G4                   transfer/channel-763/ug4                      status=Expired  client=07-tendermint-2754 [new entry]
+  RIO                  transfer/channel-1424/ario                    status=Expired  client=07-tendermint-2849
+  RST                  transfer/channel-1424/arst                    status=Expired  client=07-tendermint-2849 [new entry]
+  SHIDO                transfer/channel-73755/shido                  status=Expired  client=07-tendermint-3198
+  ELYS                 transfer/channel-91017/uelys                  status=Expired  client=07-tendermint-3385
+  EDEN                 transfer/channel-91017/ueden                  status=Expired  client=07-tendermint-3385 [new entry]
+  EDENBOOST            transfer/channel-91017/uedenb                 status=Expired  client=07-tendermint-3385 [new entry]
+  NIL                  transfer/channel-98416/unil                   status=Expired  client=07-tendermint-3431
+  MILK                 transfer/channel-89298/umilk                  status=Expired  client=07-tendermint-3364
+  milkBABY             transfer/channel-89298/factory/milk1qg5ega6dykkxc307y25pecuufrjkxkaggkkxh7nad0vhyhtuhw3ssgcye4/umilkBBN status=Expired  client=07-tendermint-3364
+  ARKEO                transfer/channel-103074/uarkeo                status=Expired  client=07-tendermint-3489
+  DRC                  transfer/channel-109096/uDRC                  status=Expired  client=07-tendermint-3669
+
+🟢 FLAG CLEARED (both sides active, entry kept):
+  MNTL                 transfer/channel-232/umntl                    client=07-tendermint-1923
 
 🟡 SKIPPED CLEAR (Osmosis active but counterparty unconfirmed):
   ALTER                transfer/channel-476/cw20:secret12rcvz0umvk875kd6a803txhtlu7y0pnd73kcej counterparty=secretnetwork/channel-44 status=unknown
@@ -26,35 +172,8 @@ No changes needed.
   AMBER                transfer/channel-476/cw20:secret1s09x2xvfd2lp2skgzm29w2xtena7s8fq98v852 counterparty=secretnetwork/channel-44 status=unknown
   SILK                 transfer/channel-476/cw20:secret1fl449muk5yq8dlad7a22nje4p5d2pnsgymhjfd counterparty=secretnetwork/channel-44 status=unknown
   SHD                  transfer/channel-476/cw20:secret153wu605vvp934xhd4k9dtd640zsep5jkesstdm counterparty=secretnetwork/channel-44 status=unknown
-  PICA                 transfer/channel-1279/ppica                   counterparty=composable/channel-3 status=unknown
-  KSM                  transfer/channel-1279/transfer/channel-2/4    counterparty=composable/channel-3 status=unknown
-  DOT.pica             transfer/channel-1279/transfer/channel-2/transfer/channel-15/79228162514264337593543950342 counterparty=composable/channel-3 status=unknown
-  TNKR                 transfer/channel-1279/transfer/channel-2/2125 counterparty=composable/channel-3 status=unknown
-  ETH.pica             transfer/channel-1279/transfer/channel-52/wei counterparty=composable/channel-3 status=unknown
-  DAI.pica             transfer/channel-1279/transfer/channel-52/0x6b175474e89094c44da98b954eedeac495271d0f counterparty=composable/channel-3 status=unknown
-  FXS.pica             transfer/channel-1279/transfer/channel-52/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0 counterparty=composable/channel-3 status=unknown
-  FRAX.pica            transfer/channel-1279/transfer/channel-52/0x853d955acef822db058eb8505911ed77f175b99e counterparty=composable/channel-3 status=unknown
-  USDT.eth.pica        transfer/channel-1279/transfer/channel-52/0xdac17f958d2ee523a2206206994597c13d831ec7 counterparty=composable/channel-3 status=unknown
-  sFRAX.pica           transfer/channel-1279/transfer/channel-52/0xa663b02cf0a4b149d2ad41910cb81e23e1c41c32 counterparty=composable/channel-3 status=unknown
-  frxETH.pica          transfer/channel-1279/transfer/channel-52/0x5e8422345238f34275888049021821e8e08caa1f counterparty=composable/channel-3 status=unknown
-  sfrxETH.pica         transfer/channel-1279/transfer/channel-52/0xac3e018457b222d93114458476f3e3416abbe38f counterparty=composable/channel-3 status=unknown
-  PEPE.pica            transfer/channel-1279/transfer/channel-52/0x6982508145454ce325ddbe47a25d4ec3d2311933 counterparty=composable/channel-3 status=unknown
-  CRV.pica             transfer/channel-1279/transfer/channel-52/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599 counterparty=composable/channel-3 status=unknown
-  ezETH.pica           transfer/channel-1279/transfer/channel-52/0xbf5495efe5db9ce00f80364c8b423567e58d2110 counterparty=composable/channel-3 status=unknown
-  USDe.pica            transfer/channel-1279/transfer/channel-52/0x4c9edd5852cd905f086c759e8383e09bff1e68b3 counterparty=composable/channel-3 status=unknown
-  ENA.pica             transfer/channel-1279/transfer/channel-52/0x57e114b691db790c35207b2e685d4a43181e6061 counterparty=composable/channel-3 status=unknown
-  eETH.pica            transfer/channel-1279/transfer/channel-52/0x35fa164735182de50811e8e2e824cfb9b6118ac2 counterparty=composable/channel-3 status=unknown
-  pxETH.pica           transfer/channel-1279/transfer/channel-52/0x04c154b66cb340f3ae24111cc767e0184ed00cc6 counterparty=composable/channel-3 status=unknown
-  crvUSD.pica          transfer/channel-1279/transfer/channel-52/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e counterparty=composable/channel-3 status=unknown
-  USDT.sol.pica        transfer/channel-1279/transfer/channel-71/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB counterparty=composable/channel-3 status=unknown
-  edgeSOL.pica         transfer/channel-1279/transfer/channel-71/edge86g9cVz87xcpKpy3J77vbp4wYd9idEV562CCntt counterparty=composable/channel-3 status=unknown
-  LST.pica             transfer/channel-1279/transfer/channel-71/LSTxxxnJzKDFSLr4dUkPcmCf5VyryEqzPLz5j4bpxFp counterparty=composable/channel-3 status=unknown
-  jitoSOL.pica         transfer/channel-1279/transfer/channel-71/J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn counterparty=composable/channel-3 status=unknown
-  SOL.pica             transfer/channel-1279/transfer/channel-71/So11111111111111111111111111111111111111112 counterparty=composable/channel-3 status=unknown
-  WHINE                transfer/channel-1279/transfer/channel-71/ATeTQcUkWGs7AZ15mCiFUWCW9EUL7KpDZEHCN1Y8pump counterparty=composable/channel-3 status=unknown
-  UWU.sol.pica         transfer/channel-1279/transfer/channel-71/UwU8RVXB69Y6Dcju6cN2Qef6fykkq6UUNpB15rZku6Z counterparty=composable/channel-3 status=unknown
   PUPPY                transfer/channel-11348/cw20:chihuahua1yl8z39ugle8s02fpwkhh293509q5xcpalmdzc4amvchz8nkexrmsy95gef counterparty=chihuahua/channel-73 status=unknown
 
-IBC_NEWLY_FLAGGED=0
-IBC_NEWLY_CLEARED=0
+IBC_NEWLY_FLAGGED=141
+IBC_NEWLY_CLEARED=1
 IBC_ERRORS=0
