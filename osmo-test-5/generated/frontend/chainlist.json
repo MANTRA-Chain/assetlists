@@ -96,7 +96,7 @@
     },
     {
       "chain_name": "cosmoshubtestnet",
-      "status": "live",
+      "status": "killed",
       "networkType": "testnet",
       "prettyName": "[DEPRECATED] Cosmos Hub Public Testnet, will be sunset 2024-12-01",
       "chain_id": "theta-testnet-001",
@@ -522,7 +522,7 @@
       },
       "feeCurrencies": [
         {
-          "coinDenom": "USDC",
+          "coinDenom": "USDC.n",
           "coinMinimalDenom": "uusdc",
           "coinDecimals": 6,
           "coinGeckoId": "usd-coin",
@@ -541,7 +541,7 @@
           "coinDecimals": 6
         },
         {
-          "coinDenom": "USDC",
+          "coinDenom": "USDC.n",
           "coinMinimalDenom": "uusdc",
           "coinDecimals": 6,
           "coinGeckoId": "usd-coin",
@@ -1323,7 +1323,6 @@
         "coinDenom": "IXO",
         "coinMinimalDenom": "uixo",
         "coinDecimals": 6,
-        "coinGeckoId": "ixo",
         "coinImageUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/impacthub/images/ixo.png"
       },
       "feeCurrencies": [
@@ -1331,7 +1330,6 @@
           "coinDenom": "IXO",
           "coinMinimalDenom": "uixo",
           "coinDecimals": 6,
-          "coinGeckoId": "ixo",
           "coinImageUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/impacthub/images/ixo.png",
           "gasPriceStep": {
             "low": 0.015,
@@ -1345,7 +1343,6 @@
           "coinDenom": "IXO",
           "coinMinimalDenom": "uixo",
           "coinDecimals": 6,
-          "coinGeckoId": "ixo",
           "coinImageUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/impacthub/images/ixo.png"
         }
       ],
@@ -1758,6 +1755,17 @@
             "average": 1.1,
             "high": 3
           }
+        },
+        {
+          "coinDenom": "PWR",
+          "coinMinimalDenom": "factory/manifest1afk9zr2hn2jsac63h4hm60vl9z3e5u69gndzf7c99cqge3vzwjzsfmy9qj/upwr",
+          "coinDecimals": 6,
+          "coinImageUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/manifest/images/manifest.png",
+          "gasPriceStep": {
+            "low": 0.4,
+            "average": 0.5,
+            "high": 1
+          }
         }
       ],
       "currencies": [
@@ -1770,6 +1778,12 @@
         {
           "coinDenom": "MFX",
           "coinMinimalDenom": "umfx",
+          "coinDecimals": 6,
+          "coinImageUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/manifest/images/manifest.png"
+        },
+        {
+          "coinDenom": "PWR",
+          "coinMinimalDenom": "factory/manifest1afk9zr2hn2jsac63h4hm60vl9z3e5u69gndzf7c99cqge3vzwjzsfmy9qj/upwr",
           "coinDecimals": 6,
           "coinImageUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/manifest/images/manifest.png"
         },
@@ -2496,9 +2510,9 @@
     },
     {
       "chain_name": "coreumtestnet",
-      "prettyName": "Coreum",
+      "prettyName": "TX",
       "logo_URIs": {
-        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/coreum/images/coreum.png"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/coreum/images/tx.png"
       }
     },
     {
@@ -2558,6 +2572,13 @@
       "logo_URIs": {
         "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/likecoin/images/like.png",
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/likecoin/images/like.svg"
+      }
+    },
+    {
+      "chain_name": "limonatatestnet",
+      "prettyName": "Limonata Testnet",
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/testnets/limonatatestnet/images/limonatatestnet.png"
       }
     },
     {

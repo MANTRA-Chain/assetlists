@@ -49,7 +49,7 @@
     {
       "base": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
       "name": "USD Coin",
-      "symbol": "USDC",
+      "symbol": "USDC.n",
       "description": "USD Coin",
       "coingeckoID": "usd-coin"
     },
@@ -99,7 +99,6 @@
       "name": "ixo",
       "symbol": "IXO",
       "description": "The native token of IXO Chain",
-      "coingeckoID": "ixo",
       "websiteURL": "https://www.ixo.world/"
     },
     {
@@ -242,11 +241,11 @@
     },
     {
       "base": "ibc/35CA3AB73EF616E989E6DDD91EA33BEBAF77CA710641973028460CCFE69452AB",
-      "name": "Coreum",
-      "symbol": "TESTCORE",
-      "description": "The native token of Coreum",
-      "coingeckoID": "coreum",
-      "websiteURL": "https://www.coreum.com"
+      "name": "TX",
+      "symbol": "TESTTX",
+      "description": "The native token of TX",
+      "coingeckoID": "tx",
+      "websiteURL": "https://tx.org/"
     },
     {
       "base": "ibc/7AF17F89F81663C5EAF71BA3A538D03AEA47921C95ACD2212FF0ED2383A571FE",
@@ -271,7 +270,6 @@
       "name": "Hippo Protocol Testnet",
       "symbol": "HP",
       "description": "The native token of Hippo Protocol.\n\nOne Protocol. Every Patient. Infinite Possibility.",
-      "coingeckoID": "hippo-protocol",
       "websiteURL": "https://hippoprotocol.ai/",
       "twitterURL": "https://x.com/Hippo_Protocol"
     },
@@ -286,7 +284,7 @@
     {
       "base": "ibc/CA190EA88E02B6C5C4DA96414BA2A3A7CF6FE09B074EB9C9E04D272ADC6B253B",
       "name": "USDC",
-      "symbol": "USDC.injectivetestnet",
+      "symbol": "USDC",
       "description": "USDC is a USD-pegged stablecoin available on the Injective testnet."
     },
     {
@@ -379,11 +377,24 @@
       "description": "EKIL is the native token for LikeCoin Testnet"
     },
     {
+      "base": "ibc/63FA8DC3426FEDEA61E47FB273E0D68FCC5201B9E3A99EBD42BE120E105583D9",
+      "name": "Limonata Testnet",
+      "symbol": "LIMO",
+      "description": "LIMO is the native gas and staking token of Limonata, an EVM Layer-1 on the Cosmos SDK.",
+      "websiteURL": "https://limonata.xyz"
+    },
+    {
       "base": "ibc/5E243314983063B40B8E22C77BC07B91BFC88F5ACD9FA2DC874877158793D0D7",
       "name": "Manifest Testnet",
       "symbol": "POA",
       "description": "Proof of Authority token for the Manifest testnet",
       "websiteURL": "https://manifestai.org/"
+    },
+    {
+      "base": "ibc/319F1EB0531381627E4ED3CC07C05B13F9014286A4573B8D8E07239C0A49E8D2",
+      "name": "Manifest Power Token",
+      "symbol": "PWR",
+      "description": "Manifest Power token"
     },
     {
       "base": "ibc/216699D6D81376D5966FC2225DA431C2079344913B2D746FE88DFB16950C4D7E",
@@ -743,8 +754,7 @@
       "base": "ibc/832FFAEEFFC6C81F02812B33B0C79E4708DB8B9EFC19FEBAF5A7DA5A0C3CB978",
       "name": "MANTRA Hongbai Testnet",
       "symbol": "OM",
-      "description": "The native token of MANTRA",
-      "coingeckoID": "mantra-dao"
+      "description": "The native token of MANTRA"
     },
     {
       "base": "ibc/6C59388CEFA3A3DCF4B8011C78844E3665BC0021C125E5DA44DF4DACD1D677D0",
