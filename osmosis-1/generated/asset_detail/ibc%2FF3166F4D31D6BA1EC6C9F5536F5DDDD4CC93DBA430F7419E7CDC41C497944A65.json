@@ -1,10 +1,10 @@
 {
   "localization": "en",
-  "name": "Coreum",
-  "symbol": "COREUM",
-  "coingeckoID": "coreum",
-  "websiteURL": "https://www.coreum.com/",
-  "twitterURL": "https://x.com/CoreumOfficial",
+  "name": "TX",
+  "symbol": "TX",
+  "coingeckoID": "tx",
+  "websiteURL": "https://tx.org/",
+  "twitterURL": "https://x.com/txEcosystem",
   "description": {
     "en": "The native token of Coreum",
     "de": "Das native Token von Coreum",
