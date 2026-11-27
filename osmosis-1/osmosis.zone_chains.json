@@ -1546,6 +1546,12 @@
       "rpc": "https://rpc.explorer.shareri.ng",
       "rest": "https://lcd.explorer.shareri.ng/",
       "explorer_tx_url": "https://explorer.shareri.ng/transactions/${txHash}"
+    },
+    {
+      "chain_name": "paxi",
+      "rpc": "https://mainnet-rpc.paxinet.io",
+      "rest": "https://mainnet-lcd.paxinet.io",
+      "explorer_tx_url": "https://explorer.paxinet.io/tx/${txHash}"
     }
   ]
 }
